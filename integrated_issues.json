@@ -1,0 +1,2048 @@
+[
+  {
+    "id": "integrated-au-sydney",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
+    "country": "호주 (시드니)",
+    "flag": "🇦🇺",
+    "lat": -33.9,
+    "lng": 151.2,
+    "dx": -52,
+    "dy": 28,
+    "title": "호주 시드니 1.2조원 AI 데이터센터 백지화 & 글로벌 전력 인프라 쇼크",
+    "shortTitle": "시드니 AI센터 백지화",
+    "live": {
+      "headline": "호주 시드니 1.2조원 규모 AI 데이터센터 계획 전격 백지화…전력망·환경 규제 직격탄",
+      "time": "최신 갱신",
+      "summary": [
+        "시드니 서부에 추진되던 12억 달러(약 1.2조 원) 규모의 초대형 AI 데이터센터 프로젝트가 전격 철회",
+        "막대한 전력 소비와 탄소 배출 규제, 지역 주민들의 강력한 반발에 직면",
+        "호주 상원, 앤트로픽(Anthropic) 등 AI 기업의 전력망 과부하와 데이터 보호 청문회 본격 착수"
+      ],
+      "detail": "호주 시드니에서 추진되던 대규모 AI 데이터센터 구축 계획이 환경 및 전력망 규제로 인해 전격 취소되었습니다.",
+      "sources": [
+        {
+          "title": "Plan for controversial $1.2bn datacentre in Sydney scrapped",
+          "url": "https://www.theguardian.com/australia-news",
+          "media": "Guardian Australia / ABC News"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "AI 인프라의 전력망 역습과 호주의 핵심광물·에너지 패권 전략",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "생성형 AI 확산에 따른 데이터센터 전력 수요가 국가 전력망 한계를 초과하는 '전력 쇼크' 본격화",
+        "호주는 세계 최대 리튬·희토류 매장국으로서 친환경 에너지와 광물 자원을 무기화하는 자원 민족주의 강화",
+        "빅테크 기업들의 SMR(소형 모듈 원자로) 등 차세대 전력 수급 전략과 호주-미국 광물 동맹의 미래"
+      ],
+      "detail": "시드니의 AI 데이터센터 프로젝트 백지화는 단순한 지역 인허가 문제를 넘어, 전 세계가 직면한 AI 연산 능력 vs 전력 인프라의 구조적 모순을 극명하게 보여줍니다. 호주는 풍부한 재생에너지와 핵심 광물을 바탕으로 글로벌 공급망의 핵심 키를 쥐고 있습니다.",
+      "sources": [
+        {
+          "title": "호주 핵심광물 전략과 글로벌 공급망 분석 보고서",
+          "url": "https://www.abc.net.au/news",
+          "media": "글로벌 모니터 심층 칼럼"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Australia",
+      "AU"
+    ],
+    "relatedNews": [
+      {
+        "title": "호주 시드니 '주택 20m 옆' 데이터센터 계획, 주민 반발에 좌초",
+        "category": "경제·테크",
+        "media": "연합뉴스 국제",
+        "time": "30분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930148400084",
+        "summary": "(하노이=연합뉴스) 박진형 특파원 = 호주 최대 부동산 기업이 시드니 교외 주택가 근처에 인공지능(AI) 데이터센터를 지으려다가 주민들의 거센 ..."
+      },
+      {
+        "title": "\"앤트로픽, 10년간 구매약정 702조원…이중 80%는 취소불가\"",
+        "category": "경제·테크",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930126300009",
+        "summary": "(서울=연합뉴스) 주종국 기자 = 앤트로픽이 6개 파트너 기업들과 맺은 클라우드·컴퓨팅·인프라 약정에서 향후 10년간 최소 5천180억달러(약 ..."
+      },
+      {
+        "title": "트럼프 만찬에 中CEO들 빠진 이유는…\"상호주의·대미투자 이견\"",
+        "category": "경제·테크",
+        "media": "연합뉴스 국제",
+        "time": "4시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930098000009",
+        "summary": "(서울=연합뉴스) 권숙희 기자 = 미국 백악관에서 열린 도널드 트럼프 대통령 주재 국빈 만찬에 중국 기업인들이 초대받지 못한 것은 상호주의와 대..."
+      },
+      {
+        "title": "SK이노 E&S, 호주LNG 매년 130만t 확보…중동 대신 안전한 뱃길",
+        "category": "경제·테크",
+        "media": "연합뉴스 경제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260929168200003",
+        "summary": "(다윈[호주]=연합뉴스) 임성호 기자 = 국내 최대 민간 발전사업자인 SK이노베이션 E&amp;S가 호주 등 해외 공급원에서 확보한 액화천연가스..."
+      },
+      {
+        "title": "호주 상원, 앤트로픽 등 빅테크 전력망 과부하 및 데이터 보호 청문회 본격 착수",
+        "category": "정치·테크",
+        "media": "ABC News Australia",
+        "time": "2시간 전",
+        "url": "https://www.abc.net.au/news",
+        "summary": "빅테크 AI 데이터센터가 일반 가정용 전력망에 미치는 영향과 환경 규제 기준을 재검토하기 위한 상원 특별 청문회 개시."
+      }
+    ]
+  },
+  {
+    "id": "integrated-germany-ecb",
+    "category": "economy",
+    "categoryName": "경제·산업",
+    "color": "#ef4444",
+    "country": "독일 (프랑크푸르트)",
+    "flag": "🇩🇪",
+    "lat": 51.1,
+    "lng": 10.4,
+    "dx": 15,
+    "dy": -60,
+    "title": "독일 제조업 침체·ECB 금리 인하 기대 & EU 에너지 대란과 빅테크 규제",
+    "shortTitle": "독일 침체·ECB 금리",
+    "live": {
+      "headline": "독일 제조업 PMI 연속 위축…유럽중앙은행(ECB) 10월 추가 금리인하 기대감",
+      "time": "최신 갱신",
+      "summary": [
+        "독일의 핵심 제조업 구매관리지수(PMI)가 장기 위축 국면을 지속하며 유럽 최대 경제의 침체 경고음",
+        "유로존 인플레이션이 1%대로 둔화됨에 따라 ECB의 선제적 기준금리 추가 인하 가능성 급부상",
+        "폭스바겐 등 독일 대표 완성차 및 화학 대기업들의 공장 폐쇄 및 구조조정 압박 심화"
+      ],
+      "detail": "유럽 최대 경제국인 독일의 제조업 위축이 장기화되며 ECB가 추가 금리 인하를 단행할 가능성이 커지고 있습니다.",
+      "sources": [
+        {
+          "title": "ECB interest rate cut bets rise as German business morale slumps",
+          "url": "https://www.bbc.com/news/business",
+          "media": "BBC Business / Reuters"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "유럽 에너지 대란의 그늘 & 美 빅테크 압박과 독자 외교 전략",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "러시아산 저가 천연가스 단절 이후 유럽 제조업의 에너지 원가 경쟁력이 영구적으로 훼손",
+        "EU 디지털시장법(DMA)·인공지능법(AI Act) 시행으로 미국 빅테크에 대한 강력한 반독점 과징금 공세",
+        "녹색 전환(Green Deal) 추진 과정에서 발생하는 농민·산업계 반발과 극우 포퓰리즘 세력의 부상"
+      ],
+      "detail": "독일과 유럽연합은 에너지 위기와 기술 주권 상실이라는 이중고에 직면해 있습니다. 제조업 경쟁력 회복을 위해 재생에너지 전환을 서두르는 한편, 미국 빅테크에 대한 규제를 강화하며 독자적인 디지털 생태계 구축을 시도하고 있습니다.",
+      "sources": [
+        {
+          "title": "EU 제조업 경쟁력 보고서와 빅테크 규제 영향 분석",
+          "url": "https://www.dw.com/en/business",
+          "media": "EU 정책 연구소 심층 리포트"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Germany",
+      "DE"
+    ],
+    "relatedNews": [
+      {
+        "title": "파산 몰렸던 독일 라이카, 1000만원짜리 ‘프리미엄 디카’로 부활 - 조선일보",
+        "category": "경제·산업",
+        "media": "구글 뉴스 테크",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGNmV1VJYVNfZWdIaTdMY3BPakc0Znk4MFc5WDN3bVpJN095Z1RSVjJtRUtPZ2w2MW1aeWc3WnNWc3dIVURabDd0YkxQMVZRS1pkaTZpNHg3cS1KbjhSeEQ1UjM5dGdZdkRVM1VWRHB6VDhYZVVnSjJNQlVsTm1GT3IwRQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGNmV1VJYVNfZWdIaTdMY3BPakc0Znk4MFc..."
+      },
+      {
+        "title": "폭스바겐, 독일 내 완성차 공장 2곳 폐쇄 검토…노조와 창사 이래 최대 격돌",
+        "category": "산업·노동",
+        "media": "Handelsblatt",
+        "time": "3시간 전",
+        "url": "https://www.handelsblatt.com",
+        "summary": "전기차 수요 둔화와 중국산 저가 전기차 공세 속에 독일 핵심 완성차 공장 폐쇄와 고용 보장 철회 논란 가열."
+      },
+      {
+        "title": "독일 연방정부, 재생에너지 전환 보조금 삭감안 의회 통과 진통",
+        "category": "경제·환경",
+        "media": "Der Spiegel",
+        "time": "어제",
+        "url": "https://www.spiegel.de",
+        "summary": "재정 건전성 유지를 위한 2025년도 예산안 심사에서 녹색 전환 예산 축소를 둘러싼 신호등 연정 내부 갈등 격화."
+      },
+      {
+        "title": "독일 국방부, 우크라이나 방공 미사일 패트리어트 2개 포대 추가 지원 확정",
+        "category": "안보·외교",
+        "media": "Deutsche Welle",
+        "time": "1일 전",
+        "url": "https://www.dw.com",
+        "summary": "동유럽 안보 수호와 겨울철 에너지 인프라 방어를 위한 대규모 방공 체계 추가 공급 합의."
+      }
+    ]
+  },
+  {
+    "id": "integrated-uk-london",
+    "category": "politics",
+    "categoryName": "안보·사회",
+    "color": "#3b82f6",
+    "country": "영국 (런던)",
+    "flag": "🇬🇧",
+    "lat": 51.5,
+    "lng": -0.1,
+    "dx": -48,
+    "dy": -22,
+    "title": "런던 지하철 대테러 용의자 긴급 검거 & 브렉시트 후유증과 만성 경제 침체",
+    "shortTitle": "런던 대테러 긴급 검거",
+    "live": {
+      "headline": "런던 지하철 대테러 긴급 수색 작전…폭발물 소지 의심 용의자 전격 체포",
+      "time": "최신 갱신",
+      "summary": [
+        "런던 시내 주요 환승 지하철역에서 무장 경찰 특공대가 투입되어 대테러 용의자 검거",
+        "주요 런던 랜드마크 및 대중교통 거점에 최고 수준의 경계 태세 발령",
+        "영국 내무부, 최근 급증하는 극단주의 위협에 대응해 공공장소 보안 강화 조치 발표"
+      ],
+      "detail": "영국 런던에서 대규모 테러 시도를 사전 차단하며 경찰 특공대가 긴급 작전을 펼쳤습니다.",
+      "sources": [
+        {
+          "title": "Counter-terror police arrest man at central London station",
+          "url": "https://www.bbc.com/news/business",
+          "media": "BBC News / Sky News"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "브렉시트(Brexit) 4년의 청구서: 만성적 노동력 부족과 영국 경제의 구조적 위기",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "EU 탈퇴 이후 유럽 본토와의 무역 장벽 및 까다로운 이민 규제로 인한 전방위적 인력난 심화",
+        "국민보건서비스(NHS) 붕괴 위기와 공공부문 총파업으로 인한 사회적 피로도 누적",
+        "새 노동당 정부의 유럽 단일시장과의 관계 재설정 모색 및 재정 적자 해결 딜레마"
+      ],
+      "detail": "브렉시트 이후 영국 경제는 무역 감소, 투자 부진, 노동력 부족이라는 삼중고를 겪고 있습니다. 런던 금융 중심지의 위상이 약화되고 공공 인프라 투자가 위축되면서, 영국 정부는 재정 건전성과 복지 유지 사이에서 극심한 정책적 한계에 부딪히고 있습니다.",
+      "sources": [
+        {
+          "title": "브렉시트 이후 영국 거시경제 구조 변화 분석",
+          "url": "https://www.theguardian.com/business/economics",
+          "media": "영국 경제정책 연구소"
+        }
+      ]
+    },
+    "countryAliases": [
+      "United Kingdom",
+      "GB"
+    ],
+    "relatedNews": [
+      {
+        "title": "이란 테러범? 휘발유 절도범?…英공군기지 테러모의 미스터리",
+        "category": "안보·사회",
+        "media": "연합뉴스 국제",
+        "time": "46분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930145000009",
+        "summary": "(서울=연합뉴스) 신유리 기자 = 영국 시골 마을에서 지난 주말 벌어진 '수상한 차량' 신고를 놓고 테러 공포가 불거진 사이 바다 건너 미국과 ..."
+      },
+      {
+        "title": "사우디, 후티 공세 탓 앙숙돼가던 UAE와 화해 추진 - 연합뉴스",
+        "category": "안보·사회",
+        "media": "구글 뉴스 세계",
+        "time": "5시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94N3B6M3NzQzdSaEZ5LWZFMnZROHVQeVRPR3RYUk1KUThKMXJRWnZyQlNVal9IZnk5ZXBCbVl2eFMxalpqWVphZmFTanpxRkdUMjU3TEFOVjZKV1nSAWBBVV95cUxPVDdscDlZUnBIanp6bjVKbVFVaVNkTDlwZTUyd0xGSmxXWnFpa0ttczNjM29oaFAxT1BpS3BRSjVIcmJNd2FrN2R5YmZtWkZlNnVuajRaam9IVWF5c0ZmTUw?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94N3B6M3NzQzdSaEZ5LWZFMnZROHV..."
+      },
+      {
+        "title": "북한 핵위협 현실화 논쟁…전문가들 \"재래식 전력만으로는 한계, 한국 안보전략 재검토 필요\" - sisaworld.kr",
+        "category": "안보·사회",
+        "media": "구글 뉴스 세계",
+        "time": "6시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cXZXWlFuQ1ZNUThqZmNTUk8zdHlYbDVlWjJ5eUQzb1hYSzd0Ui1yQk1hV0FHN0JyV3NFX1lGTFZyX1ZHc0JWcUNNcVZ3RzVzMU02NlAzSHlCRjkzWnBsLTJvY3E0c0VBekE?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE45cXZXWlFuQ1ZNUThqZmNTUk8zdHl..."
+      },
+      {
+        "title": "루비오 미 국무 “영국 공군기지 인근 사건에 외국 세력 관여” - voakorea.com",
+        "category": "안보·사회",
+        "media": "구글 뉴스 세계",
+        "time": "13시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zMWFGcW5NNktNV29Bay1OUkFRaVpBaDM2QTlhQU50eVQ5LTVrbjFvTlYxOUpob09heTRlNVkwZTNpZ0pRYlpRRm5RQmkxTW9F0gFTQVVfeXFMTVRKS3ZUNnRhZElna2FZNDN0ZHhaTi1feERtVnlnaHQ0b1pvaE5JWTg0YUdyVmc0U1dkc1hVeFBlQVZreElPekpEVmVvY1RSSDhUbWM?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zMWFGcW5NNktNV29Bay1OUkFRaVp..."
+      },
+      {
+        "title": "영국 영란은행(BOE), 추가 금리 인하 신중론…서비스 물가 둔화세 주시",
+        "category": "금융·경제",
+        "media": "Financial Times",
+        "time": "2시간 전",
+        "url": "https://www.ft.com",
+        "summary": "베일리 영란은행 총재, 서비스업 임금 상승세가 완전히 잡힐 때까지 금리 인하 속도를 조절하겠다고 발언."
+      }
+    ]
+  },
+  {
+    "id": "integrated-ukraine-drone",
+    "category": "politics",
+    "categoryName": "안보·국제",
+    "color": "#3b82f6",
+    "country": "우크라이나 (키이우)",
+    "flag": "🇺🇦",
+    "lat": 50.4,
+    "lng": 30.5,
+    "dx": 48,
+    "dy": -24,
+    "title": "러 드론 관저 피격 & 러-우 전쟁 장기화 시나리오와 글로벌 곡물 인플레",
+    "shortTitle": "러 드론 피격·포로 교환",
+    "live": {
+      "headline": "러시아 장거리 자폭 드론, 키이우 대통령 관저 인근 강타…사우디 중재 포로 200명 맞교환",
+      "time": "최신 갱신",
+      "summary": [
+        "러시아군의 대규모 샤헤드 드론 공습으로 우크라이나 수도 키이우 정부 청사 인근 방공망 가동",
+        "사우디아라비아와 UAE의 비밀 중재로 양측 전쟁 포로 206명 전격 교환 성사",
+        "젤렌스키 대통령, 서방 장거리 미사일의 러시아 본토 타격 승인 재차 강력 촉구"
+      ],
+      "detail": "우크라이나 수도 키이우 중심부에 러시아 드론이 낙하하며 긴장이 최고조에 달한 가운데, 중동 국가의 중재로 대규모 포로 교환이 이루어졌습니다.",
+      "sources": [
+        {
+          "title": "Ukraine and Russia exchange 206 prisoners in deal mediated by UAE",
+          "url": "https://www.reuters.com/world/europe/",
+          "media": "Reuters / AP"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "러시아-우크라이나 소모전 고착화와 흑해 곡물 수출길 봉쇄에 따른 식량 안보 위기",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "전선이 드론·전자전 중심의 소모적 진지전으로 고착화되며 종전 협상 난항 지속",
+        "흑해 항만 및 에너지 인프라 파괴로 우크라이나의 밀·옥수수 수출이 급감, 글로벌 식품 인플레 재자극",
+        "서방의 지속적인 군사 지원 피로감과 미국의 대선 결과에 따른 지정학적 불확실성 증대"
+      ],
+      "detail": "러시아-우크라이나 전쟁은 단순한 국경 분쟁을 넘어 글로벌 에너지 및 식량 공급망을 영구적으로 뒤흔들고 있습니다. 흑해 회랑의 불안정으로 아프리카와 중동 국가들의 기아 위기가 심화되고 있으며, 방위산업 재편과 냉전식 진영 대립이 고착화되고 있습니다.",
+      "sources": [
+        {
+          "title": "러-우 전쟁 장기화와 글로벌 공급망 안보 리포트",
+          "url": "https://www.ukrinform.net",
+          "media": "국제전략문제연구소(IISS)"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Ukraine",
+      "UA"
+    ],
+    "relatedNews": [
+      {
+        "title": "\"우크라, 공습경보 때마다 시간당 610억원 손실\"",
+        "category": "안보·국제",
+        "media": "연합뉴스 국제",
+        "time": "17분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930147200009",
+        "summary": "(서울=연합뉴스) 송진원 기자 = 러시아의 미사일 공습경보에 우크라이나 경제가 반복적으로 마비되면서 시간당 610억원 규모의 경제 손실이 나고 ..."
+      },
+      {
+        "title": "안전지대 사라진 키이우…도심 정부·외교시설 잇달아 피격(종합) - 연합뉴스",
+        "category": "안보·국제",
+        "media": "구글 뉴스 세계",
+        "time": "16시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdEhLMkp6QVM3TjFRZmM4LUNxd2NpQ2E0VF9jZTJhb3lQNV9FS21YSk9qU0JtWldqQ3diLWR3WFJQUVFHY1Fwa2lwdTBlMUxjN2JjTEJEYzdEdjTSAWBBVV95cUxOQWEzVFo4VmpGbVRydzE2YzJEWU00MjRSa3VyY28yQ081VDFueWVqQXE0aEJZN0xZUEw1WDFsWE1sNFNZajNpN3djeFNjcXN5Ml9WUnRFQ2o4U2x1cGVCS3Y?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdEhLMkp6QVM3TjFRZmM4LUNxd2N..."
+      },
+      {
+        "title": "터미네이터 군단의 현실화?...로봇 공중 강습 부대로 공격하는 우크라이나 - 한국일보",
+        "category": "안보·국제",
+        "media": "구글 뉴스 세계",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QcFlxYkZTOFg3U0lsWjRMUlY1dW4zLXFyQl92dTFUV1Yya1hpT2NPVkZQZnFvQ3haMzJKTWt6eU5ZYkZ3VFAzWVludzk5YVoxc1VNaWVZaXhQaFdWSE1idHBPVzNpTWJzdENEZGxB0gFzQVVfeXFMTUd3ZVQtSjNqX1JOQWxucVdiTl9VclFvRDZMcjdaYWJLbF8xRkd5UmZXeVJaSnJCbURsc0lsNFhXcTF5a3VZYUhMS1pRWjRTRmJzVEdnOVdzS2E3dkVWSEhIR0FyNDBtZEotRDVsSENFdUVwaw?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1QcFlxYkZTOFg3U0lsWjRMUlY1dW4..."
+      },
+      {
+        "title": "흑해 오데사 항구 곡물 수송선 2척 무사 출항…우크라이나 해상 회랑 정상 가동",
+        "category": "경제·식량",
+        "media": "Reuters",
+        "time": "4시간 전",
+        "url": "https://www.reuters.com",
+        "summary": "러시아 해군의 위협 속에서도 독자적 흑해 인도주의 항로를 통해 10만 톤 규모의 농산물 아프리카 수출 성공."
+      },
+      {
+        "title": "우크라이나 전력망 70% 복구 완료…겨울철 혹한 대비 난방 비상 체제 돌입",
+        "category": "안보·사회",
+        "media": "Ukrinform",
+        "time": "어제",
+        "url": "https://www.ukrinform.net",
+        "summary": "러시아 미사일 폭격으로 파괴된 변전소와 열병합 발전소의 긴급 복구 작업 및 서방 긴급 발전기 배치 완료."
+      }
+    ]
+  },
+  {
+    "id": "integrated-fr-senate",
+    "category": "politics",
+    "categoryName": "정치·사회",
+    "color": "#3b82f6",
+    "country": "프랑스 (파리)",
+    "flag": "🇫🇷",
+    "lat": 48.8,
+    "lng": 2.3,
+    "dx": -48,
+    "dy": 14,
+    "title": "프랑스 극우 상원 돌풍(14석) & 연금 개혁 갈등과 마크롱의 정치적 위기",
+    "shortTitle": "프랑스 극우 상원 돌풍",
+    "live": {
+      "headline": "프랑스 상원 간접선거서 극우 국민연합(RN) 역대 최다 14석 확보…마크롱 개혁 동력 상실",
+      "time": "최신 갱신",
+      "summary": [
+        "지방의원들이 선출하는 프랑스 상원 선거에서 르펜이 이끄는 극우 정당이 14석을 차지하며 사상 최대 약진",
+        "마크롱 대통령의 여당 연합이 과반 확보에 완전히 실패하며 국정 운영 마비 상태 직면",
+        "예산안 통과 및 이민 규제 강화를 둘러싼 극우-좌파 연합의 총리 불신임안 공세 임박"
+      ],
+      "detail": "프랑스 상원 선거에서 극우 정당이 돌풍을 일으키며 마크롱 정부의 국정 주도권이 심각하게 흔들리고 있습니다.",
+      "sources": [
+        {
+          "title": "French far-right National Rally wins record seats in Senate",
+          "url": "https://www.france24.com/en/france/",
+          "media": "France 24 / Le Monde"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "프랑스 연금 개혁 강행의 후폭풍: 사회적 분열과 유럽 극우 포퓰리즘의 확산",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "정년 연장(62세→64세)에 반대하는 대규모 총파업과 거리 시위가 누적되며 마크롱 리더십 실추",
+        "재정 건전성 확보라는 목표에도 불구하고, 국민적 공감대 결여로 인한 민주주의 정당성 위기",
+        "경제적 불평등과 치안 불안을 파고드는 극우 포퓰리즘 세력의 제도권 정치 완전 장악"
+      ],
+      "detail": "프랑스의 정치적 혼란은 고령화 사회의 복지 지속 가능성과 대중적 반발 사이의 구조적 충돌을 보여줍니다. 마크롱 대통령의 독단적인 헌법 제49조 3항(의회 표결 패스) 남용이 중도파의 궤멸과 극단 세력의 득세를 가속화하고 있습니다.",
+      "sources": [
+        {
+          "title": "프랑스 연금 개혁과 정치 지형 변화 심층 분석",
+          "url": "https://www.lemonde.fr/en/",
+          "media": "르몽드 기획 리포트"
+        }
+      ]
+    },
+    "countryAliases": [
+      "France",
+      "FR"
+    ],
+    "relatedNews": [
+      {
+        "title": "[영상] 공교육에 분노한 프랑스 고교생 전국 시위…부상자 속출",
+        "category": "정치·사회",
+        "media": "연합뉴스 국제",
+        "time": "10분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930152700704",
+        "summary": "(서울=연합뉴스) 프랑스 곳곳에서 공교육에 불만을 품은 고교생들이 동시다발로 거리로 뛰쳐나가 불을 지르고 학교를 봉쇄하면서 경찰과 충돌이 속출했..."
+      },
+      {
+        "title": "바르니에 신임 프랑스 총리, 재정 적자 축소 위한 대기업·부유세 한시 증세 발표",
+        "category": "경제·정치",
+        "media": "Le Monde",
+        "time": "3시간 전",
+        "url": "https://www.lemonde.fr",
+        "summary": "EU 재정 준칙 초과(GDP 대비 5.5% 적자)에 대응해 600억 유로 규모의 지출 삭감 및 부유층 임시 과세안 제시."
+      },
+      {
+        "title": "프랑스 전력공사(EDF), 차세대 원자로(EPR) 6기 건설 프로젝트 본격 착수",
+        "category": "에너지·산업",
+        "media": "Les Echos",
+        "time": "어제",
+        "url": "https://www.lesechos.fr",
+        "summary": "원전 르네상스를 통한 탄소 중립과 유럽 전력 수출 허브 유지를 위해 신규 대형 원전 부지 인허가 절차 완료."
+      },
+      {
+        "title": "파리 루브르 박물관 및 베르사유궁, 테러 경계 최고 단계 유지 속 관광객 보안 검색 강화",
+        "category": "사회·문화",
+        "media": "France 24",
+        "time": "2일 전",
+        "url": "https://www.france24.com",
+        "summary": "유럽 내 안보 긴장 고조에 따라 주요 문화 유적지에 군 특공대 순찰 및 AI 지능형 CCTV 감시 시스템 가동."
+      }
+    ]
+  },
+  {
+    "id": "integrated-serbia-vucic",
+    "category": "politics",
+    "categoryName": "정치·외교",
+    "color": "#3b82f6",
+    "country": "세르비아 (베오그라드)",
+    "flag": "🇷🇸",
+    "lat": 44.8,
+    "lng": 20.4,
+    "dx": 24,
+    "dy": 8,
+    "title": "세르비아 대규모 반정부 시위 & 유럽 최대 리튬 광산 개발과 발칸 외교 줄타기",
+    "shortTitle": "세르비아 대규모 시위",
+    "live": {
+      "headline": "세르비아 수도 베오그라드 10만 군중 총파업…부치치 대통령 조기 퇴진 및 재선거 요구",
+      "time": "실시간 속보",
+      "summary": [
+        "부패 척결과 공영방송 개혁, 리튬 광산 채굴 승인 철회를 요구하는 시민들의 국회 포위 시위",
+        "부치치 대통령, 국가 비상사태 검토 및 집회 강제 해산 경고로 긴장 극대화",
+        "EU 집행위, 세르비아 정부의 표현의 자유 침해와 경찰 폭력에 깊은 우려 표명"
+      ],
+      "detail": "세르비아 수도에서 10만 명 이상의 시민들이 거리로 쏟아져 나와 대통령 퇴진을 요구하고 있습니다.",
+      "sources": [
+        {
+          "title": "Tens of thousands protest in Belgrade against Vucic government",
+          "url": "https://www.reuters.com/world/europe/",
+          "media": "Reuters / Balkan Insight"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "유럽 최대 자다르(Jadar) 리튬 광산 개발 갈등과 세르비아의 친러·친서방 줄타기",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "EU의 배터리 자립을 위한 핵심 프로젝트인 리튬 광산 개발이 세르비아 환경 파괴 논란으로 전면 중단 위기",
+        "전통적 우방인 러시아와의 에너지·안보 유대와 EU 가입을 위한 개혁 요구 사이의 극심한 외교적 줄타기",
+        "코소보 분쟁을 둘러싼 민족주의적 선동과 권위주의 정권의 생존 전략"
+      ],
+      "detail": "세르비아는 유럽의 미래 산업에 필수적인 리튬 매장지이지만, 광산 개발을 둘러싼 대규모 환경 저항과 서방-러시아 간의 세력 다툼이 결합되어 발칸반도의 새로운 화약고로 떠오르고 있습니다.",
+      "sources": [
+        {
+          "title": "발칸반도 리튬 갈등과 지정학 분석 보고서",
+          "url": "https://balkaninsight.com",
+          "media": "발칸 인사이트 특별 기획"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Serbia",
+      "RS"
+    ],
+    "relatedNews": [
+      {
+        "title": "세르비아 환경단체, 수도 베오그라드 주요 간선도로 봉쇄하며 리튬 채굴 영구 금지 요구",
+        "category": "사회·환경",
+        "media": "Balkan Insight",
+        "time": "2시간 전",
+        "url": "https://balkaninsight.com",
+        "summary": "리오틴토사의 리튬 광산 개발 재개 승인에 반발해 수만 명의 시민들이 도심 교통을 마비시키며 무기한 농성."
+      },
+      {
+        "title": "부치치 대통령, 푸틴 러시아 대통령과 천연가스 공급 계약 연장 긴급 유선 회담",
+        "category": "외교·에너지",
+        "media": "TASS / Reuters",
+        "time": "어제",
+        "url": "https://www.reuters.com",
+        "summary": "서방 제재 속에서도 세르비아는 저가 러시아 천연가스 장기 도입 협정을 갱신하며 전략적 친러 기조 확인."
+      },
+      {
+        "title": "EU 집행위, 세르비아의 민주주의 개혁과 사법권 독립 이행 상태 현지 실사",
+        "category": "정치·외교",
+        "media": "EURACTIV",
+        "time": "3일 전",
+        "url": "https://www.euractiv.com",
+        "summary": "언론 탄압과 선거 부정 의혹에 대한 EU의 평가가 세르비아의 가입 협상 속도에 직접적 영향을 미칠 전망."
+      }
+    ]
+  },
+  {
+    "id": "integrated-spain-housing",
+    "category": "economy",
+    "categoryName": "사회·환경",
+    "color": "#ef4444",
+    "country": "스페인 (마드리드)",
+    "flag": "🇪🇸",
+    "lat": 40.4,
+    "lng": -3.7,
+    "dx": -45,
+    "dy": 28,
+    "title": "스페인 마드리드 대규모 주거권 시위 & 500년 만의 가뭄과 남유럽 RE100",
+    "shortTitle": "마드리드 주거권 시위",
+    "live": {
+      "headline": "스페인 마드리드 수만 명 주거권 시위…\"관광객용 단기 임대 규제하고 월세 내려라\"",
+      "time": "최신 갱신",
+      "summary": [
+        "외국인 관광객 급증과 에어비앤비 등 투기 자본 유입으로 월세가 전년 대비 20% 이상 폭등",
+        "청년층과 서민층이 마드리드 시내 광장에 모여 민간 임대료 상한제 도입 강력 촉구",
+        "스페인 정부, 불법 단기 임대 등록 플랫폼 전수 조사 및 세제 혜택 박탈 방침 발표"
+      ],
+      "detail": "스페인 수도 마드리드에서 폭등하는 주거비와 과잉 관광(Overtourism)에 항의하는 대규모 도심 시위가 열렸습니다.",
+      "sources": [
+        {
+          "title": "Thousands march in Madrid demanding affordable housing and lower rents",
+          "url": "https://www.theguardian.com/world/spain",
+          "media": "The Guardian / El País"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "유럽 RE100의 시험대 스페인: 500년 만의 최악 가뭄과 남유럽 경제의 이중 위기",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "국토의 27%가 극심한 가뭄 경보에 처하며 올리브유·농산물 생산량이 반토막 나고 농가 파산 속출",
+        "수력 발전량 급감에도 불구하고 풍력·태양광 등 신재생에너지 인프라를 바탕으로 유럽의 청정 에너지 허브로 도약",
+        "주거비 폭등과 기후 재난이 맞물리며 남유럽 청년 세대의 실업 및 삶의 질 저하 문제 심화"
+      ],
+      "detail": "스페인은 유럽의 재생에너지 모범국으로 꼽히지만, 기후변화에 따른 극한 가뭄과 과잉 관광으로 인한 주거 불안정이 동시에 닥치면서 사회적 회복 탄력성이 시험대에 올랐습니다.",
+      "sources": [
+        {
+          "title": "스페인 기후위기와 신재생에너지 전환 심층 리포트",
+          "url": "https://english.elpais.com",
+          "media": "엘파이스 경제 리서치"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Spain",
+      "ES"
+    ],
+    "relatedNews": [
+      {
+        "title": "‘87살 강제퇴거’에 분노 폭발…스페인 정부, 2030년까지 강제퇴거 금지 추진 - 한겨레",
+        "category": "사회·환경",
+        "media": "구글 뉴스 세계",
+        "time": "59분 전",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeE5TRVNlYU10WjN6eHlvT1JocURMUWNWSFNuTVF0NEpiV2FaeDVfem53VzZ5d2V6ZnZYbHN5SzRnQVhGLW44WUREWUotY1NHLXBycmlXdW1KVV8xZm9fS21JWWpTb1pILUU3aVYzNHRtMkd6U0dUNVVJcVhCb0dNLXV3?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeE5TRVNlYU10WjN6eHlvT1JocURMUWNWSFN..."
+      },
+      {
+        "title": "바르셀로나시, 2028년까지 시내 1만 채 관광객용 단기 임대 아파트 전면 취소 확정",
+        "category": "사회·부동산",
+        "media": "El País",
+        "time": "4시간 전",
+        "url": "https://elpais.com",
+        "summary": "주거난 해결을 위해 콜보니 시장이 에어비앤비 등 관광용 단기 임대 면허 갱신을 100% 거부하는 파격 조치 승인."
+      },
+      {
+        "title": "스페인 재생에너지 발전 비중 55% 돌파…유럽 내 최저 도매 전력 가격 기록",
+        "category": "에너지·경제",
+        "media": "Cinco Días",
+        "time": "어제",
+        "url": "https://cincodias.elpais.com",
+        "summary": "태양광과 풍력 발전의 폭발적 증가로 스페인 전력 시장에서 시간당 제로(0)에 가까운 초저가 전기 공급 빈번."
+      },
+      {
+        "title": "카탈루냐 지중해 해수 담수화 플랜트 2호기 조기 착공…가뭄 영구화 대비",
+        "category": "환경·인프라",
+        "media": "EFE",
+        "time": "2일 전",
+        "url": "https://efe.com",
+        "summary": "남유럽 최악의 가뭄에 대응하여 바르셀로나 일대 식수의 70%를 담수화 설비로 충당하기 위한 대형 토목 사업 가동."
+      }
+    ]
+  },
+  {
+    "id": "integrated-turkey-s400",
+    "category": "politics",
+    "categoryName": "외교·안보",
+    "color": "#3b82f6",
+    "country": "튀르키예 (앙카라)",
+    "flag": "🇹🇷",
+    "lat": 39.9,
+    "lng": 32.8,
+    "dx": 38,
+    "dy": 44,
+    "title": "튀르키예 S-400 반출 협상 & 에르도안 3기 60% 인플레와 실리 외교",
+    "shortTitle": "튀르키예 S-400 협상",
+    "live": {
+      "headline": "튀르키예, 러시아제 S-400 미사일 미군 기지 보관 합의설…미국산 F-35 복귀 물꼬",
+      "time": "실시간 속보",
+      "summary": [
+        "튀르키예가 나토(NATO)와의 갈등 원인이던 S-400 방공 미사일을 제3국 또는 미군 통제 기지로 이전 검토",
+        "미국 의회, 튀르키예의 F-16 개량형 인도 및 5세대 F-35 스텔스기 프로그램 재가입 협상 재개",
+        "러시아 크렘린궁, 무기 계약 위반 여부를 면밀히 주시하고 있다며 불편한 기색 표출"
+      ],
+      "detail": "튀르키예가 미국의 제재를 풀기 위해 러시아제 S-400 미사일의 통제권을 양보하는 방안을 조율 중입니다.",
+      "sources": [
+        {
+          "title": "Turkey weighs plan to store Russian S-400s at US base to unlock F-35s",
+          "url": "https://www.hurriyetdailynews.com",
+          "media": "Bloomberg / Al-Monitor"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "에르도안 3기 출범과 60%대 초인플레이션 속 나토-러시아 등거리 실리 외교",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "비정통적 저금리 정책의 실패로 통화 가치가 폭락하고 물가상승률이 60%를 초과하는 경제 위기 직면",
+        "중앙은행 총재 교체 후 정통 긴축 통화정책(기준금리 50%)으로 급선회하며 서방 자본 유치 안간힘",
+        "흑해의 관문인 보스포루스 해협을 통제하며 러시아와 서방 사이에서 최대의 전략적 이익을 취하는 외교술"
+      ],
+      "detail": "튀르키예는 극심한 인플레이션을 극복하기 위해 서방과의 관계 개선을 꾀하는 동시에, 러시아와의 에너지 교역을 유지하며 독자적인 지역 패권국으로 자리매김하고 있습니다.",
+      "sources": [
+        {
+          "title": "튀르키예 거시경제와 외교 전략 보고서",
+          "url": "https://www.al-monitor.com",
+          "media": "카네기 국제평화재단"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Turkey",
+      "TR"
+    ],
+    "relatedNews": [
+      {
+        "title": "튀르키예 중앙은행, 기준금리 50% 6개월 연속 동결…인플레 진정세 관망",
+        "category": "금융·경제",
+        "media": "Bloomberg HT",
+        "time": "1시간 전",
+        "url": "https://www.bloomberght.com",
+        "summary": "월간 인플레이션이 둔화 조짐을 보이고 있으나, 겨울철 공공요금 인상 압력을 고려해 긴축 통화정책 기조 유지."
+      },
+      {
+        "title": "이스탄불 지진 대비 노후 위험 건축물 10만 채 긴급 재건축 종합 계획 승인",
+        "category": "안전·도시",
+        "media": "Hürriyet Daily News",
+        "time": "어제",
+        "url": "https://www.hurriyetdailynews.com",
+        "summary": "마르마라해 대지진 가능성에 대비해 정부와 시 당국이 저금리 주택 개축 융자 및 긴급 대피 시설 확충."
+      },
+      {
+        "title": "튀르키예-그리스 에게해 해상 영유권 및 공중 충돌 방지 고위급 회담 재개",
+        "category": "외교·안보",
+        "media": "Anadolu Agency",
+        "time": "2일 전",
+        "url": "https://www.aa.com.tr",
+        "summary": "나토 동맹국 간의 해상 분쟁을 완화하고 관광·에너지 협력을 증진하기 위한 긍정적 의제 합의."
+      }
+    ]
+  },
+  {
+    "id": "integrated-us-newyork",
+    "category": "economy",
+    "categoryName": "경제·금융",
+    "color": "#ef4444",
+    "country": "미국 (뉴욕)",
+    "flag": "🇺🇸",
+    "lat": 40.7,
+    "lng": -74,
+    "dx": 38,
+    "dy": -38,
+    "title": "미 주요 소매업체 실적 악화 & 美 고금리 장기화와 은행권 파산 여파",
+    "shortTitle": "미 소비둔화·실적 악화",
+    "live": {
+      "headline": "미 주요 소매 유통업체 실적 전망치 대폭 하향…월가, 소비 둔화·스태그플레이션 경고",
+      "time": "최신 갱신",
+      "summary": [
+        "타깃, 달러트리 등 미국 대형 유통업체들이 저소득층 소비 여력 고갈로 3분기 실적 가이던스 삭감",
+        "신용카드 연체율이 팬데믹 이후 최고치를 기록하며 미국 실물 경제의 70%를 차지하는 소비 엔진 냉각",
+        "연준(Fed)의 빅컷(0.5%p 인하)에도 불구하고 고물가 누적에 따른 서민층 체감 경기 악화 지속"
+      ],
+      "detail": "미국 실물 경제를 떠받치던 소비 지출이 급격히 둔화되며 주요 유통 기업들의 실적이 곤두박질치고 있습니다.",
+      "sources": [
+        {
+          "title": "Retailers warn of cautious US consumer as inflation takes toll",
+          "url": "https://www.cnbc.com/economy/",
+          "media": "CNN Business / BBC"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "미국의 급격한 금리 인상과 SVB·퍼스트리퍼블릭 파산이 남긴 금융권 후폭풍",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "초저금리 시절 매입한 미 국채의 대규모 평가손실로 중소 지역은행들의 유동성 위기 상존",
+        "상업용 부동산(CRE) 공실률 급등과 대출 만기 도래에 따른 은행권의 잠재적 부실 위험 증대",
+        "글로벌 달러 패권의 피로감과 신흥국들의 달러 의존도 축소(탈달러) 움직임 가속화"
+      ],
+      "detail": "미 연준의 공격적인 통화 긴축은 인플레이션을 억제하는 과정에서 금융 시스템의 가장 취약한 고리(지역은행, 상업용 부동산)를 강타했습니다. 월가는 금리 인하 국면에서도 신용 경색 위험을 경계하고 있습니다.",
+      "sources": [
+        {
+          "title": "미국 은행권 신용 리스크와 통화정책 평가 보고서",
+          "url": "https://www.wsj.com/economy",
+          "media": "월스트리트 저널 기획 칼럼"
+        }
+      ]
+    },
+    "countryAliases": [
+      "United States of America",
+      "US"
+    ],
+    "relatedNews": [
+      {
+        "title": "美국채 금리 고공행진에 뉴욕증시 약보합…다우 0.3%↓(종합) - 연합뉴스",
+        "category": "경제·금융",
+        "media": "구글 뉴스 비즈니스",
+        "time": "10시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UcXFTTENiRmJFQ0NJM0FxYW9jYkFmZW9wTnJuWVJIOUkwLU9UOWdDMlNfZ0Rfc3B5OTJPbVRnMmhYUFdSbGg0VXdxUTFKcFZnXzJYTDRVYW9FREHSAWBBVV95cUxOZE41bmhxTHFkSjl4NWYwVmFXUm5BbGQwQkYtZHhMTmhHZWtocElwSExOWFZtcDJiaVVZdHRuTkFWdDhfWmpjaFRqZmk5akZkT1N1bFNHdTVkRlFqZXg0a0U?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UcXFTTENiRmJFQ0NJM0FxYW9jYkF..."
+      },
+      {
+        "title": "바 연준 이사 \"추가 금리인상 필요할 것…인플레에 초점 둬야\" - 연합인포맥스",
+        "category": "경제·금융",
+        "media": "구글 뉴스 비즈니스",
+        "time": "11시간 전",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vdFppN3VfWFhNMHR5RXNuOGwzRzlCUEo0Rlp4c2Q2UXZ0Z0RFSmxiM19GNjIxSzNZWm93YjM5U1hPdHROVWQ0QUxXUGd6M2FpNDIwSDFVcnp0UkFOZXE0LUJKM3BpeE9uaHFDSUNmeVI?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1vdFppN3VfWFhNMHR5RXNuOGwzRzl..."
+      },
+      {
+        "title": "美국채금리 5%대 고착화… 연준 추가 금리인상 무게 - 동아일보",
+        "category": "경제·금융",
+        "media": "구글 뉴스 비즈니스",
+        "time": "12시간 전",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR3FCUVdHZlM4M2Fvak44VnhUQlpJT1FVYVRjbDNEUEppdDYyYWlVcXVQaFl1b1ZtVGg0WW93QmItNWZNMTNHQVRwdjJfalNSdFVZR2xGMDU1U3hjbVpWeUFwbHh0RGdHaDU5OVYwSmp0Y3dmdGfSAWZBVV95cUxOb0VPbVgzdVBBaDh4YVhPSW81NmJOSjZZcXlRWHBocmtJY2JuR1Z2U0d2X0dEeEhsUEtsd21KSmhPbkE2M2xsbm4xMXZGbGVkV00xUVduSUVEcDliNnVFZGxSQnNtVFE?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR3FCUVdHZlM4M2Fvak44VnhUQlp..."
+      },
+      {
+        "title": "미 연준 파월 의장, 고용 시장 둔화 방어 위해 선제적 추가 금리 인하 가능성 시사",
+        "category": "거시경제",
+        "media": "Wall Street Journal",
+        "time": "1시간 전",
+        "url": "https://www.wsj.com",
+        "summary": "빅컷 이후 첫 공개 연설에서 물가 안정과 최대 고용이라는 이중 책무를 조화롭게 달성하겠다는 원칙 재확인."
+      },
+      {
+        "title": "뉴욕 증시, 엔비디아 등 AI 반도체 반등 속 다우·S&P500 사상 최고치 경신",
+        "category": "증권·금융",
+        "media": "CNBC",
+        "time": "3시간 전",
+        "url": "https://www.cnbc.com",
+        "summary": "연착륙(Soft Landing) 기대감이 확산되며 기술주와 전통 가치주 전반으로 매수세가 확산되는 랠리 연출."
+      }
+    ]
+  },
+  {
+    "id": "integrated-us-siliconvalley",
+    "category": "economy",
+    "categoryName": "테크·산업",
+    "color": "#ef4444",
+    "country": "미국 (실리콘밸리)",
+    "flag": "🇺🇸",
+    "lat": 37.4,
+    "lng": -122,
+    "dx": -45,
+    "dy": 18,
+    "title": "AI 데이터센터 채권 발행 봇물 & 美 반도체지원법(CHIPS)과 IRA 패권",
+    "shortTitle": "AI발 채권·자금 대이동",
+    "live": {
+      "headline": "빅테크, AI 인프라 확충 위해 수십조원 회사채 발행…월가 자금 전력망·원전으로 대이동",
+      "time": "최신 갱신",
+      "summary": [
+        "마이크로소프트, 아마존, 오라클 등 하이퍼스케일러들이 초대형 AI 데이터센터 구축 자금 조달 가속",
+        "AI 연산에 필요한 막대한 전력을 조달하기 위해 폐쇄된 스리마일섬 원전 재가동 계약 체결",
+        "투자자들, AI 소프트웨어 기업보다 전력 인프라 및 전선·변압기 제조사 주식으로 자금 이동"
+      ],
+      "detail": "실리콘밸리 빅테크 기업들이 AI 데이터센터와 전력 인프라 투자를 위해 천문학적인 회사채를 발행하고 있습니다.",
+      "sources": [
+        {
+          "title": "Big tech taps bond markets for billions to fund AI datacenter race",
+          "url": "https://www.reuters.com/technology/",
+          "media": "Reuters / Financial Times"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "미국 자국우선주의 반도체지원법·IRA와 글로벌 테크 공급망의 재편",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "반도체지원법(CHIPS Act)과 IRA(인플레이션 감축법)을 통해 한국·대만 기업의 미국 현지 투자 강제",
+        "글로벌 자유무역 체제의 종언과 미국 중심의 보호주의 제조업 리쇼어링(Reshoring) 가속화",
+        "첨단 파운드리 공장의 미국 내 건설 지연과 높은 인건비·규제로 인한 수익성 악화 딜레마"
+      ],
+      "detail": "미국 정부는 보조금과 세제 혜택을 무기로 글로벌 첨단 제조 기업들을 자국 영토로 끌어들이고 있습니다. 이는 기술 패권을 수호하기 위한 전략이지만, 글로벌 분업 체계의 비용을 극적으로 끌어올리는 결과를 낳고 있습니다.",
+      "sources": [
+        {
+          "title": "미국 CHIPS법과 반도체 공급망 지정학 분석",
+          "url": "https://techcrunch.com",
+          "media": "브루킹스 연구소 심층 리포트"
+        }
+      ]
+    },
+    "countryAliases": [
+      "United States of America",
+      "US"
+    ],
+    "relatedNews": [
+      {
+        "title": "엔비디아 의존 축소…딥시크, 화웨이 AI칩용 개발도구 공개",
+        "category": "테크·산업",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930129400009",
+        "summary": "(서울=연합뉴스) 정주호 기자 = 중국 인공지능(AI) 기업 딥시크가 30일 화웨이의 AI 칩 '어센드'용 프로그래밍 도구를 화웨이와 공동 개발..."
+      },
+      {
+        "title": "시장조사업체 \"아이폰 듀오 올해 600만대 판매 예상\"",
+        "category": "테크·산업",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930124400009",
+        "summary": "(서울=연합뉴스) 이성한 기자 = 애플이 처음 공개한 폴더블 스마트폰 '아이폰 듀오' 판매량이 올해 약 600만대에 이를 것이라는 전망이 나왔다..."
+      },
+      {
+        "title": "AI 권력지형도 보여준 트럼프의 빅테크 초청 오찬 - 조선일보",
+        "category": "테크·산업",
+        "media": "구글 뉴스 세계",
+        "time": "3시간 전",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3ZQT0VCZzJzNnJ2UElUX2c5YTBBQUVVRjNrVnpxUTlJR3Vtc3c4VGhJd0JWVWRaQmFzNnUtNXRpRXdvWjFxNzFKN2dERFhFbzFvMUpPajYtX1ZfSkZfSkY1NzA1M2IwTUY2a3FscUhEWmR0VDJ3c2RPcnVhWHRzTjZtYUQ1ajlkZ05jU0tsQ3VOT2Y4c1E2R2dEcGtzZw?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxON3ZQT0VCZzJzNnJ2UElUX2c5YTB..."
+      },
+      {
+        "title": "오픈AI, ‘안전성 우려’로 … 최신 AI 모델 GPT-6.1 아스트라 출시 취소 - BBC",
+        "category": "테크·산업",
+        "media": "구글 뉴스 비즈니스",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IcmRlVTNGakJrN3hwN1J5WklaZ2NwZWNjZFc2OUc4bTRtYTJ2VWhwWV9MZ1BqVlpLSEdXcUhUclZPSEY3a0JWV09TeWpPTDJyVW5ndFdYM1ZWU2MzeGfSAWNBVV95cUxPS3duWHZZQkhVdTdQZDdUa3R0cGtLTEdQc3NnTnQxcmNCSFBrSzRqR3lWc3ZqYWZTQmZNNGVaYWZTTnVodlNWTmRHOVY2NjdvamZGZmI5dVRtVEtjc0p1REstZk0?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IcmRlVTNGakJrN3hwN1J5WklaZ2N..."
+      },
+      {
+        "title": "기만 늘고 보고는 부정확... 오픈AI, 안전 시험 못 넘은 ‘GPT-6.1 아스트라’ 출시 접어 - 보안뉴스",
+        "category": "테크·산업",
+        "media": "구글 뉴스 비즈니스",
+        "time": "7시간 전",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0OUJDcjc4ZDNFNXE0OVZDUlhhTzBxUmRXTm4zU1pVUzlwQXlucC1odUNrOFVmWGdfMWgxd0FtWVkxUHRrX0xkY2RMeGtSZkg0V1lCbzNUaW1YOUs4OWVpVjRoVGlwLVBMWjFJ?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA0OUJDcjc4ZDNFNXE0OVZDUlhhTzB..."
+      }
+    ]
+  },
+  {
+    "id": "integrated-mexico-hurricane",
+    "category": "environment",
+    "categoryName": "환경·산업",
+    "color": "#10b981",
+    "country": "멕시코 (태평양 연안)",
+    "flag": "🇲🇽",
+    "lat": 19.4,
+    "lng": -99.1,
+    "dx": -42,
+    "dy": 35,
+    "title": "멕시코 4등급 허리케인 상륙 & 美 니어쇼어링 최대 수혜국 부상과 인프라 한계",
+    "shortTitle": "멕시코 4등급 허리케인",
+    "live": {
+      "headline": "멕시코 서부 해안에 4등급 초대형 허리케인 '폴로' 상륙…관광·항만 도시 비상사태",
+      "time": "최신 갱신",
+      "summary": [
+        "최대 풍속 시속 215km의 강풍과 폭우를 동반한 허리케인이 만사니요 항구 인근을 강타해 대규모 침수",
+        "멕시코 방위군, 피해 예상 지역 1만여 명 주민 긴급 대피 및 전력망 복구 작전 개시",
+        "태평양 주요 컨테이너 물류 터미널 가동 전면 중단으로 대미 수출 화물 선적 지연"
+      ],
+      "detail": "멕시코 태평양 연안에 초강력 허리케인이 상륙하여 항만 시설과 도심에 심각한 피해를 입혔습니다.",
+      "sources": [
+        {
+          "title": "Hurricane hits Mexican Pacific coast bringing destructive winds",
+          "url": "https://apnews.com/hub/hurricanes",
+          "media": "Associated Press / El Universal"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "미국 니어쇼어링(Nearshoring)의 최대 요충지 멕시코: 기회와 기후·인프라 리스크",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "미·중 갈등에 따라 테슬라, 기아 등 글로벌 제조 대기업들이 멕시코 북부 국경 지대로 대거 공장 이전",
+        "공장 급증에 따른 만성적인 산업용 전력·용수 부족과 허리케인·가뭄 등 기후 취약성 대두",
+        "클라우디아 셰인바움 신임 대통령의 에너지 국유화 기조와 민간 인프라 투자 유치 사이의 정책 딜레마"
+      ],
+      "detail": "멕시코는 미국 시장과의 인접성을 바탕으로 중국을 제치고 미국의 최대 수입국으로 부상했습니다. 그러나 전력망 불안정과 극단적 기후 재해, 치안 문제가 니어쇼어링의 장기적 성장을 가로막는 걸림돌로 지적됩니다.",
+      "sources": [
+        {
+          "title": "멕시코 니어쇼어링 경제 파급효과 보고서",
+          "url": "https://www.reuters.com/world/americas/",
+          "media": "미주개발은행(IDB)"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Mexico",
+      "MX"
+    ],
+    "relatedNews": [
+      {
+        "title": "13개월 치와와, 멕시코 방위군 신병으로 데뷔 - 마켓인",
+        "category": "환경·산업",
+        "media": "구글 뉴스 세계",
+        "time": "2시간 전",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02QXZ6YUtaWE9PcWxPVEZQTW51MUpfVEpTaENCVFZkdUF6cUw2QU9ueGQ2dzBDRG5VS1pQaWkzNktCUHhvUUd3RVB5ZGF6Mnh5UC1NUW1jbTRrUUkxZzRvUWlhNGREN08wN3Q0WF9WQjB6aEE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE02QXZ6YUtaWE9PcWxPVEZQTW51MUpfVEpTaEN..."
+      },
+      {
+        "title": "미공개 정보로 200억 '꿀꺽'...서울대 동아리가 '카르텔' 됐다 - 머니투데이 - 머니투데이",
+        "category": "환경·산업",
+        "media": "구글 뉴스 비즈니스",
+        "time": "23시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQXhuS1JueFFfMlBIMW5ncGZBc2Zjb0ZJLVNJNkt6cTVsaHV5X2hJV0hmT3lEMTFOUmtzZ01EckNfVm5tTGk4Y0lFbnpaODl0Q3A5RHdqeHBRa05iM01FTWl2ZlRTdnR10gFuQVVfeXFMT1lhTUxnY2RfeFotRFFKTk1QYktrM1dZTE11X081X19XZ3g2ZklpQkVTUE4zbkJkSy1WRy1McklwUDFldE04U3ctTzdpbnhUVVdJSUpRT2RKZWNURW5tOFpXWFVEWWtSVkNRTHJKbWc?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQXhuS1JueFFfMlBIMW5ncGZBc2Z..."
+      },
+      {
+        "title": "빙그레, 11월 멕시코 유통업체 소리아나에 메로나 입점 - KB Think",
+        "category": "환경·산업",
+        "media": "구글 뉴스 비즈니스",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyXzZQUGZlNUxWWWl3b1ZObEVSdzlvbkQ0QWMzYnJtd0hOUmpNT0hEcldTVnZpdURJazVYcFNnSC0xekY1bjZ2eVZqNjBrUWhNQWp2VDNVU3ZSQ3hnWlg1REVPRUhzdVRhWmx4cEZvYWFXdw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAyXzZQUGZlNUxWWWl3b1ZObEVSdzlvbkQ0QWM..."
+      },
+      {
+        "title": "3박 4일 멕시코 재명로그 - 대한민국 정책브리핑",
+        "category": "환경·산업",
+        "media": "구글 뉴스 비즈니스",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXNBcWJrQ0Y0VjRPWVpvMUFtc1dZc0FXYUtrc2gxUnNPOGNzVUJzcy14MWt4czQxX1FxZXJmdWtzU1J0VnhRZ1RkQTh1YTczbEtvV1VsVm5uSVFZcGNrem9YcFI5WDkzSlBLZDRYZng3cHdnVVJCYUhWT1haQUMzOUUyb2J5bEVpQWJJcA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXNBcWJrQ0Y0VjRPWVpvMUFtc1dZc0FXYUt..."
+      },
+      {
+        "title": "서울대 경영동아리 출신 카르텔, 미공개 정보로 200억 부당이득 - 국제신문",
+        "category": "환경·산업",
+        "media": "구글 뉴스 비즈니스",
+        "time": "21시간 전",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUF8wSi14Y2JINnpvWFpHYXNpU3JiYk9jTXJPNjVpSnZTYVpUOHRlMm9vb0lWYzQ2VUUyUnl4ZmNmRVRmWW9OTURGX0NvTzBsNXdiU3dJTEVsWlZpOUl4Q3FVeDVPN1p0ZmlNQUV1czVfdTgtZ3NkUm83dk9KQWk3c1VwMndJWG50bkVZbXNB?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUF8wSi14Y2JINnpvWFpHYXNpU3J..."
+      }
+    ]
+  },
+  {
+    "id": "integrated-brazil-amazon",
+    "category": "environment",
+    "categoryName": "환경·경제",
+    "color": "#10b981",
+    "country": "브라질 (아마존)",
+    "flag": "🇧🇷",
+    "lat": -3.1,
+    "lng": -60,
+    "dx": -45,
+    "dy": 30,
+    "title": "아마존강 121년 만의 최저 가뭄 & 룰라의 브릭스(BRICS) 탈달러 동맹",
+    "shortTitle": "아마존 121년만 최저 가뭄",
+    "live": {
+      "headline": "아마존강 지류 121년 만에 역대 최저 수위…원주민 수십만 명 고립 및 산불 비상",
+      "time": "최신 갱신",
+      "summary": [
+        "지구의 허파 아마존 유역에 닥친 기록적 엘니뇨와 가뭄으로 주요 수로가 메말라 선박 운항 전면 마비",
+        "마나우스 자유무역지대 공장들의 부품 수송이 끊기며 스마트폰·오토바이 조립 라인 셧다운",
+        "브라질 정부, 아마존 62개 자치도시 전체에 재난사태 선포 및 군용기 식수 공수 투입"
+      ],
+      "detail": "아마존강이 1902년 관측 시작 이래 최저 수위로 떨어지며 환경 참사와 산업 마비가 동시에 닥쳤습니다.",
+      "sources": [
+        {
+          "title": "Amazon rainforest river drops to lowest level in over a century",
+          "url": "https://www.reuters.com/business/environment/",
+          "media": "Reuters / Folha de S.Paulo"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "룰라 대통령의 브릭스(BRICS) 탈달러 통화 동맹 결성과 남미 자원 외교",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "브라질 룰라 정부, 중국·러시아와 손잡고 무역 결제에서 미국 달러 배제 및 자국 통화 결제 확대 주도",
+        "아마존 보존 펀드 복원을 통해 서방 선진국으로부터 기후 금융을 유치하는 입체적 환경 외교 전개",
+        "글로벌 콩·소고기·철광석 1위 수출국으로서 식량 및 원자재 슈퍼사이클에서의 지정학적 레버리지 극대화"
+      ],
+      "detail": "브라질은 지구 온난화의 최전선인 아마존을 지키는 환경 외교와 함께, 글로벌 사우스(Global South)를 결집해 달러 패권에 도전하는 다극화 전략을 강력히 추진하고 있습니다.",
+      "sources": [
+        {
+          "title": "브라질 경제 정책과 브릭스 통화 동맹 분석",
+          "url": "https://www1.folha.uol.com.br/internacional/en/",
+          "media": "남미 거시경제 리서치"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Brazil",
+      "BR"
+    ],
+    "relatedNews": [
+      {
+        "title": "\"올해 전 세계 인구의 34%, 극도로 나쁜 대기질에 노출\"",
+        "category": "환경·경제",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930137100009",
+        "summary": "(서울=연합뉴스) 현영복 기자 = 기후변화에 따른 잦은 산불과 폭염 등으로 오존 오염이 발생해 전 세계 인구의 34%가 극도로 나쁜 대기질에 노..."
+      },
+      {
+        "title": "브라질 중앙은행, 인플레이션 압력 선제 대응 위해 기준금리 0.25%p 인상(10.75%)",
+        "category": "금융·경제",
+        "media": "Valor Econômico",
+        "time": "2시간 전",
+        "url": "https://valor.globo.com",
+        "summary": "강한 노동시장과 헤알화 약세로 인한 수입 물가 상승을 억제하기 위해 선진국과 반대로 금리 인상 단행."
+      },
+      {
+        "title": "룰라 대통령, G20 정상회의에서 '글로벌 기아·빈곤 퇴치 동맹' 공식 출범 주도",
+        "category": "국제·외교",
+        "media": "Folha de S.Paulo",
+        "time": "어제",
+        "url": "https://www.folha.uol.com.br",
+        "summary": "리우데자네이루 G20 서밋을 앞두고 다국적 금융기구들과 함께 남반구 취약국 식량 안보 지원 협약 체결."
+      },
+      {
+        "title": "브라질 페트로브라스, 아마존 하구 유전 탐사 환경영향평가 재신청 논란",
+        "category": "환경·에너지",
+        "media": "O Globo",
+        "time": "2일 전",
+        "url": "https://oglobo.globo.com",
+        "summary": "아마존 생태계 보존과 산유국 경제 성장 사이에서 환경부와 에너지 공기업 간의 정책 충돌 격화."
+      }
+    ]
+  },
+  {
+    "id": "integrated-iran-us",
+    "category": "politics",
+    "categoryName": "외교·안보",
+    "color": "#3b82f6",
+    "country": "이란 (테헤란)",
+    "flag": "🇮🇷",
+    "lat": 35.7,
+    "lng": 51.4,
+    "dx": 28,
+    "dy": -32,
+    "title": "美-이란 호르무즈 해협 군사 긴장 & 중동 산유국의 탈달러(위안화 결제) 전략",
+    "shortTitle": "美-이란 해협 군사 긴장",
+    "live": {
+      "headline": "美-이란 호르무즈 해협 일촉즉발…이란 혁명수비대, 미 해군 구축함에 미사일 조준 훈련",
+      "time": "최신 갱신",
+      "summary": [
+        "전 세계 원유 수송량의 20%가 통과하는 호르무즈 해협에서 양측 무인기와 함정의 초근접 대치",
+        "이란, 우라늄 농축도 60% 이상 고농축 지속하며 국제원자력기구(IAEA) 사찰단 추가 추방",
+        "미 국방부, 중동 지역에 에이브러햄 링컨 항모전단 및 F-22 스텔스 전투기 전진 배치"
+      ],
+      "detail": "이란이 호르무즈 해협에서 대규모 실사격 훈련을 벌이며 미국과의 군사적 충돌 우려가 급격히 고조되었습니다.",
+      "sources": [
+        {
+          "title": "US military bolsters Middle East presence amid tensions with Iran",
+          "url": "https://www.aljazeera.com/where/iran/",
+          "media": "Al Jazeera / AP"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "중동 산유국과 중국의 위안화 LNG·원유 결제 확대: 페트로달러 체제의 균열",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "사우디·UAE·이란이 중국과의 에너지 교역에서 위안화 결제를 도입하며 50년 페트로달러 독점 약화",
+        "중국의 중재로 성사된 이란-사우디 국교 정상화 이후 중동 내 미국의 지정학적 영향력 축소",
+        "원유 결제 통화 다변화로 인한 글로벌 외환보유액 내 달러 비중 감소와 금융 다극화 추세"
+      ],
+      "detail": "중동 산유국들은 미국 안보 우산에 대한 의구심이 커지자, 최대 원유 수입국인 중국과의 경제적 밀착을 강화하며 달러 중심의 국제 금융 질서에 중대한 균열을 내고 있습니다.",
+      "sources": [
+        {
+          "title": "페트로달러의 미래와 중동 지정학 보고서",
+          "url": "https://www.reuters.com/world/middle-east/",
+          "media": "중동 에너지 경제 포럼"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Iran",
+      "IR"
+    ],
+    "relatedNews": [
+      {
+        "title": "이란 지렛대 잃었나…\"중동원유 수출량 전쟁 전 98%\"",
+        "category": "외교·안보",
+        "media": "연합뉴스 국제",
+        "time": "16분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930152900009",
+        "summary": "(서울=연합뉴스) 이지헌 기자 = 중동 지역의 원유 수출량이 최근 들어 미·이란 전쟁 발발 이전의 정상 수준을 거의 회복했다고 미 CNN 방송이..."
+      },
+      {
+        "title": "이란 테러범? 휘발유 절도범?…英공군기지 테러모의 미스터리",
+        "category": "외교·안보",
+        "media": "연합뉴스 국제",
+        "time": "46분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930145000009",
+        "summary": "(서울=연합뉴스) 신유리 기자 = 영국 시골 마을에서 지난 주말 벌어진 '수상한 차량' 신고를 놓고 테러 공포가 불거진 사이 바다 건너 미국과 ..."
+      },
+      {
+        "title": "\"이란, '7일 신뢰구축안' 미국 답변 받아…테헤란서 논의 예정\"",
+        "category": "외교·안보",
+        "media": "연합뉴스 국제",
+        "time": "58분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930141500009",
+        "summary": "(서울=연합뉴스) 강훈상 기자 = 아바스 아라그치 이란 외무장관이 29일(현지시간) 카타르 도하에서 중재자들을 만나 이른바 '7일 신뢰구축안'에..."
+      },
+      {
+        "title": "이란 화폐가치 또 사상 최저로…\"손자 책가방도 못 사줘\"",
+        "category": "외교·안보",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930128500009",
+        "summary": "(서울=연합뉴스) 강훈상 기자 = 이란 리알화 가치가 테헤란 환전 시장을 기준으로 달러당 250만 리알을 넘겨 또 사상 최저로 떨어졌다."
+      },
+      {
+        "title": "이란 페제시키안 신임 대통령, 유엔총회서 서방과의 핵합의(JCPOA) 복원 대화 의지 피력",
+        "category": "외교·안보",
+        "media": "IRNA",
+        "time": "4시간 전",
+        "url": "https://en.irna.ir",
+        "summary": "경제 제재 해제를 전제로 국제원자력기구 사찰 재개 및 농축 우라늄 제한에 관한 건설적 협상 용의 표명."
+      }
+    ]
+  },
+  {
+    "id": "integrated-gaza-israel",
+    "category": "politics",
+    "categoryName": "안보·국제",
+    "color": "#3b82f6",
+    "country": "이스라엘·가자",
+    "flag": "🇵🇸",
+    "lat": 31.5,
+    "lng": 34.5,
+    "dx": -45,
+    "dy": 36,
+    "title": "가자지구 완충지대 군사 통제 & 중동 안보 질서 재편과 아브라함 협정 위기",
+    "shortTitle": "가자 완충지대 통제강화",
+    "live": {
+      "headline": "이스라엘군, 가자지구 남북 가르는 '넷차림 회랑' 영구 요새화…완충지대 통제권 쐐기",
+      "time": "최신 갱신",
+      "summary": [
+        "가자지구 중심부를 관통하는 군사 회랑에 콘크리트 방벽과 감시탑을 설치하며 영구 주둔 태세 구축",
+        "하마스와의 휴전 및 인질 석방 협상이 필라델피 회랑 철수 문제를 둘러싸고 또다시 교착 상태",
+        "유엔 보건기구, 가자지구 내 소아마비 백신 접종 차질과 극심한 인도주의적 참상 경고"
+      ],
+      "detail": "이스라엘이 가자지구 내 주요 군사 회랑을 영구 요새화하며 장기 군사 통제에 들어갔습니다.",
+      "sources": [
+        {
+          "title": "Israel cements control over Netzarim Corridor dividing Gaza",
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "media": "BBC / Haaretz"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "중동 신(新)냉전 질서와 가자 분쟁 장기화의 구조적 파급력",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "이스라엘-하마스 충돌 장기화로 사우디-이스라엘 수교(아브라함 협정) 협상 전면 표류",
+        "홍해 해상 운송로 차단에 따른 글로벌 공급망 우회로 물류비 300% 폭등 및 인플레 자극",
+        "이란의 저항의 축(Axis of Resistance) 네트워크와 미국의 군사적 억지력 사이의 살얼음 대치"
+      ],
+      "detail": "가자지구 완충지대 설치는 단순한 군사 전술을 넘어, 수십 년간 이어져 온 중동 평화 프로세스의 종말과 새로운 진영 대립의 고착화를 의미합니다.",
+      "sources": [
+        {
+          "title": "중동 지정학 재편과 글로벌 공급망 보고서",
+          "url": "https://www.timesofisrael.com",
+          "media": "중동 리서치 센터"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Israel",
+      "Palestine",
+      "IL",
+      "PS"
+    ],
+    "relatedNews": [
+      {
+        "title": "두바이발 텔아비브행 여객기, 긴급신호 후 항로 이탈",
+        "category": "안보·국제",
+        "media": "연합뉴스 국제",
+        "time": "30분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930150400079",
+        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 아랍에미리트(UAE) 두바이를 떠나 이스라엘 텔아비브로 향하던 상업용 여객기가 사우디아라비아 상공에서 기수..."
+      },
+      {
+        "title": "이스라엘 공습에 하마스 무장조직 사령관급 사망 - imnews.imbc.com",
+        "category": "안보·국제",
+        "media": "구글 뉴스 세계",
+        "time": "5시간 전",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwQzc3R1I3cTB0WVVpX3dYZ0NZVk4tZEFqZWdmNlhVWkprUml5NkM3bzNjdlZhZl9MQmRQX2xfbHBFSXR1R1JTVFN6TXlQWjROVklyYlpFOVdqc2RseVB0aW96ckRzYnRtNWZLTVJnV1IxeHdC0gF0QVVfeXFMTlZ1Rklod2xMMlRJeHctM3ZtaXpoaUtmcEFUcFlhWENCVEl6WVRGM2RxSW5tWDQ2VGdnVHJLLUR0TWJYUGVmZ09RNTZ5Z2RVbEtwcm9GVGN2eHNwSDdTelZrTk1hejZ1RHhXVWFCT1g5djI0b3c?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBwQzc3R1I3cTB0WVVpX3dYZ0NZVk4tZEFqZWd..."
+      },
+      {
+        "title": "이스라엘 前정보수장 “네타냐후, 하마스 공격 징후 묵살” - 동아일보",
+        "category": "안보·국제",
+        "media": "구글 뉴스 세계",
+        "time": "23시간 전",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RdVlDRlYtVFluUVFReHdUVkJ4d0ZwbTVHOGJfaEV3NzE0c2xRX1Y1UTVNeWtBMmZ4N0FnNlEyTWtQdVFYci1oMGdEY1Y4TlJDNHFrUlY3cHpGcVZjbGRqLWtERmIyUlFHaUY2T0NoVERfVzTSAWZBVV95cUxQZGw3UkRZUnRGRmZielNSY2N1YWhzY1ZoMi1uZ0tHYW81bElNbGo1bnA2QTFMU3BVRC1qM0RNS3BIbktXNkwyV2R5RzhvSU1OaVkwbHM5Umc4QlBOazJmTVBlYkh5QkE?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1RdVlDRlYtVFluUVFReHdUVkJ4d0Z..."
+      },
+      {
+        "title": "레바논 헤즈볼라와의 국경 포격전 격화…이스라엘 북부 주민 수만 명 피란 장기화",
+        "category": "군사·안보",
+        "media": "Times of Israel",
+        "time": "1시간 전",
+        "url": "https://www.timesofisrael.com",
+        "summary": "이스라엘군의 레바논 남부 정밀 타격과 헤즈볼라의 로켓 공격이 교차하며 전면전 확전 위험 지속."
+      },
+      {
+        "title": "텔아비브 시내 50만 명 대규모 주말 시위…인질 석방 협상 타결 및 네타냐후 퇴진 요구",
+        "category": "정치·사회",
+        "media": "Haaretz",
+        "time": "어제",
+        "url": "https://www.haaretz.com",
+        "summary": "희생자 가족들과 시민사회가 총파업을 결의하며 정부의 안보 완충지대 집착이 인질들의 목숨을 위협한다고 비판."
+      }
+    ]
+  },
+  {
+    "id": "integrated-yemen-houthi",
+    "category": "politics",
+    "categoryName": "안보·물류",
+    "color": "#3b82f6",
+    "country": "예멘 (사나)",
+    "flag": "🇾🇪",
+    "lat": 15.3,
+    "lng": 44.2,
+    "dx": -35,
+    "dy": 30,
+    "title": "예멘 후티 반군 유전지대 격돌 & 홍해 해상 운송로 봉쇄와 수에즈 운하 대란",
+    "shortTitle": "후티 유전지대 격돌",
+    "live": {
+      "headline": "예멘 후티 반군, 마리브 유전지대 집중 포격…정부군과 전면전 재발 위기 고조",
+      "time": "최신 갱신",
+      "summary": [
+        "예멘 최대 산유 거점인 마리브 전선에서 후티 반군의 드론·미사일 기습으로 대규모 사상자 발생",
+        "홍해를 통과하는 글로벌 상선에 대한 탄도미사일 공격을 지속하며 미 해군 함정과 교전",
+        "유엔 예멘 특사, 간신히 유지되던 휴전 기조가 완전히 붕괴될 위험에 직면했다고 긴급 경고"
+      ],
+      "detail": "예멘 후티 반군이 마리브 유전지대를 향해 총공세를 펴며 내전이 재점화되고 홍해 해상 위기가 심화되고 있습니다.",
+      "sources": [
+        {
+          "title": "Houthi forces launch new offensive on Yemen oil-rich Marib",
+          "url": "https://www.aljazeera.com/where/yemen/",
+          "media": "Al Jazeera / Reuters"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "예멘 반군-홍해 물류 대란: 글로벌 컨테이너 운임 폭등과 해운 공급망의 구조적 변화",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "수에즈 운하 통과 선박이 70% 급감하며 희망봉 우회 항로로 전환, 운송 기간 14일 연장 및 탄소 배출 증가",
+        "비대칭 전력(저가 드론·미사일)을 활용한 해상 봉쇄가 전 세계 물류에 가한 경제적 충격 분석",
+        "미국 주도의 다국적 번영의 수호자 작전(Operation Prosperity Guardian)의 한계와 중동 안보 딜레마"
+      ],
+      "detail": "예멘 후티 반군의 해상 공격은 저비용 드론이 세계 경제의 목줄인 주요 해상 길목을 어떻게 마비시킬 수 있는지를 입증하며, 글로벌 해운 물류의 패러다임을 근본적으로 뒤흔들고 있습니다.",
+      "sources": [
+        {
+          "title": "홍해 사태와 글로벌 해운 운임 분석 리포트",
+          "url": "https://www.reuters.com/world/middle-east/",
+          "media": "해양물류전략연구원"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Yemen",
+      "YE"
+    ],
+    "relatedNews": [
+      {
+        "title": "사우디, 후티 공세 탓 앙숙돼가던 UAE와 화해 추진 - 연합뉴스",
+        "category": "안보·물류",
+        "media": "구글 뉴스 세계",
+        "time": "5시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94N3B6M3NzQzdSaEZ5LWZFMnZROHVQeVRPR3RYUk1KUThKMXJRWnZyQlNVal9IZnk5ZXBCbVl2eFMxalpqWVphZmFTanpxRkdUMjU3TEFOVjZKV1nSAWBBVV95cUxPVDdscDlZUnBIanp6bjVKbVFVaVNkTDlwZTUyd0xGSmxXWnFpa0ttczNjM29oaFAxT1BpS3BRSjVIcmJNd2FrN2R5YmZtWkZlNnVuajRaam9IVWF5c0ZmTUw?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94N3B6M3NzQzdSaEZ5LWZFMnZROHV..."
+      },
+      {
+        "title": "사우디 홍해 원유 수출 재개에 WTI 3.5%↓…8월 31일 이후 최저 - 한국경제TV",
+        "category": "안보·물류",
+        "media": "구글 뉴스 세계",
+        "time": "11시간 전",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVJIbzZnU21LdmYyWW1sNXFoS0pDZk0wWktYeEhqUUpwaG9SV29na1Y5aTNLRDhvQWh2NXdka1M3cXFiN0Y4dHkwQ3QxcEVaYW5WR0lnckh0X0lHamdQV0FDNDRDUkpTUE1BOVptaXlxQlg0bzVRTFI2TFpnR2dwSg?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVJIbzZnU21LdmYyWW1sNXFoS0pDZk0wWkt..."
+      },
+      {
+        "title": "미 중부사령부, 예멘 내 후티 반군 지하 미사일 저장고 및 레이더 기지 정밀 폭격",
+        "category": "군사·안보",
+        "media": "Associated Press",
+        "time": "3시간 전",
+        "url": "https://apnews.com",
+        "summary": "홍해를 통과하는 상선을 보호하기 위해 B-2 스텔스 폭격기를 투입하여 후티 반군의 견고한 지하시설 무력화."
+      },
+      {
+        "title": "홍해 우회 항로 장기화로 아프리카 남아공 케이프타운 항구 연료 보급 수요 폭증",
+        "category": "해운·물류",
+        "media": "TradeWinds",
+        "time": "어제",
+        "url": "https://www.tradewindsnews.com",
+        "summary": "희망봉을 돌아가는 초대형 컨테이너선들이 급증하며 남아공과 모리셔스 항만의 벙커링 터미널 포화 상태."
+      },
+      {
+        "title": "예멘 중앙은행(아덴)과 후티 점령지(사나) 간 통화 이원화로 물가 폭등 재난",
+        "category": "경제·사회",
+        "media": "The National",
+        "time": "2일 전",
+        "url": "https://www.thenationalnews.com",
+        "summary": "두 개의 서로 다른 리알화 유통으로 남부 정부 관할 지역의 화폐 가치가 폭락하며 서민 식료품난 극심."
+      }
+    ]
+  },
+  {
+    "id": "integrated-safrica-crime",
+    "category": "politics",
+    "categoryName": "사회·경제",
+    "color": "#3b82f6",
+    "country": "남아공",
+    "flag": "🇿🇦",
+    "lat": -30.5,
+    "lng": 22.9,
+    "dx": 38,
+    "dy": 32,
+    "title": "남아공 주말 총격 참사 & 에스콤(Eskom) 전력 위기와 경제 붕괴 위기",
+    "shortTitle": "남아공 총격 참사",
+    "live": {
+      "headline": "남아공 이스턴케이프주 주말 총격 사건으로 28명 몰살…군경 특별작전 전격 투입",
+      "time": "실시간 속보",
+      "summary": [
+        "주거지 두 곳에서 중무장 괴한들이 무차별 총격을 가해 여성과 청소년을 포함한 다수 사상자 발생",
+        "갱단 간의 이권 다툼 및 불법 광산 채굴권 분쟁과 연계된 조직적 범죄로 추정",
+        "라마포사 대통령, 치안 부실 비판 속에 군 병력 치안 지원 투입 승인"
+      ],
+      "detail": "남아프리카공화국에서 대규모 총격 참사가 발생하며 극심한 치안 불안이 다시 한번 도마 위에 올랐습니다.",
+      "sources": [
+        {
+          "title": "South African police launch manhunt after 17 people killed in mass shooting",
+          "url": "https://www.dailymaverick.co.za",
+          "media": "SABC News / BBC"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "남아공 에스콤(Eskom)의 사상 최악 순환 단전(Load Shedding)과 인프라 붕괴",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "노후 석탄발전소 고장과 부패로 하루 10시간 이상 전기가 끊기는 순환 단전으로 제조업 성장률 0%대 추락",
+        "세계 최대 백금·크롬 생산국임에도 전력 부족으로 광산 가동률이 급감하며 글로벌 원자재 공급 차질",
+        "30%가 넘는 청년 실업률과 극심한 빈부 격차가 낳은 치안 붕괴와 외국인 혐오(제노포비아) 범죄"
+      ],
+      "detail": "남아공의 치안 위기와 경제 침체는 국영 전력공사의 구조적 부패와 에너지 인프라 붕괴에서 비롯되었습니다. 전력 공급의 불안정은 광업과 제조업을 마비시키고 일자리를 파괴하는 악순환을 낳고 있습니다.",
+      "sources": [
+        {
+          "title": "남아공 전력 위기와 국가 경제 지속가능성 평가",
+          "url": "https://www.bbc.com/news/world/africa",
+          "media": "남아프리카 국제관계 연구원"
+        }
+      ]
+    },
+    "countryAliases": [
+      "South Africa",
+      "ZA"
+    ],
+    "relatedNews": [
+      {
+        "title": "남아공 다당제 국민통합정부(GNU) 출범 100일…해외 투자 유치 및 랜드화 강세",
+        "category": "정치·금융",
+        "media": "Daily Maverick",
+        "time": "2시간 전",
+        "url": "https://www.dailymaverick.co.za",
+        "summary": "ANC와 민주동맹(DA)의 성공적인 연립정부 운영으로 시장 신뢰가 회복되며 남아공 국채 금리 급락."
+      },
+      {
+        "title": "남아공 국영 철도·항만공사(Transnet), 민간 운영권 개방으로 광물 수출 병목 해소",
+        "category": "산업·물류",
+        "media": "Business Day",
+        "time": "어제",
+        "url": "https://www.businesslive.co.za",
+        "summary": "화물 열차 노선에 민간 물류 기업의 진입을 허용하여 석탄과 철광석의 더반 항구 수송량 정상화 착수."
+      },
+      {
+        "title": "남아공 2분기 GDP 0.4% 깜짝 반등…순환 단전 완화로 제조업·농업 생산 회복세",
+        "category": "경제·통계",
+        "media": "Statistics South Africa",
+        "time": "2일 전",
+        "url": "https://www.statssa.gov.za",
+        "summary": "전력공사 에스콤의 신규 발전 설비 가동으로 150일 이상 전국적 정전이 멈추면서 실물 경기 회복 청신호."
+      }
+    ]
+  },
+  {
+    "id": "integrated-congo-health",
+    "category": "environment",
+    "categoryName": "보건·자원",
+    "color": "#10b981",
+    "country": "민주콩고",
+    "flag": "🇨🇩",
+    "lat": -4,
+    "lng": 21.7,
+    "dx": 36,
+    "dy": 16,
+    "title": "민주콩고 감염병 비상사태 & 엠폭스 확산과 배터리 핵심광물(코발트) 전쟁",
+    "shortTitle": "콩고 감염병 비상사태",
+    "live": {
+      "headline": "민주콩고 신종 변종 엠폭스(Mpox) 확산…누적 사망자 600명 돌파, 국가 비상사태 선포",
+      "time": "실시간 속보",
+      "summary": [
+        "전염력과 치명률이 높아진 새로운 하위계통 변종 바이러스가 동부 광산 지대를 중심으로 급속 전파",
+        "백신 보급 지연과 열악한 의료 인프라로 인접국인 르완다, 부룬디 등으로 국경 넘어 확산",
+        "세계보건기구(WHO), 최고 수준의 공중보건 비상사태(PHEIC) 유지 및 긴급 의료 지원 촉구"
+      ],
+      "detail": "민주콩고에서 변종 엠폭스 감염병이 통제 불능으로 확산되며 아프리카 전역에 비상이 걸렸습니다.",
+      "sources": [
+        {
+          "title": "DR Congo mpox outbreak claims over 600 lives as vaccine rollout begins",
+          "url": "https://www.aljazeera.com/where/democratic-republic-of-congo/",
+          "media": "Al Jazeera / WHO"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "에티오피아·민주콩고 내전의 비극과 4차 산업혁명의 심장 코발트·콜탄 쟁탈전",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "전 세계 코발트의 70%가 매장된 콩고 동부에서 M23 반군과 정부군 간의 피비린내 나는 자원 쟁탈전 지속",
+        "중국 기업들의 코발트·구리 광산 독점 장악에 맞선 미국·EU의 핵심광물 공급망 다변화 외교전",
+        "아동 노동과 환경 파괴, 전염병 창궐이 뒤엉킨 '자원의 저주'와 글로벌 테크 기업들의 ESG 책임론"
+      ],
+      "detail": "스마트폰과 전기차 배터리의 필수 원료인 코발트의 고향 민주콩고는 강대국들의 자원 쟁탈전과 반군의 무력 분쟁, 그리고 전염병이라는 삼중의 비극을 겪고 있습니다.",
+      "sources": [
+        {
+          "title": "아프리카 광물 공급망과 인권 실태 심층 보고서",
+          "url": "https://www.who.int/emergencies/situations/mpox",
+          "media": "국제 앰네스티 특별 보고서"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Democratic Republic of the Congo",
+      "CD"
+    ],
+    "relatedNews": [
+      {
+        "title": "아프리카 질병통제예방센터, 콩고에 엠폭스 긴급 백신 25만 회분 1차 배포 완료",
+        "category": "보건·국제",
+        "media": "Africa CDC",
+        "time": "3시간 전",
+        "url": "https://africacdc.org",
+        "summary": "가장 피해가 극심한 동부 에콰퇴르주와 남키부주의 의료진 및 취약 계층 대상 긴급 접종 개시."
+      },
+      {
+        "title": "콩고 정부, 서방 및 중국 다국적 기업들과 코발트·콜탄 채굴 로열티 재협상 착수",
+        "category": "자원·경제",
+        "media": "Jeune Afrique",
+        "time": "어제",
+        "url": "https://www.jeuneafrique.com",
+        "summary": "배터리 핵심 원자재의 국부 유출을 막고 국영 광업 회사의 지분을 늘리기 위한 채굴 계약 전면 감사 발표."
+      },
+      {
+        "title": "앙골라 중재로 르완다-민주콩고 외교장관 평화 회담 재개…M23 반군 무장해제 논의",
+        "category": "외교·안보",
+        "media": "RFI / Reuters",
+        "time": "2일 전",
+        "url": "https://www.rfi.fr",
+        "summary": "동부 국경 지대의 유혈 충돌을 종식시키고 수십만 명 피란민의 안전한 복귀를 위한 휴전 로드맵 조율."
+      }
+    ]
+  },
+  {
+    "id": "integrated-korea-bok",
+    "category": "economy",
+    "categoryName": "경제·금융",
+    "color": "#ef4444",
+    "country": "대한민국 (서울)",
+    "flag": "🇰🇷",
+    "lat": 37.5,
+    "lng": 127,
+    "dx": 32,
+    "dy": -28,
+    "title": "한은-시중은행장 긴급 회동 & 미·중 패권 속 韓 반도체와 외교 딜레마",
+    "shortTitle": "한은-은행장 긴급 회동",
+    "live": {
+      "headline": "한국은행-16개 시중은행장 긴급 조찬 회동…가계부채 억제·환율 변동성 선제 점검",
+      "time": "실시간 속보",
+      "summary": [
+        "수도권 집값 상승세와 맞물린 주택담보대출 급증세 억제를 위해 은행권 대출 관리 강화 주문",
+        "미 연준의 금리 인하 경로 불확실성과 중동 리스크에 따른 원·달러 환율 1,300원대 중반 방어 논의",
+        "이창용 한은 총재, 금융 안정과 경기 부양 사이의 균형점을 고려한 통화정책 운용 방향 시사"
+      ],
+      "detail": "한국은행 총재와 주요 시중은행장들이 긴급 회동을 갖고 가계부채와 환율 시장 안정 방안을 논의했습니다.",
+      "sources": [
+        {
+          "title": "BOK chief meets commercial bank heads over household debt risks",
+          "url": "https://en.yna.co.kr/news",
+          "media": "연합뉴스 / 한국경제"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "고래 싸움에 새우등 터진 韓… 미·중 갈등과 글로벌 반도체 불황 극복 전략",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "미국의 대중 반도체 장비 수출 통제와 중국의 범용(레거시) 칩 자립 공세 사이에 낀 한국 기업의 딜레마",
+        "인공지능(AI) 고대역폭 메모리(HBM) 주도권 확보를 위한 SK하이닉스·삼성전자의 공격적 R&D 투자",
+        "수출 의존도가 높은 한국 경제의 수출 시장 다변화 및 에너지·원자재 공급망 안보 강화 시급성"
+      ],
+      "detail": "한국 경제는 내수 침체와 가계부채라는 내부 부담과 함께, 미·중 기술 패권 전쟁의 최전선에서 메모리 반도체 초격차를 유지해야 하는 국가적 과제에 직면해 있습니다.",
+      "sources": [
+        {
+          "title": "한국 반도체 산업 경쟁력과 경제 안보 분석",
+          "url": "https://biz.chosun.com",
+          "media": "대외경제정책연구원(KIEP)"
+        }
+      ]
+    },
+    "countryAliases": [
+      "South Korea",
+      "Korea",
+      "KR"
+    ],
+    "relatedNews": [
+      {
+        "title": "SK하이닉스, 세계 최초 12단 적층 HBM3E 대량 양산 돌입…엔비디아 독점 공급 지속",
+        "category": "반도체·테크",
+        "media": "조선비즈",
+        "time": "1시간 전",
+        "url": "https://biz.chosun.com",
+        "summary": "AI 가속기의 핵심인 고대역폭 메모리 기술 초격차를 유지하며 4분기 사상 최대 실적 달성 전망."
+      },
+      {
+        "title": "정부, '코리아 디스카운트' 해소 위한 기업 밸류업 세제 지원 법안 국회 제출",
+        "category": "금융·증권",
+        "media": "한국경제",
+        "time": "3시간 전",
+        "url": "https://www.hankyung.com",
+        "summary": "배당 확대 기업에 대한 법인세 감면과 주주 배당소득 분리과세 도입을 골자로 한 상법 개정안 추진."
+      },
+      {
+        "title": "원·달러 환율, 미 연준 금리 인하 기조 속 1,320원대 안착 시도…수출 기업 안도",
+        "category": "외환·거시",
+        "media": "연합인포맥스",
+        "time": "어제",
+        "url": "https://news.einfomax.co.kr",
+        "summary": "달러화 약세 기조와 외국인 주식 순매수세가 유입되며 환율 변동성 완화 및 수입 물가 안정 기대."
+      }
+    ]
+  },
+  {
+    "id": "integrated-korea-dmz",
+    "category": "politics",
+    "categoryName": "안보·환경",
+    "color": "#3b82f6",
+    "country": "대한민국 (DMZ)",
+    "flag": "🇰🇷",
+    "lat": 38.3,
+    "lng": 128.1,
+    "dx": 38,
+    "dy": 14,
+    "title": "DMZ 북한 추정 지뢰 폭발 & 한반도 112년 만의 폭염과 군사적 긴장",
+    "shortTitle": "DMZ 지뢰추정 폭발",
+    "live": {
+      "headline": "비무장지대(DMZ) 수색 작전 중 미확인 지뢰 폭발…군 당국 대북 경계태세 최고조",
+      "time": "최신 갱신",
+      "summary": [
+        "중부전선 DMZ 수색 작전 중 매설된 목함지뢰 추정 폭발 사고 발생으로 장병 부상",
+        "북한군이 최근 군사분계선(MDL) 일대에 대규모 지뢰 매설 및 방벽 설치 작업을 지속 중인 정황 확인",
+        "합참, 북한의 의도적 도발 가능성을 열어두고 전방 부대 대북 감시 및 화력 태세 대폭 강화"
+      ],
+      "detail": "비무장지대(DMZ)에서 수색 작전 중 미확인 지뢰가 폭발하는 사고가 발생했습니다.",
+      "sources": [
+        {
+          "title": "DMZ landmine explosion injures soldiers amid inter-Korean tensions",
+          "url": "https://en.yna.co.kr",
+          "media": "조선일보 / 연합뉴스"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "기상관측 112년 만에 가장 더운 5월… 끓어오르는 한반도와 기후 인프라 리스크",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "강릉 35.5도 등 5월 역대 최고 기온을 갈아치운 이상 고온으로 한반도 아열대화 가속화",
+        "남북 9·19 군사합의 파기 이후 완충지대가 사라진 DMZ에서의 우발적 충돌 위험 극대화",
+        "기후 위기가 군 장병 야외 훈련, 전력망 피크 부하, 농축산업 생산성에 미치는 복합적 타격"
+      ],
+      "detail": "한반도는 지정학적 군사 대치 상태가 심화되는 가운데, 기상이변으로 인한 전례 없는 폭염과 기후 재난이 국가 인프라 전체를 압박하는 복합 위기를 겪고 있습니다.",
+      "sources": [
+        {
+          "title": "한반도 기후변화 영향평가 및 안보 전략 보고서",
+          "url": "https://www.donga.com",
+          "media": "국방안보포럼 심층 분석"
+        }
+      ]
+    },
+    "countryAliases": [
+      "South Korea",
+      "Korea",
+      "KR"
+    ],
+    "relatedNews": [
+      {
+        "title": "\"우크라, 공습경보 때마다 시간당 610억원 손실\"",
+        "category": "안보·환경",
+        "media": "연합뉴스 국제",
+        "time": "17분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930147200009",
+        "summary": "(서울=연합뉴스) 송진원 기자 = 러시아의 미사일 공습경보에 우크라이나 경제가 반복적으로 마비되면서 시간당 610억원 규모의 경제 손실이 나고 ..."
+      },
+      {
+        "title": "北서 中국경절 77주년 연회…\"하나의 중국·핵심이익 수호 지지\"",
+        "category": "안보·환경",
+        "media": "연합뉴스 국제",
+        "time": "4시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930100300083",
+        "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국 국경절 77주년을 앞두고 북한 평양에서 이를 기념하는 연회가 개최됐다."
+      },
+      {
+        "title": "트럼프 “김정은은 내 친구…북한, 상당한 규모 핵능력 보유” - 한겨레",
+        "category": "안보·환경",
+        "media": "구글 뉴스 세계",
+        "time": "44분 전",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOUo5WVlXcjRMLVdRakxwLWlySWpHVVVKSWdEWkVUN2Q4R3NsY09EbWJjcWprZW1sbmJ6WUVubnhtNUNuUkJtQUZPN3VSYjRPMEdFSTZjdG1pRXZHTWoxcmJvZWN1Sm9WRzhOT2xBQnhRODhrdm1WdjROdlo5ejRwOVBn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPOUo5WVlXcjRMLVdRakxwLWlySWpHVVVKSWd..."
+      },
+      {
+        "title": "북한 핵위협 현실화 논쟁…전문가들 \"재래식 전력만으로는 한계, 한국 안보전략 재검토 필요\" - sisaworld.kr",
+        "category": "안보·환경",
+        "media": "구글 뉴스 세계",
+        "time": "6시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cXZXWlFuQ1ZNUThqZmNTUk8zdHlYbDVlWjJ5eUQzb1hYSzd0Ui1yQk1hV0FHN0JyV3NFX1lGTFZyX1ZHc0JWcUNNcVZ3RzVzMU02NlAzSHlCRjkzWnBsLTJvY3E0c0VBekE?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE45cXZXWlFuQ1ZNUThqZmNTUk8zdHl..."
+      },
+      {
+        "title": "군 당국, 대북 확성기 방송 24시간 풀가동…오물 풍선 및 전방 도발에 단호 대응",
+        "category": "안보·국방",
+        "media": "동아일보",
+        "time": "2시간 전",
+        "url": "https://www.donga.com",
+        "summary": "북한의 쓰레기 풍선 부양과 전방 지뢰 매설에 대응해 심리전 방송을 전 전선으로 확대 운영."
+      }
+    ]
+  },
+  {
+    "id": "integrated-japan-tokyo",
+    "category": "economy",
+    "categoryName": "환율·환경",
+    "color": "#ef4444",
+    "country": "일본 (도쿄)",
+    "flag": "🇯🇵",
+    "lat": 35.7,
+    "lng": 139.7,
+    "dx": 20,
+    "dy": 40,
+    "title": "도쿄 33일 최장 강우 기록 경신 & 日 엔화 방어·美 국채 매각과 BOJ 전환",
+    "shortTitle": "도쿄 33일 최장 강우",
+    "live": {
+      "headline": "33일째 우산 마를 일 없는 도쿄 시민들…日 도쿄, 역사상 최장 강우 기록 경신",
+      "time": "최신 갱신",
+      "summary": [
+        "도쿄 도심에서 기상 관측 사상 최장 기간인 33일 연속 강우라는 전례 없는 기상이변 발생",
+        "가을 정체전선과 이상 해수면 온도 상승이 맞물리며 끊이지 않는 비구름 유입",
+        "일조량 부족에 따른 농작물 작황 피해 및 축제·관광 등 도심 경제 활동 위축"
+      ],
+      "detail": "일본 도쿄에서 33일 연속으로 비가 내리며 근대 기상 관측 이래 역대 최장 강우 기록을 갈아치웠습니다.",
+      "sources": [
+        {
+          "title": "33일째 우산 마를 일 없는 도쿄 시민들…日 도쿄, 역사 최장 강우",
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/",
+          "media": "한국경제 (실시간)"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "日 엔화 가치 폭락 방어를 위한 美 국채 대량 매각과 BOJ 통화정책 대전환",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "달러당 160엔 선을 위협받던 엔화 약세를 방어하기 위해 일본 정부가 보유 중인 미국 국채를 대거 매각",
+        "17년 만의 마이너스 금리 해제에 이어 추가 금리 인상을 단행하며 엔 캐리 트레이드 청산 쇼크 유발",
+        "엔화 약세로 인한 도쿄 수입 물가 급등 및 가계 실질소득 감소가 내수 경기 회복의 발목을 잡는 현실"
+      ],
+      "detail": "일본 경제는 기록적인 이상 기후로 인한 도심 활동 위축과 함께, 수십 년간 지속된 초저금리 정책을 정상화하는 과정에서 글로벌 금융시장에 엄청난 파급력을 미치고 있습니다.",
+      "sources": [
+        {
+          "title": "일본은행(BOJ) 통화정책 전환과 엔화 전망 분석",
+          "url": "https://www.nikkei.com",
+          "media": "니혼게이자이 심층 리포트"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Japan",
+      "JP"
+    ],
+    "relatedNews": [
+      {
+        "title": "日법원 \"목소리도 상업적 재산권 보호 대상\" 첫 인정",
+        "category": "환율·환경",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930131300009",
+        "summary": "(서울=연합뉴스) 최이락 기자 = 인공지능(AI)으로 생성된 성우의 목소리를 무단 모방한 영상과 관련해, 일본 법원이 \"유명인의 목소리 역시 재..."
+      },
+      {
+        "title": "日서 재일코리안 차별 다룬 데즈카 오사무 56년전 단편만화 인기",
+        "category": "환율·환경",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930127600073",
+        "summary": "(도쿄=연합뉴스) 이도연 특파원 = 일본의 유명 만화가 고(故) 데즈카 오사무가 재일 코리안의 차별을 다룬 단편이 지난 6월 새로 출간된 이후 ..."
+      },
+      {
+        "title": "일본 오키나와현 이시가키시 남서쪽 바다서 규모 6.0 지진 발생",
+        "category": "환율·환경",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930119300530",
+        "summary": "(서울=연합뉴스) 30일 오후 2시 0분(한국시간) 일본 오키나와현 이시가키시 남서쪽 144km 해역에서 규모 6.0의 지진이 발생했다고 기상청..."
+      },
+      {
+        "title": "\"마스코트지만 자숙합니다\"…日 지자체 캐릭터 고개 숙인 사연",
+        "category": "환율·환경",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930106100009",
+        "summary": "(서울=연합뉴스) 김병규 기자 = 일본에서 정치인이나 연예인이 아닌 지자체의 마스코트가 비판 여론에 '자숙'을 발표하는 일이 발생해 눈길을 끈다..."
+      },
+      {
+        "title": "일본 자민당 신임 총재 이시바 시게루 선출…새 내각 출범 속 디플레이션 탈출 가속",
+        "category": "정치·경제",
+        "media": "NHK World",
+        "time": "2시간 전",
+        "url": "https://www3.nhk.or.jp",
+        "summary": "지방 창생과 방위력 강화를 내세운 새 총리 체제에서 임금 인상과 금리 정상화 기조 지속 추진."
+      }
+    ]
+  },
+  {
+    "id": "integrated-china-beijing",
+    "category": "economy",
+    "categoryName": "경제·통상",
+    "color": "#ef4444",
+    "country": "중국 (베이징)",
+    "flag": "🇨🇳",
+    "lat": 39.9,
+    "lng": 116.4,
+    "dx": -42,
+    "dy": -32,
+    "title": "미-중 42조원 관세 완화 협상 & 美·中 기술 패권 전쟁과 기업들의 탈중국",
+    "shortTitle": "미-중 42조 관세인하",
+    "live": {
+      "headline": "미-중 42조원 규모 관세 인하·유예 협상 돌입…통상 갈등 숨고르기 국면",
+      "time": "최신 갱신",
+      "summary": [
+        "미국 무역대표부(USTR), 소비재 및 일부 산업 중간재에 대한 대중 고율 관세 한시적 적용 유예 검토",
+        "중국 상무부, 상호 존중 원칙 하에 무역 불균형 해소와 공급망 안정화를 위한 실무 대화 환영",
+        "월가, 양국 갈등 완화 기조가 인플레이션 압력을 낮추고 글로벌 교역량 회복에 기여할 것으로 기대"
+      ],
+      "detail": "미국과 중국이 42조 원 규모의 관세 장벽 완화를 위한 고위급 실무 협상에 착수했습니다.",
+      "sources": [
+        {
+          "title": "US and China in talks over targeted tariff relief to ease inflation",
+          "url": "https://www.scmp.com/economy/china-economy",
+          "media": "Bloomberg / 신화통신"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "美 대중 첨단 제재 속 글로벌 빅테크의 중국 딜레마와 화웨이의 반격",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "미국의 최첨단 AI 칩 및 노광장비 수출 통제에도 불구하고 화웨이가 7나노·5나노 칩 국산화에 성공",
+        "애플, 테슬라 등 글로벌 기업들이 거대 중국 소비 시장을 포기하지 못하고 인도·베트남으로 공급망 분산 병행",
+        "중국 부동산 거품 붕괴와 지방정부 부채 문제로 인한 디플레이션 압력이 글로벌 경제에 미치는 파장"
+      ],
+      "detail": "미국과 중국의 관세 협상은 단기적 숨고르기일 뿐, AI와 반도체를 둘러싼 양국의 기술 패권 충돌은 더욱 깊어지고 있습니다. 글로벌 기업들은 '디리스킹(De-risking)' 전략을 펴며 생존을 모색하고 있습니다.",
+      "sources": [
+        {
+          "title": "미·중 기술 경쟁과 글로벌 공급망 미래 시나리오",
+          "url": "https://www.bloomberg.com/asia",
+          "media": "피터슨 국제경제연구소(PIIE)"
+        }
+      ]
+    },
+    "countryAliases": [
+      "China",
+      "CN"
+    ],
+    "relatedNews": [
+      {
+        "title": "中, 'EU판 美무역법 301조' 가능성에 \"차별조치시 단호히 대응\"",
+        "category": "경제·통상",
+        "media": "연합뉴스 국제",
+        "time": "9분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930151000089",
+        "summary": "(상하이=연합뉴스) 차병섭 특파원 = 유럽연합(EU)이 중국을 상대로 미국 무역법 301조와 유사한 조치를 꺼내 들 가능성과 관련, 중국 상무부..."
+      },
+      {
+        "title": "中 증권감독기구 전 주석 거액 뇌물 수수 혐의 기소",
+        "category": "경제·통상",
+        "media": "연합뉴스 국제",
+        "time": "22분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930151200009",
+        "summary": "(서울=연합뉴스) 권숙희 기자 = 중국 당국의 고강도 사정 기조가 이어지는 가운데 중국증권감독관리위원회(증감회·CSRC) 전 주석이 뇌물 수수 ..."
+      },
+      {
+        "title": "대만 검찰, 시진핑 中주석 풍자 공연장에 오물 뿌린 2명 기소",
+        "category": "경제·통상",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930125000009",
+        "summary": "(타이베이=연합뉴스) 김철문 통신원 = 대만 수도 타이베이에서 시진핑 중국 국가주석을 풍자한 코미디 공연장에 오물을 던진 대만인 2명이 기소됐다..."
+      },
+      {
+        "title": "[쇼츠] 기이한날개 단 14m 대형비행체…남중국해 상공 中 정찰기의 실체",
+        "category": "경제·통상",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930131200704",
+        "summary": "(서울=연합뉴스) '중국판 글로벌호크'로 불리는 중국의 고고도 무인정찰기 WZ-7이 남중국해 영유권 분쟁지인 스카버러 암초(중국명 황옌다오·필리..."
+      },
+      {
+        "title": "중국 인민은행, 지준율 0.5%p 전격 인하 및 주택담보대출 금리 인하 경기 부양 패키지 발표",
+        "category": "거시·금융",
+        "media": "신화통신",
+        "time": "1시간 전",
+        "url": "http://www.xinhuanet.com",
+        "summary": "1조 위안(약 190조원) 규모의 장기 유동성을 공급하고 부동산 침체와 내수 부진을 타개하기 위한 초대형 부양책 가동."
+      }
+    ]
+  },
+  {
+    "id": "integrated-thailand-bangkok",
+    "category": "environment",
+    "categoryName": "환경·재해",
+    "color": "#10b981",
+    "country": "태국 (방콕)",
+    "flag": "🇹🇭",
+    "lat": 13.7,
+    "lng": 100.5,
+    "dx": 45,
+    "dy": 45,
+    "title": "태국 방콕 궤멸적 대홍수 & 동남아 45℃ 괴물 폭염과 식량 안보 위기",
+    "shortTitle": "방콕 궤멸적 대홍수",
+    "live": {
+      "headline": "태국 방콕·북부 궤멸적 대홍수…피해액 4,300억원 육박, 수천 명 이재민 (로이터)",
+      "time": "최신 갱신",
+      "summary": [
+        "태국 북부에서 시작된 기록적 몬순 폭우가 차오프라야강을 따라 수도 방콕으로 유입되며 침수 위기",
+        "최소 8명 사망, 수천 명이 긴급 대피소로 이동하며 경제 피해액 3억 2천만 달러 추산",
+        "동남아 전역을 휩쓴 열대성 폭풍으로 농경지 수십만 헥타르 수몰"
+      ],
+      "detail": "태국 북부와 중부 지역이 10년 만의 최악의 대홍수로 마비되었습니다.",
+      "sources": [
+        {
+          "title": "Thousands huddle in Bangkok shelters as Thai flood damages seen at $320 mln",
+          "url": "https://www.bangkokpost.com",
+          "media": "Reuters / France 24"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "태국 45.4도·동남아 덮친 괴물 폭염 후 찾아온 대홍수: 기후 극단화의 덫",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "역대 최악의 봄철 45℃ 폭염 직후 발생한 전례 없는 몬순 호우로 동남아 생태계와 인프라 궤멸적 타격",
+        "세계 최대 쌀 수출국인 태국과 베트남의 벼 경작지가 침수되며 국제 쌀 가격 15년 만에 최고치 경신",
+        "수도 방콕의 지반 침하와 해수면 상승이 맞물려 2050년 이전 수도 기능 상실 우려 현실화"
+      ],
+      "detail": "태국과 동남아시아는 극단적인 폭염과 대홍수가 교대로 덮치는 기후 재난의 최전선에 서 있습니다. 농업과 관광에 의존하는 동남아 경제가 기후변화로 인해 회복 불가능한 타격을 입고 있습니다.",
+      "sources": [
+        {
+          "title": "동남아 기후변화 영향평가 및 식량 안보 분석",
+          "url": "https://www.reuters.com/world/asia-pacific/",
+          "media": "아시아개발은행(ADB) 환경 보고서"
+        }
+      ]
+    },
+    "countryAliases": [
+      "Thailand",
+      "TH"
+    ],
+    "relatedNews": [
+      {
+        "title": "“아빠는 13살 엄마는 9살 초딩엄빠” 최연소 임신 사례 발칵 뒤집힌 이 나라[아하태국] - 문화일보",
+        "category": "환경·재해",
+        "media": "구글 뉴스 세계",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxNENTbkh4VGM3SE1JVlZWdy1KMFFsWVE0N25iQkJWWEE5R2w2THpKcFpUTi1HOUpoYjVUbkdwU19fMkNSRHJjT2JzNk1feE5N?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxNENTbkh4VGM3SE1JVlZWdy1KMFF..."
+      },
+      {
+        "title": "패통탄 친나왓 신임 태국 총리, 대홍수 피해 15개 주 농가에 재난지원금 300억 바트 긴급 승인",
+        "category": "정치·재난",
+        "media": "Bangkok Post",
+        "time": "2시간 전",
+        "url": "https://www.bangkokpost.com",
+        "summary": "북부 치앙라이와 중부 차오프라야강 일대 수몰 농경지에 대한 종자 지원 및 제방 보강 예산 투입."
+      },
+      {
+        "title": "태국 정부, 전 국민 1만 바트(약 40만원) '디지털 지갑' 현금성 소비 지원금 지급 개시",
+        "category": "경제·민생",
+        "media": "The Nation Thailand",
+        "time": "어제",
+        "url": "https://www.nationthailand.com",
+        "summary": "취약계층 1,450만 명을 대상으로 1단계 현금 지급을 시작하며 내수 소비 진작 효과 기대."
+      },
+      {
+        "title": "동남아 전기차 생산 허브 도약…중국 BYD·창안자동차 태국 공장 양산 가동 돌입",
+        "category": "산업·자동차",
+        "media": "Khaosod English",
+        "time": "2일 전",
+        "url": "https://www.khaosodenglish.com",
+        "summary": "일본차 독점 체제였던 태국 자동차 시장에서 중국 전기차 제조사들이 현지 생산 거점을 본격 가동."
+      }
+    ]
+  },
+  {
+    "id": "integrated-india-crops",
+    "category": "economy",
+    "categoryName": "경제·식량",
+    "color": "#ef4444",
+    "country": "인도 (뉴델리)",
+    "flag": "🇮🇳",
+    "lat": 28.6,
+    "lng": 77.2,
+    "dx": 15,
+    "dy": 58,
+    "title": "인도 기습 폭우 작황 타격 & 인구 1위 대국 부상과 식량 보호무역",
+    "shortTitle": "인도 몬순폭우 작황타격",
+    "live": {
+      "headline": "인도 몬순 막바지 기습 폭우로 양파·채소 가격 급등…인플레이션 경보음",
+      "time": "최신 갱신",
+      "summary": [
+        "인도 주요 농산물 주산지인 마하라슈트라 등에 늦은 몬순 폭우가 쏟아져 양파·토마토 등 필수 작황 파괴",
+        "소비자 물가의 핵심 품목인 채소류 가격이 단기간에 30% 이상 폭등하며 식료품 인플레 재점화",
+        "인도 정부, 농산물 사재기 단속 및 수출 통제 카드 재검토"
+      ],
+      "detail": "인도에서 계절풍 몬순이 물러가는 시점에 발생한 기습 폭우로 농작물 출하가 막히며 식료품 가격이 급등하고 있습니다.",
+      "sources": [
+        {
+          "title": "Late monsoon rains damage crops in India",
+          "url": "https://timesofindia.indiatimes.com/india",
+          "media": "BBC / Bloomberg"
+        }
+      ]
+    },
+    "deepDive": {
+      "headline": "인도 세계 1위 인구 대국 등극과 글로벌 제조업 흡수 & 식량 수출 금지 파장",
+      "tag": "심층 기획 리포트",
+      "summary": [
+        "중국을 제치고 세계 1위 인구(14억 3천만 명) 대국이 되며 '넥스트 차이나'로서 애플 등 글로벌 제조 거점으로 부상",
+        "기후 위기로 인한 자국 농산물 작황 부진을 이유로 밀·쌀·양파 수출을 전면 통제하며 글로벌 식량 안보 위협",
+        "나렌드라 모디 정부의 자국우선주의 '메이크 인 인디아(Make in India)' 정책과 종교적 갈등의 그림자"
+      ],
+      "detail": "인도는 글로벌 공급망의 핵심 대안으로 급부상하고 있지만, 기후 재난에 취약한 농업 구조와 식량 인플레이션이 지속적인 경제 성장의 발목을 잡는 구조적 취약점을 안고 있습니다.",
+      "sources": [
+        {
+          "title": "인도 경제 전망과 글로벌 식량 안보 분석",
+          "url": "https://www.bbc.com/news/world/asia/india",
+          "media": "인도 정책연구센터(CPR)"
+        }
+      ]
+    },
+    "countryAliases": [
+      "India",
+      "IN"
+    ],
+    "relatedNews": [
+      {
+        "title": "'대기오염 최악' 인도 수도권, 3개월간 50% 재택근무 의무화",
+        "category": "경제·식량",
+        "media": "연합뉴스 국제",
+        "time": "40분 전",
+        "url": "https://www.yna.co.kr/view/AKR20260930146200104",
+        "summary": "(자카르타=연합뉴스) 손현규 특파원 = 세계에서 대기오염이 가장 심각한 지역으로 꼽히는 인도 수도권에서 올겨울 50% 재택근무 의무화와 건설 공..."
+      },
+      {
+        "title": "“월 50만원 넣으면 2255만원”…알바·군인도 가입할 수 있다 - edaily.co.kr",
+        "category": "경제·식량",
+        "media": "구글 뉴스 비즈니스",
+        "time": "4시간 전",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0JfbkFFYldhVjdjT2NOWVdZRG1QNVpmb2lGbHU4cW96VkRrLUlQeXB6dm14MjhMcTNaZC0yR2wtNUdsLW5MWkxkM1lZSHQwdWtkbGdZZnlPSWt4WnpVeFlvMVZtOEp2aWlrRjB4VnJ4WGhnUU1jelNtWXpmLUtmQg?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0JfbkFFYldhVjdjT2NOWVdZRG1..."
+      },
+      {
+        "title": "인도 정부, 쌀 바스마티 수출 최저가격제(MEP) 전면 폐지…글로벌 쌀 공급 숨통",
+        "category": "무역·농업",
+        "media": "Times of India",
+        "time": "3시간 전",
+        "url": "https://timesofindia.indiatimes.com",
+        "summary": "충분한 곡물 재고량을 확인한 후 농가 소득 증대와 수출 확대를 위해 쌀 수출 규제를 대폭 완화."
+      },
+      {
+        "title": "애플 아이폰16 프로 라인업, 인도 폭스콘 첸나이 공장에서 사상 첫 동시 양산 개시",
+        "category": "테크·제조업",
+        "media": "The Economic Times",
+        "time": "어제",
+        "url": "https://economictimes.indiatimes.com",
+        "summary": "중국 중심의 생산 체제에서 벗어나 인도를 글로벌 최첨단 프리미엄 스마트폰 제조 거점으로 육성."
+      },
+      {
+        "title": "인도 철도 초현대화 '반데 바라트' 고속열차 10개 신규 노선 개통…모디 총리 시승",
+        "category": "인프라·교통",
+        "media": "Hindustan Times",
+        "time": "2일 전",
+        "url": "https://www.hindustantimes.com",
+        "summary": "인도 대륙 주요 거점 도시 간의 이동 시간을 절반으로 단축하는 준고속 철도망 확장 프로젝트 가속."
+      }
+    ]
+  }
+]
