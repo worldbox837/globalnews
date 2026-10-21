@@ -24,84 +24,84 @@ const GLOBAL_COUNTRY_DB = {
     defTitle: '한국은행 기준금리 및 거시경제 통화정책 동향', defShort: '한은 기준금리 정책', defCat: 'economy'
   },
   'kp': {
-    country: '북한 (평양)', flag: '🇰🇵', lat: 39.0, lng: 125.7, dx: -55, dy: -40,
+    country: '북한 (평양)', flag: '🇰🇵', lat: 39.0, lng: 125.7, dx: 30, dy: -25,
     countryAliases: ['North Korea', 'Dem. Rep. Korea', 'KP'],
     titleKws: ['북한', '평양', '김정은', '오물풍선', '조선중앙통신', '북한군', '대남', '北'],
     bodyKws: ['북한', '김정은', '평양'],
     defTitle: '북한 비무장지대 군사 동향 및 대남 군사 긴장', defShort: '북한 DMZ 군사동향', defCat: 'politics'
   },
   'cn': {
-    country: '중국 (베이징)', flag: '🇨🇳', lat: 39.9, lng: 116.4, dx: -35, dy: -45,
+    country: '중국 (베이징)', flag: '🇨🇳', lat: 39.9, lng: 116.4, dx: 20, dy: 25,
     countryAliases: ['China', 'CN'],
     titleKws: ['중국', '베이징', '시진핑', '상하이', '위안화', '중화', '中', '중국군'],
     bodyKws: ['중국', '베이징', '시진핑', '상하이'],
     defTitle: '중국 대규모 경기부양책 및 기술 자립 공급망 전략', defShort: '중국 경기부양 전략', defCat: 'economy'
   },
   'jp': {
-    country: '일본 (도쿄)', flag: '🇯🇵', lat: 35.7, lng: 139.7, dx: 55, dy: 35,
+    country: '일본 (도쿄)', flag: '🇯🇵', lat: 35.7, lng: 139.7, dx: 55, dy: -15,
     countryAliases: ['Japan', 'JP'],
     titleKws: ['일본', '도쿄', '이시바', '자민당', '기시다', '엔화', '닛케이', '일본은행', 'boj', '日'],
     bodyKws: ['일본', '도쿄', '엔화', '닛케이'],
     defTitle: '일본 정국 재편과 엔화·닛케이 증시 변동성', defShort: '일본 엔화·정국 재편', defCat: 'economy'
   },
   'tw': {
-    country: '대만 (타이베이)', flag: '🇹🇼', lat: 25.0, lng: 121.5, dx: 45, dy: 20,
+    country: '대만 (타이베이)', flag: '🇹🇼', lat: 25.0, lng: 121.5, dx: 35, dy: -20,
     countryAliases: ['Taiwan', 'TW'],
     titleKws: ['대만', '타이베이', '라이칭더', 'tsmc', '차이잉원', '양안'],
     bodyKws: ['대만', '타이베이', 'tsmc'],
     defTitle: '대만 해협 안보 긴장 및 글로벌 파운드리 반도체 공급망', defShort: '대만 TSMC·해협 안보', defCat: 'economy'
   },
   'in': {
-    country: '인도 (뉴델리)', flag: '🇮🇳', lat: 28.6, lng: 77.2, dx: 35, dy: 45,
+    country: '인도 (뉴델리)', flag: '🇮🇳', lat: 28.6, lng: 77.2, dx: 35, dy: 30,
     countryAliases: ['India', 'IN'],
     titleKws: ['인도', '뉴델리', '모디', '뭄바이', '힌두'],
     bodyKws: ['인도', '뉴델리', '모디'],
     defTitle: '인도 글로벌 제조업 허브 도약과 식량 인플레이션 관리', defShort: '인도 경제성장·물가', defCat: 'economy'
   },
   'th': {
-    country: '태국 (방콕)', flag: '🇹🇭', lat: 13.7, lng: 100.5, dx: -50, dy: 30,
+    country: '태국 (방콕)', flag: '🇹🇭', lat: 13.7, lng: 100.5, dx: -25, dy: -30,
     countryAliases: ['Thailand', 'TH'],
     titleKws: ['태국', '방콕', '패통탄', '치앙마이', '몬순', '태국 홍수'],
     bodyKws: ['태국', '방콕'],
     defTitle: '태국 몬순 폭우 침수 피해 및 신임 내각 경기 대응', defShort: '태국 폭우 침수 대응', defCat: 'environment'
   },
   'vn': {
-    country: '베트남 (하노이)', flag: '🇻🇳', lat: 21.0, lng: 105.8, dx: -50, dy: 5,
+    country: '베트남 (하노이)', flag: '🇻🇳', lat: 21.0, lng: 105.8, dx: 35, dy: -15,
     countryAliases: ['Vietnam', 'Viet Nam', 'VN'],
     titleKws: ['베트남', '하노이', '호찌민', '또럼'],
     bodyKws: ['베트남', '하노이'],
     defTitle: '베트남 글로벌 IT 생산기지 유치 및 에너지 인프라 확충', defShort: '베트남 IT제조 허브', defCat: 'economy'
   },
   'id': {
-    country: '인도네시아 (자카르타)', flag: '🇮🇩', lat: -6.2, lng: 106.8, dx: 45, dy: 35,
+    country: '인도네시아 (자카르타)', flag: '🇮🇩', lat: -6.2, lng: 106.8, dx: -35, dy: 35,
     countryAliases: ['Indonesia', 'ID'],
     titleKws: ['인도네시아', '자카르타', '프라보워', '조코위', '발리', '누산타라'],
     bodyKws: ['인도네시아', '자카르타'],
     defTitle: '인도네시아 신수도 이전 및 니켈 등 배터리 광물 동맹', defShort: '인니 신수도·광물전략', defCat: 'economy'
   },
   'ph': {
-    country: '필리핀 (마닐라)', flag: '🇵🇭', lat: 14.6, lng: 121.0, dx: 50, dy: -10,
+    country: '필리핀 (마닐라)', flag: '🇵🇭', lat: 14.6, lng: 121.0, dx: 35, dy: 30,
     countryAliases: ['Philippines', 'PH'],
     titleKws: ['필리핀', '마닐라', '마르코스'],
     bodyKws: ['필리핀', '마닐라'],
     defTitle: '필리핀 남중국해 영유권 갈등과 미국과의 방위 협력 강화', defShort: '필리핀 남중국해 안보', defCat: 'politics'
   },
   'my': {
-    country: '말레이시아 (쿠알라룸푸르)', flag: '🇲🇾', lat: 3.1, lng: 101.7, dx: -50, dy: -25,
+    country: '말레이시아 (쿠알라룸푸르)', flag: '🇲🇾', lat: 3.1, lng: 101.7, dx: 45, dy: 10,
     countryAliases: ['Malaysia', 'MY'],
     titleKws: ['말레이시아', '안와르', '쿠알라룸푸르'],
     bodyKws: ['말레이시아'],
     defTitle: '말레이시아 동남아 AI 데이터센터 허브 급부상', defShort: '말레이시아 AI센터허브', defCat: 'economy'
   },
   'sg': {
-    country: '싱가포르', flag: '🇸🇬', lat: 1.3, lng: 103.8, dx: 45, dy: 20,
+    country: '싱가포르', flag: '🇸🇬', lat: 1.3, lng: 103.8, dx: 15, dy: 35,
     countryAliases: ['Singapore', 'SG'],
     titleKws: ['싱가포르', '로런스 웡'],
     bodyKws: ['싱가포르'],
     defTitle: '싱가포르 아시아 금융 허브 경쟁력 및 디지털 자산 규제', defShort: '싱가포르 금융허브', defCat: 'economy'
   },
   'pk': {
-    country: '파키스탄 (이슬라마바드)', flag: '🇵🇰', lat: 33.7, lng: 73.0, dx: -55, dy: -35,
+    country: '파키스탄 (이슬라마바드)', flag: '🇵🇰', lat: 33.7, lng: 73.0, dx: 20, dy: -35,
     countryAliases: ['Pakistan', 'PK'],
     titleKws: ['파키스탄', '이슬라마바드', '샤리프'],
     bodyKws: ['파키스탄'],
@@ -122,14 +122,14 @@ const GLOBAL_COUNTRY_DB = {
     defTitle: '뉴질랜드 기준금리 인하와 농축산업 수출 회복세', defShort: '뉴질랜드 통화정책', defCat: 'economy'
   },
   'kz': {
-    country: '카자흐스탄 (아스타나)', flag: '🇰🇿', lat: 51.2, lng: 71.4, dx: 45, dy: -35,
+    country: '카자흐스탄 (아스타나)', flag: '🇰🇿', lat: 51.2, lng: 71.4, dx: 35, dy: -25,
     countryAliases: ['Kazakhstan', 'KZ'],
     titleKws: ['카자흐스탄', '토카예프', '아스타나'],
     bodyKws: ['카자흐스탄'],
     defTitle: '카자흐스탄 원전 건설 추진과 중앙아시아 물류 회랑', defShort: '카자흐 원전·물류회랑', defCat: 'economy'
   },
   'mn': {
-    country: '몽골 (울란바토르)', flag: '🇲🇳', lat: 47.9, lng: 106.9, dx: 45, dy: -25,
+    country: '몽골 (울란바토르)', flag: '🇲🇳', lat: 47.9, lng: 106.9, dx: 10, dy: -35,
     countryAliases: ['Mongolia', 'MN'],
     titleKws: ['몽골', '울란바토르'],
     bodyKws: ['몽골'],
@@ -217,56 +217,56 @@ const GLOBAL_COUNTRY_DB = {
     defTitle: '우크라이나 방공망 확충과 전후 재건 국제 공조', defShort: '우크라이나 방공·재건', defCat: 'politics'
   },
   'gb': {
-    country: '영국 (런던)', flag: '🇬🇧', lat: 51.5, lng: -0.1, dx: -70, dy: -35,
+    country: '영국 (런던)', flag: '🇬🇧', lat: 51.5, lng: -0.1, dx: -65, dy: -30,
     countryAliases: ['United Kingdom', 'Britain', 'GB'],
     titleKws: ['영국', '런던', '스타머', '영란은행', '수낵', '영 왕실', '브렉시트', '英'],
     bodyKws: ['영국', '런던', '스타머'],
     defTitle: '영국 스타머 노동당 내각의 재정 준칙과 경제 회복 플랜', defShort: '영국 노동당 경제플랜', defCat: 'politics'
   },
   'de': {
-    country: '독일 (베를린)', flag: '🇩🇪', lat: 52.5, lng: 13.4, dx: -5, dy: -65,
+    country: '독일 (베를린)', flag: '🇩🇪', lat: 52.5, lng: 13.4, dx: 5, dy: -55,
     countryAliases: ['Germany', 'DE'],
     titleKws: ['독일', '베를린', '숄츠', '폭스바겐', '프랑크푸르트', 'ecb', '獨'],
     bodyKws: ['독일', '베를린', '숄츠'],
     defTitle: '독일 제조업 침체 우려와 에너지 전환 산업 재편', defShort: '독일 제조업 경기대응', defCat: 'economy'
   },
   'fr': {
-    country: '프랑스 (파리)', flag: '🇫🇷', lat: 48.8, lng: 2.3, dx: -75, dy: 5,
+    country: '프랑스 (파리)', flag: '🇫🇷', lat: 48.8, lng: 2.3, dx: -65, dy: 15,
     countryAliases: ['France', 'FR'],
     titleKws: ['프랑스', '파리', '마크롱', '르펜', '바르니에', '엘리제궁', '佛'],
     bodyKws: ['프랑스', '파리', '마크롱'],
     defTitle: '프랑스 정국 갈등과 재정 적자 축소 긴축 예산안', defShort: '프랑스 정국·예산안', defCat: 'politics'
   },
   'it': {
-    country: '이탈리아 (로마)', flag: '🇮🇹', lat: 41.9, lng: 12.5, dx: 25, dy: 45,
+    country: '이탈리아 (로마)', flag: '🇮🇹', lat: 41.9, lng: 12.5, dx: 35, dy: 45,
     countryAliases: ['Italy', 'IT'],
     titleKws: ['이탈리아', '로마', '멜로니', '교황청', '바티칸', '밀라노', '伊'],
     bodyKws: ['이탈리아', '로마'],
     defTitle: '이탈리아 멜로니 정부의 난민 정책과 EU 내 외교적 입지', defShort: '이탈리아 EU외교입지', defCat: 'politics'
   },
   'es': {
-    country: '스페인 (마드리드)', flag: '🇪🇸', lat: 40.4, lng: -3.7, dx: -70, dy: 30,
+    country: '스페인 (마드리드)', flag: '🇪🇸', lat: 40.4, lng: -3.7, dx: -65, dy: 25,
     countryAliases: ['Spain', 'ES'],
     titleKws: ['스페인', '마드리드', '바르셀로나', '산체스'],
     bodyKws: ['스페인', '마드리드'],
     defTitle: '스페인 주거권 위기 시위와 재생에너지 발전 비중 확대', defShort: '스페인 주거권·재생E', defCat: 'economy'
   },
   'nl': {
-    country: '네덜란드 (암스테르담)', flag: '🇳🇱', lat: 52.4, lng: 4.9, dx: -60, dy: -60,
+    country: '네덜란드 (암스테르담)', flag: '🇳🇱', lat: 52.4, lng: 4.9, dx: -45, dy: -55,
     countryAliases: ['Netherlands', 'NL'],
     titleKws: ['네덜란드', '암스테르담', '헤이그', 'asml', '스호프'],
     bodyKws: ['네덜란드', 'asml'],
     defTitle: '네덜란드 ASML 초미세 노광장비 수출 통제 및 원전 확대', defShort: '네덜란드 ASML·원전', defCat: 'economy'
   },
   'ch': {
-    country: '스위스 (베른)', flag: '🇨🇭', lat: 46.9, lng: 7.4, dx: -60, dy: -25,
+    country: '스위스 (베른)', flag: '🇨🇭', lat: 46.9, lng: 7.4, dx: 5, dy: 25,
     countryAliases: ['Switzerland', 'CH'],
     titleKws: ['스위스', '제네바', '취리히', '다보스'],
     bodyKws: ['스위스', '제네바'],
     defTitle: '스위스 중앙은행 통화정책과 글로벌 자산관리 안정성', defShort: '스위스 자산관리안정', defCat: 'economy'
   },
   'pl': {
-    country: '폴란드 (바르샤바)', flag: '🇵🇱', lat: 52.2, lng: 21.0, dx: 30, dy: -45,
+    country: '폴란드 (바르샤바)', flag: '🇵🇱', lat: 52.2, lng: 21.0, dx: 25, dy: -45,
     countryAliases: ['Poland', 'PL'],
     titleKws: ['폴란드', '바르샤바', '투스크'],
     bodyKws: ['폴란드', '바르샤바'],
@@ -317,28 +317,28 @@ const GLOBAL_COUNTRY_DB = {
     defTitle: '이스라엘 중동 전면전 위기와 가자지구 인도적 휴전 협상', defShort: '이스라엘 중동군사긴장', defCat: 'politics'
   },
   'ir': {
-    country: '이란 (테헤란)', flag: '🇮🇷', lat: 35.7, lng: 51.4, dx: 55, dy: -20,
+    country: '이란 (테헤란)', flag: '🇮🇷', lat: 35.7, lng: 51.4, dx: -25, dy: -40,
     countryAliases: ['Iran', 'Islamic Republic of Iran', 'IR'],
     titleKws: ['이란', '테헤란', '하메네이', '페제시키안', '혁명수비대', '호르무즈', '페르시아'],
     bodyKws: ['이란', '테헤란', '호르무즈'],
     defTitle: '이란 호르무즈 해협 군사 봉쇄 위협과 대서방 외교 줄다리기', defShort: '이란 호르무즈 군사위협', defCat: 'politics'
   },
   'sa': {
-    country: '사우디 (리야드)', flag: '🇸🇦', lat: 24.7, lng: 46.7, dx: 35, dy: 45,
+    country: '사우디 (리야드)', flag: '🇸🇦', lat: 24.7, lng: 46.7, dx: 25, dy: -30,
     countryAliases: ['Saudi Arabia', 'SA'],
     titleKws: ['사우디', '리야드', '빈살만', '사우디아라비아', '아람코'],
     bodyKws: ['사우디', '리야드'],
     defTitle: '사우디 비전 2030 네옴시티 투자 조정과 원유 감산 기조', defShort: '사우디 비전2030·감산', defCat: 'economy'
   },
   'ye': {
-    country: '예멘 (사나)', flag: '🇾🇪', lat: 15.3, lng: 44.2, dx: 40, dy: 25,
+    country: '예멘 (사나)', flag: '🇾🇪', lat: 15.3, lng: 44.2, dx: -30, dy: 25,
     countryAliases: ['Yemen', 'YE'],
     titleKws: ['예멘', '후티', '홍해', '아덴만'],
     bodyKws: ['예멘', '후티'],
     defTitle: '예멘 후티 반군 홍해 상선 미사일 타격과 글로벌 해운 마비', defShort: '예멘 후티 홍해타격', defCat: 'politics'
   },
   'sy': {
-    country: '시리아 (다마스쿠스)', flag: '🇸🇾', lat: 33.5, lng: 36.3, dx: 30, dy: -25,
+    country: '시리아 (다마스쿠스)', flag: '🇸🇾', lat: 33.5, lng: 36.3, dx: -35, dy: -20,
     countryAliases: ['Syria', 'SY'],
     titleKws: ['시리아', '다마스쿠스', '아사드'],
     bodyKws: ['시리아'],
@@ -352,7 +352,7 @@ const GLOBAL_COUNTRY_DB = {
     defTitle: '이라크 원유 수송 파이프라인 정비 및 내수 경제 재건', defShort: '이라크 원유수송로', defCat: 'economy'
   },
   'ae': {
-    country: 'UAE (두바이/아부다비)', flag: '🇦🇪', lat: 24.5, lng: 54.4, dx: 45, dy: 15,
+    country: 'UAE (두바이/아부다비)', flag: '🇦🇪', lat: 24.5, lng: 54.4, dx: 30, dy: 25,
     countryAliases: ['United Arab Emirates', 'AE'],
     titleKws: ['uae', '아랍에미리트', '두바이', '아부다비'],
     bodyKws: ['두바이', '아부다비'],

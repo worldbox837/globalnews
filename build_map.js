@@ -38,25 +38,48 @@ function ringToPath(ring) {
 }
 
 async function main() {
-  console.log('1. Fetching GeoJSON for World Map...');
-  const geojsonUrl = 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson';
-  const geojson = await downloadGeoJSON(geojsonUrl);
-
-  console.log('2. Projecting countries using Miller projection...');
-  let svgPaths = [];
-  for (const f of geojson.features) {
-    if (f.properties.name === 'Antarctica') continue;
-    let dStr = '';
-    if (f.geometry.type === 'Polygon') {
-      dStr = f.geometry.coordinates.map(ringToPath).join(' ');
-    } else if (f.geometry.type === 'MultiPolygon') {
-      dStr = f.geometry.coordinates.map(poly => poly.map(ringToPath).join(' ')).join(' ');
+  let countriesSvg = '';
+  const cacheFile = path.join(__dirname, 'countries_cache.svg');
+  if (fs.existsSync(cacheFile)) {
+    countriesSvg = fs.readFileSync(cacheFile, 'utf8');
+    console.log('1. Loaded cached countries SVG directly from disk.');
+  } else if (fs.existsSync(path.join(__dirname, 'index.html'))) {
+    const existingHtml = fs.readFileSync(path.join(__dirname, 'index.html'), 'utf8');
+    const match = existingHtml.match(/<g id="countries-group">([\s\S]*?)<\/g>/);
+    if (match) {
+      countriesSvg = match[1].trim();
+      fs.writeFileSync(cacheFile, countriesSvg);
+      console.log('1. Extracted countries SVG from index.html and cached to disk.');
     }
-    const name = f.properties.name || '';
-    const code = f.properties.iso_a2 || '';
-    svgPaths.push('<path class="country" data-name="' + name + '" data-code="' + code + '" d="' + dStr + '" stroke-width="0.75" />');
   }
-  const countriesSvg = svgPaths.join('\n');
+
+  if (!countriesSvg) {
+    try {
+      console.log('1. Fetching GeoJSON for World Map...');
+      const geojsonUrl = 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson';
+      const geojson = await downloadGeoJSON(geojsonUrl);
+
+      console.log('2. Projecting countries using Miller projection...');
+      let svgPaths = [];
+      for (const f of geojson.features) {
+        if (f.properties.name === 'Antarctica') continue;
+        let dStr = '';
+        if (f.geometry.type === 'Polygon') {
+          dStr = f.geometry.coordinates.map(ringToPath).join(' ');
+        } else if (f.geometry.type === 'MultiPolygon') {
+          dStr = f.geometry.coordinates.map(poly => poly.map(ringToPath).join(' ')).join(' ');
+        }
+        const name = f.properties.name || '';
+        const code = f.properties.iso_a2 || '';
+        svgPaths.push('<path class="country" data-name="' + name + '" data-code="' + code + '" d="' + dStr + '" stroke-width="0.75" />');
+      }
+      countriesSvg = svgPaths.join('\n');
+      fs.writeFileSync(cacheFile, countriesSvg);
+    } catch (err) {
+      console.error('Failed to download GeoJSON and no cache available:', err);
+      process.exit(1);
+    }
+  }
 
   console.log('3. Loading Integrated Global Intelligence Dataset...');
   const jsonPath = path.join(__dirname, 'integrated_issues.json');
@@ -310,7 +333,7 @@ async function main() {
 
     /* Leader line aesthetics */
     .leader-line {
-      transition: stroke-width 0.2s ease, opacity 0.2s ease;
+      transition: stroke-width 0.2s ease, opacity 0.2s ease, d 0.12s ease-out;
       pointer-events: none;
     }
     .leader-line.active {
@@ -322,16 +345,21 @@ async function main() {
     /* Speech Bubble Overlay Elements */
     .marker-wrap {
       position: absolute;
-      transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%) scale(var(--map-counter-scale, 1));
       cursor: pointer;
       user-select: none;
-      transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1), z-index 0.2s;
+      transition: left 0.12s ease-out, top 0.12s ease-out, transform 0.15s cubic-bezier(0.2, 0.9, 0.4, 1.1), z-index 0.1s;
       z-index: 20;
       outline: none !important;
+      will-change: left, top, transform;
     }
-    .marker-wrap:hover, .marker-wrap.active {
-      transform: translate(-50%, -50%) scale(1.1);
-      z-index: 35;
+    .marker-wrap:hover {
+      transform: translate(-50%, -50%) scale(calc(var(--map-counter-scale, 1) * 1.18)) !important;
+      z-index: 100 !important;
+    }
+    .marker-wrap.active {
+      transform: translate(-50%, -50%) scale(calc(var(--map-counter-scale, 1) * 1.18)) !important;
+      z-index: 90 !important;
     }
 
     /* Hide map bubbles and leader lines when Detail Modal is open */
@@ -367,7 +395,7 @@ async function main() {
       border-color: var(--bubble-econ-border);
       color: var(--bubble-econ-text);
     }
-    .bubble-economy:hover, .marker-wrap.active .bubble-economy {
+    .bubble-economy:hover, .marker-wrap:hover .bubble-economy, .marker-wrap.active .bubble-economy {
       background: #dc2626 !important;
       color: #ffffff !important;
       box-shadow: 0 0 16px rgba(220, 38, 38, 0.85);
@@ -378,7 +406,7 @@ async function main() {
       border-color: var(--bubble-pol-border);
       color: var(--bubble-pol-text);
     }
-    .bubble-politics:hover, .marker-wrap.active .bubble-politics {
+    .bubble-politics:hover, .marker-wrap:hover .bubble-politics, .marker-wrap.active .bubble-politics {
       background: #2563eb !important;
       color: #ffffff !important;
       box-shadow: 0 0 16px rgba(37, 99, 235, 0.85);
@@ -389,7 +417,7 @@ async function main() {
       border-color: var(--bubble-env-border);
       color: var(--bubble-env-text);
     }
-    .bubble-environment:hover, .marker-wrap.active .bubble-environment {
+    .bubble-environment:hover, .marker-wrap:hover .bubble-environment, .marker-wrap.active .bubble-environment {
       background: #059669 !important;
       color: #ffffff !important;
       box-shadow: 0 0 16px rgba(5, 150, 105, 0.85);
@@ -607,13 +635,13 @@ async function main() {
         <!-- Active Category Banner -->
         <div class="absolute top-3 left-3 z-30 pointer-events-none">
           <div id="map-mode-indicator" style="background: var(--banner-bg); border-color: var(--banner-border); color: var(--banner-text);" class="px-3 py-1.5 rounded-lg backdrop-blur border text-xs font-bold shadow-md flex items-center gap-1.5 transition-colors">
-            <span>🌐 전체 글로벌 뉴스 (23개국)</span>
+            <span>🌐 전체 글로벌 뉴스 (${integratedIssues.length}개국)</span>
           </div>
         </div>
 
         <!-- Instruction Tip -->
         <div class="absolute bottom-2.5 right-3 px-3 py-1 rounded-lg backdrop-blur border text-[11px] font-medium pointer-events-none hidden sm:block" style="background: var(--banner-bg); border-color: var(--banner-border); color: var(--text-muted);">
-          💡 지도의 국가 영토나 말풍선을 클릭하면 해당 국가의 종합 뉴스 리스트가 열립니다
+          💡 지도를 확대(+)하면 말풍선들이 자동으로 벌어져 가려진 국가 뉴스를 쉽게 볼 수 있습니다
         </div>
       </div>
     </div>
@@ -626,7 +654,7 @@ async function main() {
         <div class="flex items-center gap-2 min-w-0">
           <span class="text-base shrink-0">📋</span>
           <h2 id="list-feed-title" style="color: var(--text-main);" class="text-sm font-extrabold tracking-wide whitespace-nowrap truncate">글로벌 뉴스 피드</h2>
-          <span id="list-total-count" class="text-xs px-2.5 py-0.5 rounded-full bg-blue-500/15 text-blue-600 dark:text-blue-400 font-bold border border-blue-500/30 shrink-0">23건</span>
+          <span id="list-total-count" class="text-xs px-2.5 py-0.5 rounded-full bg-blue-500/15 text-blue-600 dark:text-blue-400 font-bold border border-blue-500/30 shrink-0">${integratedIssues.length}건</span>
         </div>
         <div id="feed-header-action" class="flex items-center gap-1 shrink-0">
           <span style="color: var(--text-muted);" class="text-xs font-medium hidden 2xl:inline">국가별 주요 뉴스 리스트</span>
@@ -1472,19 +1500,13 @@ async function main() {
           sat.setAttribute('height', currentHeightY.toFixed(1));
         }
 
-        // Keep markers locked to geographic coordinates
-        document.querySelectorAll('.marker-wrap').forEach(el => {
-          const id = el.id.replace('marker-', '');
-          const item = issuesData.find(x => x.id === id);
-          if (item) {
-            const topPct = (((item.bubbleY - currentMinY) / currentHeightY) * 100).toFixed(2);
-            el.style.top = topPct + '%';
-          }
-        });
+        if (typeof updateTransform === 'function') {
+          updateTransform();
+        }
       }
     }
 
-    // Map Pan / Zoom Interactions (Min scale locked at 1.0, natural zoom scaling)
+    // Map Pan / Zoom Interactions (Min scale locked at 1.0, natural zoom scaling & bubble spread)
     function setupMapInteractions() {
       const container = document.getElementById('map-canvas');
       const stage = document.getElementById('map-stage');
@@ -1506,10 +1528,101 @@ async function main() {
           stage.style.transformOrigin = 'center center';
         }
 
-        // Maintain crisp, constant stroke width for leader lines
-        document.querySelectorAll('.leader-line').forEach(el => {
-          el.setAttribute('stroke-width', (1.2 / mapScale).toFixed(2));
-        });
+        // 1. Dynamic Fan-out Spread Factor & Counter Scale for Speech Bubbles
+        // When mapScale zooms from 1.0 -> 4.0, speech bubbles spread apart away from their anchors,
+        // while counter-scaling so that background bubbles become fully visible and readable!
+        const spreadFactor = 1.0 + (mapScale - 1.0) * 0.75;
+        const counterScale = 1.0 / Math.pow(mapScale, 0.62);
+
+        if (markersLayer) {
+          markersLayer.style.setProperty('--map-counter-scale', counterScale.toFixed(4));
+        }
+
+        // 2. Compute bubble positions with collision-free fanning
+        const posMap = {};
+        if (currentVisibleIssues && currentVisibleIssues.length > 0) {
+          currentVisibleIssues.forEach(item => {
+            if (mapScale <= 1.01) {
+              posMap[item.id] = {
+                x: item.bubbleX,
+                y: item.bubbleY,
+                ax: item.anchorX,
+                ay: item.anchorY
+              };
+            } else {
+              posMap[item.id] = {
+                x: item.anchorX + (item.dx !== undefined ? item.dx : 35) * spreadFactor,
+                y: item.anchorY + (item.dy !== undefined ? item.dy : -22) * spreadFactor,
+                ax: item.anchorX,
+                ay: item.anchorY
+              };
+            }
+          });
+
+          // Gentle collision avoidance relaxation when zoomed in to guarantee 0 bubble occlusion
+          if (mapScale > 1.05) {
+            const minDistX = 72 * counterScale;
+            const minDistY = 22 * counterScale;
+            for (let iter = 0; iter < 3; iter++) {
+              for (let i = 0; i < currentVisibleIssues.length; i++) {
+                const idA = currentVisibleIssues[i].id;
+                const pA = posMap[idA];
+                for (let j = i + 1; j < currentVisibleIssues.length; j++) {
+                  const idB = currentVisibleIssues[j].id;
+                  const pB = posMap[idB];
+                  const diffX = pB.x - pA.x;
+                  const diffY = pB.y - pA.y;
+                  if (Math.abs(diffX) < minDistX && Math.abs(diffY) < minDistY) {
+                    const overlapX = minDistX - Math.abs(diffX);
+                    const overlapY = minDistY - Math.abs(diffY);
+                    if (overlapX < overlapY * 1.8) {
+                      const shiftX = (overlapX * 0.5) * (diffX >= 0 ? 1 : -1);
+                      pA.x -= shiftX;
+                      pB.x += shiftX;
+                    } else {
+                      const shiftY = (overlapY * 0.5) * (diffY >= 0 ? 1 : -1);
+                      pA.y -= shiftY;
+                      pB.y += shiftY;
+                    }
+                  }
+                }
+              }
+            }
+          }
+
+          // Apply dynamically spread positions and update leader lines
+          currentVisibleIssues.forEach(item => {
+            const p = posMap[item.id];
+            if (!p) return;
+
+            const marker = document.getElementById('marker-' + item.id);
+            if (marker) {
+              const leftPct = (((p.x - 0) / 1000) * 100).toFixed(2);
+              const topPct = (((p.y - currentMinY) / currentHeightY) * 100).toFixed(2);
+              marker.style.left = leftPct + '%';
+              marker.style.top = topPct + '%';
+            }
+
+            const line = document.getElementById('line-' + item.id);
+            if (line) {
+              const ax = p.ax;
+              const ay = p.ay;
+              const bx = p.x;
+              const by = p.y;
+              const curDx = bx - ax;
+              const curDy = by - ay;
+              let pathD = '';
+              if (Math.abs(curDx) < 4 || Math.abs(curDy) < 4) {
+                pathD = 'M ' + ax.toFixed(1) + ' ' + ay.toFixed(1) + ' L ' + bx.toFixed(1) + ' ' + by.toFixed(1);
+              } else {
+                const cornerX = ax;
+                const cornerY = by;
+                pathD = 'M ' + ax.toFixed(1) + ' ' + ay.toFixed(1) + ' L ' + cornerX.toFixed(1) + ' ' + cornerY.toFixed(1) + ' L ' + bx.toFixed(1) + ' ' + by.toFixed(1);
+              }
+              line.setAttribute('d', pathD);
+            }
+          });
+        }
 
         // Map cursor feedback
         if (container) {
