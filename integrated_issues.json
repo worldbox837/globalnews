@@ -1,30 +1,30 @@
 [
   {
     "id": "issue-kr",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "대한민국 (서울)",
     "flag": "🇰🇷",
     "lat": 37.5,
     "lng": 127,
     "dx": 45,
     "dy": -25,
-    "title": "한국 OECD 가입 30주년…사과나무 심었다",
-    "shortTitle": "한국 OECD 가입",
+    "title": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+    "shortTitle": "호르무즈 봉쇄 후",
     "live": {
-      "headline": "한국 OECD 가입 30주년…사과나무 심었다",
-      "time": "5시간 전",
+      "headline": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+      "time": "1시간 전",
       "summary": [
-        "[실시간 속보] 한국 OECD 가입 30주년…사과나무 심었다",
-        "(런던=연합뉴스) 김지연 특파원 = 프랑스 파리의 경제협력개발기구(OECD) 본부에서 한국의 OECD 가입 30주년을 기념하는 사과나무 식수 행...",
-        "발행: 5시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+        "(부산=연합뉴스) 박성제 기자 = 호르무즈 해협 봉쇄 이후 21번째 한국 유조선이 우회로인 홍해를 경유해 국내로 원유를 운송 중이다.",
+        "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(런던=연합뉴스) 김지연 특파원 = 프랑스 파리의 경제협력개발기구(OECD) 본부에서 한국의 OECD 가입 30주년을 기념하는 사과나무 식수 행...",
+      "detail": "(부산=연합뉴스) 박성제 기자 = 호르무즈 해협 봉쇄 이후 21번째 한국 유조선이 우회로인 홍해를 경유해 국내로 원유를 운송 중이다.",
       "sources": [
         {
-          "title": "한국 OECD 가입 30주년…사과나무 심었다",
-          "url": "https://www.yna.co.kr/view/AKR20261125183400085",
+          "title": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+          "url": "https://www.yna.co.kr/view/AKR20261126066300051",
           "media": "연합뉴스 국제"
         }
       ]
@@ -46,44 +46,44 @@
     ],
     "relatedNews": [
       {
-        "title": "[속보] 美 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
-        "category": "경제·테크",
-        "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125184200071",
-        "summary": "("
-      },
-      {
-        "title": "[속보] 美, 한국 등 14개 경제주체에 '과잉생산 관세' 예고",
-        "category": "경제·테크",
-        "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125183900071",
-        "summary": "("
-      },
-      {
-        "title": "벨기에 브뤼셀에서 '한국 스토리텔링 10년' 전시 개막",
+        "title": "[율곡로] 한국서 다시 피어난 벚꽃과 동백꽃",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125168900098",
-        "summary": "(브뤼셀=연합뉴스) 현윤경 특파원 = 24일(현지시간) 벨기에 브뤼셀 중심가에서 전세계와 유럽을 사로잡은 K-콘텐츠를 조명하는 행사 '한국 스토..."
+        "time": "4시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261125144700546",
+        "summary": "(서울=연합뉴스) 이승우 선임기자 = 일본산 벚꽃과 동백꽃이 한반도로 이식돼 다시 꽃망울을 터뜨리고 있다. 진짜 꽃은 아니고 여자 운동선수들 이..."
       },
       {
-        "title": "서울시·국토부, 정비사업 규제완화 놓고 '장외 공방'(종합)",
-        "category": "정치·외교",
-        "media": "연합뉴스 경제",
-        "time": "7시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125122851003",
-        "summary": "(서울=연합뉴스) 임기창 김동규 기자 = 오세훈 서울시장이 주택 공급 확대를 위해 정부에 정비사업 관련 규제 완화를 요구한 것을 두고 서울시와 ..."
-      },
-      {
-        "title": "한국투자저축은행 8만6천여명 개인정보 유출…업권 최대 규모",
+        "title": "한은 총재 \"반도체 시총 2천조, 수익 3배밖에 안돼…설명 불가\"",
         "category": "경제·테크",
         "media": "연합뉴스 경제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125165600002",
-        "summary": "(서울=연합뉴스) 강류나 기자 = 한국투자금융지주 자회사인 한국투자저축은행에서 해킹 사고가 발생해 8만6천433명 고객의 개인정보가 유출됐다."
+        "time": "7분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126102000002",
+        "summary": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 \"반도체 기업의 올해 영업이익이 700조원인데 시총이 2천조로 수익의 3배밖에 ..."
+      },
+      {
+        "title": "한은 총재 \"잠재성장률 추정치 높이는 방향…내달 발표\"",
+        "category": "경제·테크",
+        "media": "연합뉴스 경제",
+        "time": "21분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126100700002",
+        "summary": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 잠재성장률을 현재 통화정책 기준으로 삼기는 어렵다며 추정치를 높이는 방향을 내년..."
+      },
+      {
+        "title": "내달 노동감독 지방 위임…서울 경비업·경기 식품제조 중점감독",
+        "category": "경제·테크",
+        "media": "연합뉴스 경제",
+        "time": "26분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126040800530",
+        "summary": "(서울=연합뉴스) 한혜원 기자 = 고용노동부는 다음 달 8일부터 노동감독관 직무집행법이 시행돼 서울, 전남광주, 경기, 경남, 제주 등 지방정부..."
+      },
+      {
+        "title": "우본, 한국 '수출 1조 달러 달성' 기념우표 발행",
+        "category": "경제·테크",
+        "media": "연합뉴스 경제",
+        "time": "26분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126041500017",
+        "summary": "(서울=연합뉴스) 박형빈 기자 = 과학기술정보통신부 우정사업본부는 '대한민국 수출 1조 달러 달성' 기념우표 48만장을 다음 달 4일 발행한다고..."
       }
     ]
   },
@@ -98,21 +98,21 @@
     "lng": 125.7,
     "dx": 30,
     "dy": -25,
-    "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-    "shortTitle": "北, 김여정 담화",
+    "title": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+    "shortTitle": "中, 뉴질랜드 자치령",
     "live": {
-      "headline": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-      "time": "3시간 전",
+      "headline": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+      "time": "32분 전",
       "summary": [
-        "[실시간 속보] 北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-        "(서울·베를린=연합뉴스) 윤보람 기자 김계연 특파원 = 자국 내 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해온 북한이 평양 주재 스...",
-        "발행: 3시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+        "(베이징=연합뉴스) 정성조 특파원 = 중국이 뉴질랜드 자치령인 남태평양 쿡 제도 해역에서 유인 심해 탐사에 나섰다고 중국 관영매체들이 25일 전...",
+        "발행: 32분 전 (연합뉴스 국제)"
       ],
-      "detail": "(서울·베를린=연합뉴스) 윤보람 기자 김계연 특파원 = 자국 내 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해온 북한이 평양 주재 스...",
+      "detail": "(베이징=연합뉴스) 정성조 특파원 = 중국이 뉴질랜드 자치령인 남태평양 쿡 제도 해역에서 유인 심해 탐사에 나섰다고 중국 관영매체들이 25일 전...",
       "sources": [
         {
-          "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261125095351504",
+          "title": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+          "url": "https://www.yna.co.kr/view/AKR20261126094300083",
           "media": "연합뉴스 국제"
         }
       ]
@@ -134,57 +134,57 @@
     ],
     "relatedNews": [
       {
-        "title": "北외교차관 \"北中 우의 견고…中외교부와 교류·협력 강화\"",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "4시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125186500083",
-        "summary": "(베이징=연합뉴스) 정성조 특파원 = 북한 외교차관이 평양 주재 중국대사관을 방문해 북중 교류 의지를 피력했다고 중국대사관이 25일 밝혔다."
-      },
-      {
         "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합) - 연합뉴스",
         "category": "정치·외교",
         "media": "구글 뉴스 세계",
-        "time": "3시간 전",
+        "time": "11시간 전",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
         "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdick..."
       },
       {
-        "title": "트럼프 “김정은과 친서교환 당장 재개 가능…내용은 핵무장 관련” - 한겨레",
+        "title": "APEC때 김정은 못만난 트럼프 “러브레터 당장 시작할수도” - 동아일보",
         "category": "정치·외교",
         "media": "구글 뉴스 세계",
-        "time": "8시간 전",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUzhIVFJZSGdKeFo2R0Fqa1JmbnMtcElkajZwXzNSdVctY1BDMGtQYjZkSGhwNXBLOHIxd2loYlJTWkgydk1SbDR4LWhvUXRTeU1VNm1PU1k4eTM5cnNQLWpjaGFPS3RQYVI2cWFqcw?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUzhIVFJZSGdKeFo2R0Fqa1..."
+        "time": "7시간 전",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbVdsUldpVl93RWswMURlZTQ2OHRIQk43QTc5M0lYT1RDMGZSakIteXpnbmpBSkJpWi1hTWlORGNTaXJVdVNYbVdEZ1RBM3JNYzRUX1B2TVUxVG91ei1IajlZREt2QnFJSVRZTEVPeUZKd0U?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbVdsUldpVl93RWswMURlZT..."
+      },
+      {
+        "title": "황종우 해수장관, 양식업계 간담회…\"CPTPP 가입 영향 살필 것\"",
+        "category": "정치·외교",
+        "media": "연합뉴스 경제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126051200030",
+        "summary": "(서울=연합뉴스) 한주홍 기자 = 황종우 해양수산부 장관은 25일 목포에서 어류 양식업계 관계자들과 간담회를 열고 포괄적·점진적 환태평양경제동반..."
       }
     ]
   },
   {
     "id": "issue-cn",
-    "category": "economy",
-    "categoryName": "경제·테크",
-    "color": "#ef4444",
+    "category": "politics",
+    "categoryName": "정치·외교",
+    "color": "#3b82f6",
     "country": "중국 (베이징)",
     "flag": "🇨🇳",
     "lat": 39.9,
     "lng": 116.4,
     "dx": 20,
     "dy": 25,
-    "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-    "shortTitle": "美, 중국 등 14개",
+    "title": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+    "shortTitle": "中, 뉴질랜드 자치령",
     "live": {
-      "headline": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-      "time": "2시간 전",
+      "headline": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+      "time": "32분 전",
       "summary": [
-        "[실시간 속보] 美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-        "(워싱턴=연합뉴스) 백나리 특파원 = 미국이 무역법 301조에 따른 조사를 거쳐 한국을 포함해 14개 경제주체에 과잉생산을 문제 삼는 관세를 예...",
-        "발행: 2시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+        "(베이징=연합뉴스) 정성조 특파원 = 중국이 뉴질랜드 자치령인 남태평양 쿡 제도 해역에서 유인 심해 탐사에 나섰다고 중국 관영매체들이 25일 전...",
+        "발행: 32분 전 (연합뉴스 국제)"
       ],
-      "detail": "(워싱턴=연합뉴스) 백나리 특파원 = 미국이 무역법 301조에 따른 조사를 거쳐 한국을 포함해 14개 경제주체에 과잉생산을 문제 삼는 관세를 예...",
+      "detail": "(베이징=연합뉴스) 정성조 특파원 = 중국이 뉴질랜드 자치령인 남태평양 쿡 제도 해역에서 유인 심해 탐사에 나섰다고 중국 관영매체들이 25일 전...",
       "sources": [
         {
-          "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-          "url": "https://www.yna.co.kr/view/AKR20261125185752071",
+          "title": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+          "url": "https://www.yna.co.kr/view/AKR20261126094300083",
           "media": "연합뉴스 국제"
         }
       ]
@@ -205,44 +205,44 @@
     ],
     "relatedNews": [
       {
-        "title": "北외교차관 \"北中 우의 견고…中외교부와 교류·협력 강화\"",
+        "title": "중국·캄보디아, 역대 최대 합동군사훈련…양국 2천900명 참가",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "4시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125186500083",
-        "summary": "(베이징=연합뉴스) 정성조 특파원 = 북한 외교차관이 평양 주재 중국대사관을 방문해 북중 교류 의지를 피력했다고 중국대사관이 25일 밝혔다."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126083900083",
+        "summary": "(베이징=연합뉴스) 한종구 특파원 = 중국과 캄보디아가 역대 최대 규모의 합동군사훈련에 돌입했다."
       },
       {
-        "title": "中·네덜란드, 반도체업체 갈등 속 베이징서 외교장관회담",
+        "title": "하이킹하다 마주친 코끼리떼 습격에…카메룬 관광中 유럽인 참변",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126065600009",
+        "summary": "(서울=연합뉴스) 현영복 기자 = 아프리카 중서부의 카메룬에서 하이킹을 즐기던 단체 관광객이 멸종 위기종인 코끼리 떼의 공격을 받아 인명사고로까..."
+      },
+      {
+        "title": "中관영지, 美과잉생산 관세 추진 비판…\"무역협상 성과 훼손\"",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125184400083",
-        "summary": "(베이징=연합뉴스) 정성조 특파원 = 중국 외교 수장이 반도체 업체 소송전 등으로 중국과 갈등을 빚고 있는 네덜란드를 향해 협력 강화의 필요성을..."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126058800083",
+        "summary": "(베이징=연합뉴스) 한종구 특파원 = 미국 도널드 트럼프 행정부가 한국과 중국 등을 대상으로 산업 과잉생산을 이유로 추가 관세 부과 방안을 발표..."
       },
       {
-        "title": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
+        "title": "\"중국 배후 증거 없다\"…\"美당국, 젠슨 황 불륜 의회보고\"",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "7시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125177500084",
-        "summary": "(하노이=연합뉴스) 박진형 특파원 = 미얀마의 희토류 등 광물 채굴에 따른 중금속 폐수 유입 피해를 입고 있는 태국이 관련 광산들의 가동을 최소..."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126054000009",
+        "summary": "(서울=연합뉴스) 황정우 기자 = 미국 정보 당국이 엔비디아 젠슨 황 최고경영자(CEO)와 불륜 관계였던 앨리스 황이 중국 정보기관의 지시를 받..."
       },
       {
-        "title": "EU, 美·中에 맞설 500억 유로 '소버린 기술펀드' 추진(종합)",
+        "title": "희토류 의식했나…미국, 중국 추가관세에 기존합의 준수",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "7시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125125351009",
-        "summary": "(서울·브뤼셀=연합뉴스) 이성한 기자 현윤경 특파원 = 유럽연합(EU)이 미국과 중국의 기술 패권에 맞서기 위해 인공지능(AI) 및 양자컴퓨팅 ..."
-      },
-      {
-        "title": "美정보당국 \"앨리스황, 젠슨과 만남 중 中에 정보넘겨\" 의회보고(종합)",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "8시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125136151009",
-        "summary": "(서울=연합뉴스) 곽민서 기자 = 젠슨 황 엔비디아 최고경영자(CEO)와 불륜 관계였던 앨리스 황(중국명 황러·黃樂)이 중국 정보기관에 실제로 ..."
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126046900009",
+        "summary": "(서울=연합뉴스) 박상돈 기자 = 미국이 한국을 비롯한 14개 경제주체에 '과잉생산 관세'를 예고하며 중국에 기존과 비슷한 상한선을 적용하기로 ..."
       }
     ]
   },
@@ -257,21 +257,21 @@
     "lng": 139.7,
     "dx": 55,
     "dy": -15,
-    "title": "[속보] 美 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
-    "shortTitle": "美 USTR 한국,",
+    "title": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+    "shortTitle": "日정부, 15% 美관세에",
     "live": {
-      "headline": "[속보] 美 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
-      "time": "5시간 전",
+      "headline": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+      "time": "8분 전",
       "summary": [
-        "[실시간 속보] [속보] 美 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
-        "(",
-        "발행: 5시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+        "(도쿄=연합뉴스) 조성미 특파원 = 미국이 25일(현지시간) 한국과 중국, 일본, 유럽연합(EU) 등을 대상으로 과잉생산에 대한 관세 부과를 발...",
+        "발행: 8분 전 (연합뉴스 국제)"
       ],
-      "detail": "(",
+      "detail": "(도쿄=연합뉴스) 조성미 특파원 = 미국이 25일(현지시간) 한국과 중국, 일본, 유럽연합(EU) 등을 대상으로 과잉생산에 대한 관세 부과를 발...",
       "sources": [
         {
-          "title": "[속보] 美 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125184200071",
+          "title": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261126068251073",
           "media": "연합뉴스 국제"
         }
       ]
@@ -292,44 +292,44 @@
     ],
     "relatedNews": [
       {
-        "title": "\"日 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
+        "title": "日·인도, 달 남극 탐사선 공동 개발…2028년 발사 목표",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125183600073",
-        "summary": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부가 연내 개정할 예정인 3대 안보 문서 중 '방위력 정비 계획' 기본 방향(지침)에 반격 능력 수단..."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126086800073",
+        "summary": "(도쿄=연합뉴스) 조성미 특파원 = 일본과 인도가 달 탐사선을 공동 개발해 물이 얼음 상태로 존재할 것으로 추정되는 달의 남극 지역을 조사할 예..."
       },
       {
-        "title": "\"日, 내달 홋카이도에 '반격능력' 장사정 미사일 발사장치 반입\"",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "6시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125181400073",
-        "summary": "(도쿄=연합뉴스) 이도연 특파원 = 일본 방위성이 내달 초 자국산 장사정 미사일의 발사 장치를 육상자위대 홋카이도 가미후라노 주둔지에 반입할 예..."
-      },
-      {
-        "title": "\"日안보문서 전문가회의 제언 초안서 '비핵 3원칙 재검토 의견'\"",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "7시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125177700073",
-        "summary": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부의 3대 안보 문서 개정을 논의하는 정부 전문가 회의가 제언 초안에서 '비핵 3원칙'의 기본 이념을..."
-      },
-      {
-        "title": "日 여야, '문부상 취임 전 정치행사에 현직관료 초청' 논란 공방",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125163100073",
-        "summary": "(도쿄=연합뉴스) 이도연 특파원 = 일본 정치권에서 현직 중앙부처 관료를 정치인 주최 행사에 초청하는 관행을 둘러싼 여야 간 공방이 확산하고 있..."
-      },
-      {
-        "title": "日증시, 젠슨 황 효과 하루 만에 증발…닛케이 2.78% 급락 마감(종합)",
+        "title": "日, 美관세 작년 합의 15% 유지에 안도…추가 압박 가능성 주시",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "11시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125096051009",
-        "summary": "(서울·도쿄=연합뉴스) 김병규 기자 이도연 특파원 = 젠슨 황 최고경영자(CEO)의 엔비디아 복귀 후 급등했던 일본 증시가 하루 만에 급락세로 ..."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126068200073",
+        "summary": "(도쿄=연합뉴스) 조성미 특파원 = 미국이 25일(현지시간) 한국과 중국, 일본, 유럽연합(EU) 등을 대상으로 과잉생산에 대한 관세 부과를 발..."
+      },
+      {
+        "title": "日 유학생 유치 경제효과 연간 7조원대…20년 새 4.7배",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126066000009",
+        "summary": "(서울=연합뉴스) 최이락 기자 = 일본이 외국인 유학생을 유치해 얻는 연간 경제효과가 8천200억엔(약 7조원)을 넘어선 것으로 추산됐다."
+      },
+      {
+        "title": "日, '고액 건보 진료' 노린 외국인 체류자격 취소 추진",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126048900009",
+        "summary": "(서울=연합뉴스) 최이락 기자 = 일본 정부가 고액의 건강보험 혜택을 노리고 입국하는 외국인을 차단하기 위해 체류자격 취소 등 대응 강화에 나선..."
+      },
+      {
+        "title": "한일친선협회중앙회 회장단 방일…기시다 전 총리 등과 면담",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126044100073",
+        "summary": "(도쿄=연합뉴스) 조성미 특파원 = 한일친선협회중앙회는 회장단이 25∼27일 일본 도쿄를 방문해 일본 정계 주요 인사들과 면담하고 일한친선협회중..."
       }
     ]
   },
@@ -344,22 +344,22 @@
     "lng": 121.5,
     "dx": 35,
     "dy": -20,
-    "title": "대만 검찰, 中 선거 개입 연루 혐의 노동당 부대표 구속",
-    "shortTitle": "대만 검찰, 中 선거",
+    "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\" - MBC 뉴스",
+    "shortTitle": "중국 트럼프, 대만독립",
     "live": {
-      "headline": "대만 검찰, 中 선거 개입 연루 혐의 노동당 부대표 구속",
-      "time": "12시간 전",
+      "headline": "중국 \"트럼프, 대만독립 지지 안 한다 말해\" - MBC 뉴스",
+      "time": "21시간 전",
       "summary": [
-        "[실시간 속보] 대만 검찰, 中 선거 개입 연루 혐의 노동당 부대표 구속",
-        "(타이베이=연합뉴스) 김철문 통신원 = 대만 지방선거가 사흘 앞으로 다가온 가운데 대만 야당 노동당의 부주석(부대표)이 중국 측 지시를 받아 특...",
-        "발행: 12시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 중국 \"트럼프, 대만독립 지지 안 한다 말해\" - MBC 뉴스",
+        "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkYmhsOFdsdm94dTAyZW5wRngwSXlCQmhkWWQ5c0xN",
+        "발행: 21시간 전 (구글 뉴스 세계)"
       ],
-      "detail": "(타이베이=연합뉴스) 김철문 통신원 = 대만 지방선거가 사흘 앞으로 다가온 가운데 대만 야당 노동당의 부주석(부대표)이 중국 측 지시를 받아 특...",
+      "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkYmhsOFdsdm94dTAyZW5wRngwSXlCQmhkWWQ5c0xNaDZ0ay1qU0wwMGlpb0FpODBPdkdhWm9IVGRheTREZl9vVV8tcGQ2aDFJMVoyUFhidDBNbU",
       "sources": [
         {
-          "title": "대만 검찰, 中 선거 개입 연루 혐의 노동당 부대표 구속",
-          "url": "https://www.yna.co.kr/view/AKR20261125125900009",
-          "media": "연합뉴스 국제"
+          "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\" - MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkYmhsOFdsdm94dTAyZW5wRngwSXlCQmhkWWQ5c0xNaDZ0ay1qU0wwMGlpb0FpODBPdkdhWm9IVGRheTREZl9vVV8tcGQ2aDFJMVoyUFhidDBNbUlIQzhzdFd4S0dYdjg2SFBzaXp4aVcwNURt0gF0QVVfeXFMTVB0V3ZjVkh0QjBFSHYweWxsdmtNb1ZLOU04cnQwX3ZWMmlZc1ppZG8xek41SzZTZTlEaEE0b1FRZUQ2bV9UVTlHV2xDZTZIZWhpZUxNX2NjckF3LWQ4RWhBTWdvOVozQWMxYW9vVjJTaE5lN2s?oc=5",
+          "media": "구글 뉴스 세계"
         }
       ]
     },
@@ -377,24 +377,7 @@
       "Taiwan",
       "TW"
     ],
-    "relatedNews": [
-      {
-        "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\" - MBC 뉴스",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "13시간 전",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkYmhsOFdsdm94dTAyZW5wRngwSXlCQmhkWWQ5c0xNaDZ0ay1qU0wwMGlpb0FpODBPdkdhWm9IVGRheTREZl9vVV8tcGQ2aDFJMVoyUFhidDBNbUlIQzhzdFd4S0dYdjg2SFBzaXp4aVcwNURt0gF0QVVfeXFMTVB0V3ZjVkh0QjBFSHYweWxsdmtNb1ZLOU04cnQwX3ZWMmlZc1ppZG8xek41SzZTZTlEaEE0b1FRZUQ2bV9UVTlHV2xDZTZIZWhpZUxNX2NjckF3LWQ4RWhBTWdvOVozQWMxYW9vVjJTaE5lN2s?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkYmhsOFdsdm94dTAyZW5wRn..."
-      },
-      {
-        "title": "TSMC, 삼성 텃밭 텍사스에 33조원 2나노 공장 추진… 테슬라 수주전 ‘정면승부’ - Chosunbiz",
-        "category": "정치·외교",
-        "media": "구글 뉴스 비즈니스",
-        "time": "12시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5EQlRHWjBMcEptbDlzcXFpX1RNN2Rmc09Ec1R2eE02dlZhR2lPZmhpM0Z6VW5YUFdTbUV5ZWk1YVV5d3JiVFBOb1c5aHF5eG9iN0I2ZjYyWlFoUnkyMnpmbEhSU3Jrd01Ka3J3SS1WZHdNeDRXUTYwbW9pRTg3MVFB0gGWAUFVX3lxTE1TNHpycGw1QWVCVEtxNTMxWFdFLW4zX1JmUjNXRGFoQlVtTzE4TzFoRGxremtKRVNrNm44SDFfdDVjRkJad2ZZZVhEc0oyTTIyLVVQTHc0MDNWNERoX3dwVmRQdGNFVHU4dVpJZ01ocHIwcGdyeGhNcDNfM20wQWtKQ20zNGxxVjZ3VURuTkZoSXFYYnlGdw?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5EQlRHWjBMcEptbDlzcX..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-in",
@@ -407,22 +390,22 @@
     "lng": 77.2,
     "dx": 35,
     "dy": 30,
-    "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정 - 이데일리",
-    "shortTitle": "美CFTC,",
+    "title": "日·인도, 달 남극 탐사선 공동 개발…2028년 발사 목표",
+    "shortTitle": "日·인도, 달 남극",
     "live": {
-      "headline": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정 - 이데일리",
-      "time": "1일 전",
+      "headline": "日·인도, 달 남극 탐사선 공동 개발…2028년 발사 목표",
+      "time": "1시간 전",
       "summary": [
-        "[실시간 속보] 美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정 - 이데일리",
-        "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHFhcjhsOWRxLThtYmpEbXc1UU1yRkw3MXF4ZXBhb0d5V1Vu",
-        "발행: 1일 전 (구글 뉴스 테크)"
+        "[실시간 속보] 日·인도, 달 남극 탐사선 공동 개발…2028년 발사 목표",
+        "(도쿄=연합뉴스) 조성미 특파원 = 일본과 인도가 달 탐사선을 공동 개발해 물이 얼음 상태로 존재할 것으로 추정되는 달의 남극 지역을 조사할 예...",
+        "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHFhcjhsOWRxLThtYmpEbXc1UU1yRkw3MXF4ZXBhb0d5V1VuMnpLSmZZY01zVkRGSHkwWlh1Y3Q2RWh4Nm5kWnVqWU9leE1JY1Y1SEt0MUo0Q2JxQW10WV",
+      "detail": "(도쿄=연합뉴스) 조성미 특파원 = 일본과 인도가 달 탐사선을 공동 개발해 물이 얼음 상태로 존재할 것으로 추정되는 달의 남극 지역을 조사할 예...",
       "sources": [
         {
-          "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정 - 이데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHFhcjhsOWRxLThtYmpEbXc1UU1yRkw3MXF4ZXBhb0d5V1VuMnpLSmZZY01zVkRGSHkwWlh1Y3Q2RWh4Nm5kWnVqWU9leE1JY1Y1SEt0MUo0Q2JxQW10WVpLT2RlbGVnVFJ5dHlGYm8xUHYyVUxzY3kwRTJQbTFCVw?oc=5",
-          "media": "구글 뉴스 테크"
+          "title": "日·인도, 달 남극 탐사선 공동 개발…2028년 발사 목표",
+          "url": "https://www.yna.co.kr/view/AKR20261126086800073",
+          "media": "연합뉴스 국제"
         }
       ]
     },
@@ -440,47 +423,80 @@
       "India",
       "IN"
     ],
-    "relatedNews": []
+    "relatedNews": [
+      {
+        "title": "인도 \"구조적 과잉생산 없어…미국과 무역협상 타결 위해 협력\"",
+        "category": "경제·테크",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126081900104",
+        "summary": "(자카르타=연합뉴스) 손현규 특파원 = 미국 정부가 무역법 301조 조사 결과에 따른 '과잉생산' 관세를 부과하겠다고 예고하자 그 대상인 14개..."
+      },
+      {
+        "title": "인도, 비스레리 생수 발암물질 검출 후 모든 생수 일제 검사",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126059400009",
+        "summary": "(서울=연합뉴스) 유창엽 기자 = 인도 최대 음료업체 비스레리 인터내셔널의 먹는샘물(생수)에서 발암물질이 검출돼 생수 전반에 대한 안전 우려가 ..."
+      },
+      {
+        "title": "美, 인도에 무역합의 압박…\"관세 17% 협정 안 맺으면 25% 부과\"",
+        "category": "경제·테크",
+        "media": "연합뉴스 국제",
+        "time": "4시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126025300009",
+        "summary": "(서울=연합뉴스) 이성한 기자 = 미국 정부가 25일(현지시간) 과잉생산을 문제삼아 인도에 최대 25% 관세를 예고하면서 양국간 조속한 무역협정..."
+      },
+      {
+        "title": "폭우로 인니 광산 지하 100m 갱도 침수…9명 사망·17명 실종",
+        "category": "환경·재난",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126053600104",
+        "summary": "(자카르타=연합뉴스) 손현규 특파원 = 인도네시아에서 폭우가 내린 뒤 강이 범람해 지하 100m 깊이의 광산 갱도가 침수되면서 광부 9명이 매몰..."
+      }
+    ]
   },
   {
     "id": "issue-th",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "environment",
+    "categoryName": "환경·재난",
+    "color": "#10b981",
     "country": "태국 (방콕)",
     "flag": "🇹🇭",
     "lat": 13.7,
     "lng": 100.5,
     "dx": -25,
     "dy": -30,
-    "title": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-    "shortTitle": "강물 오염 태국, 中에",
+    "title": "태국 몬순 폭우 침수 피해 및 신임 내각 경기 대응",
+    "shortTitle": "태국 폭우 침수 대응",
     "live": {
-      "headline": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-      "time": "7시간 전",
+      "headline": "태국 몬순 폭우 침수 피해 및 신임 내각 경기 대응",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] '강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-        "(하노이=연합뉴스) 박진형 특파원 = 미얀마의 희토류 등 광물 채굴에 따른 중금속 폐수 유입 피해를 입고 있는 태국이 관련 광산들의 가동을 최소...",
-        "발행: 7시간 전 (연합뉴스 국제)"
+        "태국 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(하노이=연합뉴스) 박진형 특파원 = 미얀마의 희토류 등 광물 채굴에 따른 중금속 폐수 유입 피해를 입고 있는 태국이 관련 광산들의 가동을 최소...",
+      "detail": "태국 (방콕) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-          "url": "https://www.yna.co.kr/view/AKR20261125177500084",
-          "media": "연합뉴스 국제"
+          "title": "태국 (방콕) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "태국 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "태국 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "태국 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "태국 (방콕) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "태국 (방콕)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Thailand",
@@ -490,59 +506,50 @@
   },
   {
     "id": "issue-vn",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "베트남 (하노이)",
     "flag": "🇻🇳",
     "lat": 21,
     "lng": 105.8,
     "dx": 35,
     "dy": -15,
-    "title": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-    "shortTitle": "강물 오염 태국, 中에",
+    "title": "베트남 글로벌 IT 생산기지 유치 및 에너지 인프라 확충",
+    "shortTitle": "베트남 IT제조 허브",
     "live": {
-      "headline": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-      "time": "7시간 전",
+      "headline": "베트남 글로벌 IT 생산기지 유치 및 에너지 인프라 확충",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] '강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-        "(하노이=연합뉴스) 박진형 특파원 = 미얀마의 희토류 등 광물 채굴에 따른 중금속 폐수 유입 피해를 입고 있는 태국이 관련 광산들의 가동을 최소...",
-        "발행: 7시간 전 (연합뉴스 국제)"
+        "베트남 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(하노이=연합뉴스) 박진형 특파원 = 미얀마의 희토류 등 광물 채굴에 따른 중금속 폐수 유입 피해를 입고 있는 태국이 관련 광산들의 가동을 최소...",
+      "detail": "베트남 (하노이) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
-          "url": "https://www.yna.co.kr/view/AKR20261125177500084",
-          "media": "연합뉴스 국제"
+          "title": "베트남 (하노이) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "베트남 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "베트남 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "베트남 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "베트남 (하노이) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "베트남 (하노이)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Vietnam",
       "Viet Nam",
       "VN"
     ],
-    "relatedNews": [
-      {
-        "title": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-        "category": "경제·테크",
-        "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125161900084",
-        "summary": "(하노이=연합뉴스) 박진형 특파원 = 호주 정부가 구글·메타 등 빅테크(거대 정보기술기업)들이 유해 콘텐츠나 중독성 기능을 삭제하지 않으면 전 ..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-id",
@@ -555,21 +562,21 @@
     "lng": 106.8,
     "dx": -35,
     "dy": 35,
-    "title": "방글라 의류 노동자 최저임금 월 18만원으로…3년 만에 36% 인상",
-    "shortTitle": "방글라 의류 노동자",
+    "title": "인도 \"구조적 과잉생산 없어…미국과 무역협상 타결 위해 협력\"",
+    "shortTitle": "인도 구조적 과잉생산",
     "live": {
-      "headline": "방글라 의류 노동자 최저임금 월 18만원으로…3년 만에 36% 인상",
-      "time": "11시간 전",
+      "headline": "인도 \"구조적 과잉생산 없어…미국과 무역협상 타결 위해 협력\"",
+      "time": "1시간 전",
       "summary": [
-        "[실시간 속보] 방글라 의류 노동자 최저임금 월 18만원으로…3년 만에 36% 인상",
-        "(자카르타=연합뉴스) 손현규 특파원 = 중국에 이어 세계 2위 의류 수출국인 방글라데시에서 최근 한 달 가까이 대규모 시위를 벌인 의류 노동자들...",
-        "발행: 11시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 인도 \"구조적 과잉생산 없어…미국과 무역협상 타결 위해 협력\"",
+        "(자카르타=연합뉴스) 손현규 특파원 = 미국 정부가 무역법 301조 조사 결과에 따른 '과잉생산' 관세를 부과하겠다고 예고하자 그 대상인 14개...",
+        "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(자카르타=연합뉴스) 손현규 특파원 = 중국에 이어 세계 2위 의류 수출국인 방글라데시에서 최근 한 달 가까이 대규모 시위를 벌인 의류 노동자들...",
+      "detail": "(자카르타=연합뉴스) 손현규 특파원 = 미국 정부가 무역법 301조 조사 결과에 따른 '과잉생산' 관세를 부과하겠다고 예고하자 그 대상인 14개...",
       "sources": [
         {
-          "title": "방글라 의류 노동자 최저임금 월 18만원으로…3년 만에 36% 인상",
-          "url": "https://www.yna.co.kr/view/AKR20261125143800104",
+          "title": "인도 \"구조적 과잉생산 없어…미국과 무역협상 타결 위해 협력\"",
+          "url": "https://www.yna.co.kr/view/AKR20261126081900104",
           "media": "연합뉴스 국제"
         }
       ]
@@ -588,7 +595,16 @@
       "Indonesia",
       "ID"
     ],
-    "relatedNews": []
+    "relatedNews": [
+      {
+        "title": "폭우로 인니 광산 지하 100m 갱도 침수…9명 사망·17명 실종",
+        "category": "환경·재난",
+        "media": "연합뉴스 국제",
+        "time": "2시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126053600104",
+        "summary": "(자카르타=연합뉴스) 손현규 특파원 = 인도네시아에서 폭우가 내린 뒤 강이 범람해 지하 100m 깊이의 광산 갱도가 침수되면서 광부 9명이 매몰..."
+      }
+    ]
   },
   {
     "id": "issue-ph",
@@ -730,66 +746,49 @@
   },
   {
     "id": "issue-pk",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "파키스탄 (이슬라마바드)",
     "flag": "🇵🇰",
     "lat": 33.7,
     "lng": 73,
     "dx": 20,
     "dy": -35,
-    "title": "[쇼츠] 파키스탄 우주인, 톈궁으로…中우주선 탑승한 첫 외국인",
-    "shortTitle": "파키스탄 우주인,",
+    "title": "파키스탄 IMF 구제금융 이행과 경제 재건 과제",
+    "shortTitle": "파키스탄 경제안정화",
     "live": {
-      "headline": "[쇼츠] 파키스탄 우주인, 톈궁으로…中우주선 탑승한 첫 외국인",
-      "time": "10시간 전",
+      "headline": "파키스탄 IMF 구제금융 이행과 경제 재건 과제",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] [쇼츠] 파키스탄 우주인, 톈궁으로…中우주선 탑승한 첫 외국인",
-        "(서울=연합뉴스) 중국이 유인우주 개발 역사상 처음으로 외국인 우주비행사를 태운 유인우주선 선저우(神舟) 24호 발사에 성공했습니다.",
-        "발행: 10시간 전 (연합뉴스 국제)"
+        "파키스탄 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(서울=연합뉴스) 중국이 유인우주 개발 역사상 처음으로 외국인 우주비행사를 태운 유인우주선 선저우(神舟) 24호 발사에 성공했습니다.",
+      "detail": "파키스탄 (이슬라마바드) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "[쇼츠] 파키스탄 우주인, 톈궁으로…中우주선 탑승한 첫 외국인",
-          "url": "https://www.yna.co.kr/view/AKR20261125158600704",
-          "media": "연합뉴스 국제"
+          "title": "파키스탄 (이슬라마바드) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "파키스탄 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "파키스탄 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "파키스탄 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "파키스탄 (이슬라마바드) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "파키스탄 (이슬라마바드)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Pakistan",
       "PK"
     ],
-    "relatedNews": [
-      {
-        "title": "[영상] '파키스탄 우주인 탑승' 中우주선 발사 성공…톈궁에 첫 외국인",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125155000704",
-        "summary": "(서울=연합뉴스) 중국이 유인우주 개발 역사상 처음으로 외국인 우주비행사를 태운 유인우주선 선저우(神舟) 24호 발사에 성공했습니다."
-      },
-      {
-        "title": "[포토뉴스]중국, 유인우주선 선저우 24호 발사…‘파키스탄 출신’ 외국인 우주비행사 첫 탑승 - 경향신문",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "7시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NN1I0SWJJc3BobS1meUg5b3NSLXNWUXlTUjZHdXI0Sk42c3dXaHoxQ256VmhqbElJQi1scnV0WTJvRUxIZDI4dDd2eGQwVTdkUnRPbHF6dlJxVVZma0VZ0gFfQVVfeXFMTmtIWFJfWk1JZWhVTmtPWk1LLWxmRE90VmJqeVBTLXUwUVg3T3kwOEtqVXRHZHk0cjNMMEtUYXhkbGowY1l0Qk1YU2N5clA2WnBqUnp4Ri1JUDM5T0JJU3c?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NN1I0SWJJc3BobS1meUg5b3..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-au",
@@ -802,34 +801,34 @@
     "lng": 151.2,
     "dx": 45,
     "dy": 25,
-    "title": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-    "shortTitle": "호주, 유해콘텐츠 방치",
+    "title": "호주 글로벌 AI 데이터센터 전력망 확충과 핵심광물 패권",
+    "shortTitle": "호주 전력망·핵심광물",
     "live": {
-      "headline": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-      "time": "10시간 전",
+      "headline": "호주 글로벌 AI 데이터센터 전력망 확충과 핵심광물 패권",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] 호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-        "(하노이=연합뉴스) 박진형 특파원 = 호주 정부가 구글·메타 등 빅테크(거대 정보기술기업)들이 유해 콘텐츠나 중독성 기능을 삭제하지 않으면 전 ...",
-        "발행: 10시간 전 (연합뉴스 국제)"
+        "호주 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(하노이=연합뉴스) 박진형 특파원 = 호주 정부가 구글·메타 등 빅테크(거대 정보기술기업)들이 유해 콘텐츠나 중독성 기능을 삭제하지 않으면 전 ...",
+      "detail": "호주 (시드니) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-          "url": "https://www.yna.co.kr/view/AKR20261125161900084",
-          "media": "연합뉴스 국제"
+          "title": "호주 (시드니) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "호주 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "호주 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "호주 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "호주 (시드니) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "호주 (시드니)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Australia",
@@ -839,43 +838,43 @@
   },
   {
     "id": "issue-nz",
-    "category": "economy",
-    "categoryName": "경제·테크",
-    "color": "#ef4444",
+    "category": "politics",
+    "categoryName": "정치·외교",
+    "color": "#3b82f6",
     "country": "뉴질랜드 (웰링턴)",
     "flag": "🇳🇿",
     "lat": -41.3,
     "lng": 174.8,
     "dx": 40,
     "dy": 20,
-    "title": "뉴질랜드 기준금리 인하와 농축산업 수출 회복세",
-    "shortTitle": "뉴질랜드 통화정책",
+    "title": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+    "shortTitle": "中, 뉴질랜드 자치령",
     "live": {
-      "headline": "뉴질랜드 기준금리 인하와 농축산업 수출 회복세",
-      "time": "글로벌 모니터링",
+      "headline": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+      "time": "32분 전",
       "summary": [
-        "뉴질랜드 주요 경제·안보 핵심 현안 지속 모니터링",
-        "글로벌 공급망 및 국제 정세 파급 효과 분석",
-        "주요 외신 및 국제기구 정책 대응 동향"
+        "[실시간 속보] 中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+        "(베이징=연합뉴스) 정성조 특파원 = 중국이 뉴질랜드 자치령인 남태평양 쿡 제도 해역에서 유인 심해 탐사에 나섰다고 중국 관영매체들이 25일 전...",
+        "발행: 32분 전 (연합뉴스 국제)"
       ],
-      "detail": "뉴질랜드 (웰링턴) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
+      "detail": "(베이징=연합뉴스) 정성조 특파원 = 중국이 뉴질랜드 자치령인 남태평양 쿡 제도 해역에서 유인 심해 탐사에 나섰다고 중국 관영매체들이 25일 전...",
       "sources": [
         {
-          "title": "뉴질랜드 (웰링턴) 공식 현안 브리핑",
-          "url": "https://news.google.com",
-          "media": "글로벌 외신 종합"
+          "title": "中, '뉴질랜드 자치령' 남태평양 쿡 제도 심해 탐사",
+          "url": "https://www.yna.co.kr/view/AKR20261126094300083",
+          "media": "연합뉴스 국제"
         }
       ]
     },
     "deepDive": {
-      "headline": "뉴질랜드 핵심 지정학적 리포트",
-      "tag": "심층 기획",
+      "headline": "뉴질랜드 주요 현안 심층 분석 및 지정학적 리포트",
+      "tag": "글로벌 심층 브리핑",
       "summary": [
-        "지역 안보 및 통상 협력 현황",
-        "글로벌 원자재 및 에너지 수급 동향",
-        "향후 정책 전망과 리스크 관리"
+        "뉴질랜드 관련 대외 통상 및 안보 파급 효과 점검",
+        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
+        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
       ],
-      "detail": "뉴질랜드 (웰링턴)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
+      "detail": "뉴질랜드 (웰링턴) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
     },
     "countryAliases": [
       "New Zealand",
@@ -885,43 +884,43 @@
   },
   {
     "id": "issue-kz",
-    "category": "economy",
-    "categoryName": "경제·테크",
-    "color": "#ef4444",
+    "category": "politics",
+    "categoryName": "정치·외교",
+    "color": "#3b82f6",
     "country": "카자흐스탄 (아스타나)",
     "flag": "🇰🇿",
     "lat": 51.2,
     "lng": 71.4,
     "dx": 35,
     "dy": -25,
-    "title": "카자흐스탄 원전 건설 추진과 중앙아시아 물류 회랑",
-    "shortTitle": "카자흐 원전·물류회랑",
+    "title": "춘천시 카자흐스탄 방문해 태권도 교류·체육시설 벤치마킹",
+    "shortTitle": "춘천시 카자흐스탄 방문해",
     "live": {
-      "headline": "카자흐스탄 원전 건설 추진과 중앙아시아 물류 회랑",
-      "time": "글로벌 모니터링",
+      "headline": "춘천시 카자흐스탄 방문해 태권도 교류·체육시설 벤치마킹",
+      "time": "11분 전",
       "summary": [
-        "카자흐스탄 주요 경제·안보 핵심 현안 지속 모니터링",
-        "글로벌 공급망 및 국제 정세 파급 효과 분석",
-        "주요 외신 및 국제기구 정책 대응 동향"
+        "[실시간 속보] 춘천시 카자흐스탄 방문해 태권도 교류·체육시설 벤치마킹",
+        "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 태권도 국제교류 확대와 대형 체육시설 벤치마킹을 위해 카자흐스탄을 방문한다.",
+        "발행: 11분 전 (연합뉴스 경제)"
       ],
-      "detail": "카자흐스탄 (아스타나) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
+      "detail": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 태권도 국제교류 확대와 대형 체육시설 벤치마킹을 위해 카자흐스탄을 방문한다.",
       "sources": [
         {
-          "title": "카자흐스탄 (아스타나) 공식 현안 브리핑",
-          "url": "https://news.google.com",
-          "media": "글로벌 외신 종합"
+          "title": "춘천시 카자흐스탄 방문해 태권도 교류·체육시설 벤치마킹",
+          "url": "https://www.yna.co.kr/view/AKR20261126093000062",
+          "media": "연합뉴스 경제"
         }
       ]
     },
     "deepDive": {
-      "headline": "카자흐스탄 핵심 지정학적 리포트",
-      "tag": "심층 기획",
+      "headline": "카자흐스탄 주요 현안 심층 분석 및 지정학적 리포트",
+      "tag": "글로벌 심층 브리핑",
       "summary": [
-        "지역 안보 및 통상 협력 현황",
-        "글로벌 원자재 및 에너지 수급 동향",
-        "향후 정책 전망과 리스크 관리"
+        "카자흐스탄 관련 대외 통상 및 안보 파급 효과 점검",
+        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
+        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
       ],
-      "detail": "카자흐스탄 (아스타나)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
+      "detail": "카자흐스탄 (아스타나) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
     },
     "countryAliases": [
       "Kazakhstan",
@@ -986,21 +985,21 @@
     "lng": -77,
     "dx": 50,
     "dy": -30,
-    "title": "美FCC, 스페이스X '우주 데이터센터' 위성 100만기 배치 승인",
-    "shortTitle": "美FCC, 스페이스X",
+    "title": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+    "shortTitle": "日정부, 15% 美관세에",
     "live": {
-      "headline": "美FCC, 스페이스X '우주 데이터센터' 위성 100만기 배치 승인",
-      "time": "16분 전",
+      "headline": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+      "time": "8분 전",
       "summary": [
-        "[실시간 속보] 美FCC, 스페이스X '우주 데이터센터' 위성 100만기 배치 승인",
-        "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크의 우주기업 스페이스X가 인공지능(AI) 우주 데이터센터를 위한 위성 100만 기 배치를 ...",
-        "발행: 16분 전 (연합뉴스 국제)"
+        "[실시간 속보] 日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+        "(도쿄=연합뉴스) 조성미 특파원 = 미국이 25일(현지시간) 한국과 중국, 일본, 유럽연합(EU) 등을 대상으로 과잉생산에 대한 관세 부과를 발...",
+        "발행: 8분 전 (연합뉴스 국제)"
       ],
-      "detail": "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크의 우주기업 스페이스X가 인공지능(AI) 우주 데이터센터를 위한 위성 100만 기 배치를 ...",
+      "detail": "(도쿄=연합뉴스) 조성미 특파원 = 미국이 25일(현지시간) 한국과 중국, 일본, 유럽연합(EU) 등을 대상으로 과잉생산에 대한 관세 부과를 발...",
       "sources": [
         {
-          "title": "美FCC, 스페이스X '우주 데이터센터' 위성 100만기 배치 승인",
-          "url": "https://www.yna.co.kr/view/AKR20261126004600091",
+          "title": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261126068251073",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1023,73 +1022,73 @@
     ],
     "relatedNews": [
       {
-        "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
+        "title": "美법원, 트럼프의 '출생시민권 제한' 시도 또 제동",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "1시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126003900085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 행정부의 행정 착오로 본국으로 추방됐다가 미국으로 돌아갔던 30대 엘살바도르인이 미국을 ..."
+        "time": "21분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126096100009",
+        "summary": "(서울=연합뉴스) 김승욱 기자 = 미국 법원이 미국에서 태어난 외국인 노동자 자녀의 출생시민권을 제한하려는 도널드 트럼프 행정부의 새로운 시도에..."
       },
       {
-        "title": "美금융범죄 단속기관도 뚫렸다…해킹에 일부 시스템 가동중단",
+        "title": "트럼프 정부, 젠슨 황 복귀에 총력… 냉전 때 법까지 동원 검토",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "1시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126003300072",
-        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 최근 미국 정부기관의 사이버 보안 사고가 잇따르는 가운데 자금세탁 등 금융범죄 방지를 담당하는 미 재무부 산..."
+        "time": "32분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126091500009",
+        "summary": "(서울=연합뉴스) 이신영 기자 = 미국 도널드 트럼프 행정부가 젠슨 황의 엔비디아 최고경영자(CEO) 복귀를 돕기 위해 냉전 시대 제정된 법률을..."
       },
       {
-        "title": "美무역대표, 젠슨황 복귀에 \"트럼프, 경제·안보 균형 맞춰\"",
+        "title": "[영상] 美 탄약공장서 유독성 폭발물 4.5t 폭파 폐기…주민 대피령",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "1시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126002900071",
-        "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = '엔비디아 사태'를 앞두고 미국 행정부 내 치열한 논쟁이 있었으며, 도널드 트럼프 대통령이 엇갈린 주장 사..."
+        "time": "40분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126087800704",
+        "summary": "(서울=연합뉴스) 미군이 폭발물 기폭제용 화학물질 약 4.5t을 통제 폭파하는 방식으로 폐기 처리했습니다."
       },
       {
-        "title": "美 3분기 성장률 4.3%…투자·소비 호조에 3년 만에 최고(종합)",
+        "title": "[영상] 첫 '엄마' 미스 유니버스…美국방부 근무 푸에르토리코 대표",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "50분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126087100704",
+        "summary": "(서울=연합뉴스) \"미스 유니버스 우승자는 푸에르토리코입니다\""
+      },
+      {
+        "title": "美 은행들 AI 보안 패치 속도내다 과부하로 먹통",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "2시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125186251072",
-        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 경제가 견조한 소비와 인공지능(AI) 관련 기업 투자에 힘입어 올해 3분기 3년 만에 가장 높은 성장률..."
-      },
-      {
-        "title": "EU, 새 美관세에 \"유럽, 과잉생산 원천 아냐…15% 상한 준수돼야\"",
-        "category": "경제·테크",
-        "media": "연합뉴스 국제",
-        "time": "2시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126001700098",
-        "summary": "(브뤼셀=연합뉴스) 현윤경 특파원 = 미국이 24일(현지시간) 무역법 301조를 근거로 새 관세를 제시하자 유럽연합(EU)이 신규 관세 근거에 ..."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126082200009",
+        "summary": "(서울=연합뉴스) 이성한 기자 = 글로벌 대형 은행들이 인공지능(AI)의 보안 위협에 대응하기 위해 소프트웨어 보안 패치를 서둘러 진행하는 과정..."
       }
     ]
   },
   {
     "id": "issue-us-tech",
-    "category": "economy",
-    "categoryName": "경제·테크",
-    "color": "#ef4444",
+    "category": "politics",
+    "categoryName": "정치·외교",
+    "color": "#3b82f6",
     "country": "미국 (실리콘밸리)",
     "flag": "🤖",
     "lat": 37.4,
     "lng": -122.1,
     "dx": -70,
     "dy": 20,
-    "title": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-    "shortTitle": "호주, 유해콘텐츠 방치",
+    "title": "'中 원격접속 차단' 규제 신설되자 엔비디아칩 매물 쏟아져",
+    "shortTitle": "中 원격접속 차단 규제",
     "live": {
-      "headline": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-      "time": "10시간 전",
+      "headline": "'中 원격접속 차단' 규제 신설되자 엔비디아칩 매물 쏟아져",
+      "time": "3시간 전",
       "summary": [
-        "[실시간 속보] 호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-        "(하노이=연합뉴스) 박진형 특파원 = 호주 정부가 구글·메타 등 빅테크(거대 정보기술기업)들이 유해 콘텐츠나 중독성 기능을 삭제하지 않으면 전 ...",
-        "발행: 10시간 전 (연합뉴스 국제)"
+        "[실시간 속보] '中 원격접속 차단' 규제 신설되자 엔비디아칩 매물 쏟아져",
+        "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국이 중국의 제3국 데이터센터 원격 접속을 금지하는 새 규제를 시행하자 그간 품귀였던 엔비디아 칩 ...",
+        "발행: 3시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(하노이=연합뉴스) 박진형 특파원 = 호주 정부가 구글·메타 등 빅테크(거대 정보기술기업)들이 유해 콘텐츠나 중독성 기능을 삭제하지 않으면 전 ...",
+      "detail": "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국이 중국의 제3국 데이터센터 원격 접속을 금지하는 새 규제를 시행하자 그간 품귀였던 엔비디아 칩 ...",
       "sources": [
         {
-          "title": "호주, 유해콘텐츠 방치 빅테크에 최대 '세계 매출의 5%' 벌금",
-          "url": "https://www.yna.co.kr/view/AKR20261125161900084",
+          "title": "'中 원격접속 차단' 규제 신설되자 엔비디아칩 매물 쏟아져",
+          "url": "https://www.yna.co.kr/view/AKR20261126030700091",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1112,44 +1111,44 @@
     ],
     "relatedNews": [
       {
-        "title": "엔비디아 AI칩 임대료 약세 신호…\"가격 냉각 조짐\"",
+        "title": "S&P \"엔비디아 등급 강등 검토\"…무디스 \"안정적 전망 유지\"(종합)",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "4시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126007151072",
+        "summary": "(뉴욕·서울=연합뉴스) 임수정 특파원 황정우 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 불륜 스캔들과 중국 스파이 연루 의혹에 퇴진했다가 ..."
+      },
+      {
+        "title": "스페이스X-테슬라 5천조원 초대형 합병 진척…특별위 이사 선임",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "12시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125127300009",
-        "summary": "(서울=연합뉴스) 정주호 기자 = 가파르게 오르던 엔비디아 인공지능(AI) 칩의 임대 가격 오름세에 식는 조짐이 나타나고 있다고 IT 전문매체 ..."
+        "time": "5시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126012200075",
+        "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크가 이끄는 항공우주 기업 스페이스X와 전기차 업체 테슬라 간의 초대형 인수·합병(M&amp..."
       },
       {
-        "title": "뉴욕 증시, AI 매도세·관세 우려에 급락세...엔비디아 8% 넘게 하락 - YTN",
+        "title": "'美제재 무색' 中상가서 수출금지 엔비디아 최첨단칩 버젓이 유통",
         "category": "경제·테크",
-        "media": "구글 뉴스 비즈니스",
-        "time": "2시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wSmMyelFSUkxvcUZRWXdBX0g2ZnJKZ1hOb2tNUl9DN1l3dDBCYjRSRGphTXpsQnhkUGEzTURxTWR0TnZpSEFLbFF5Yl94U1pBWXlZalA5SGp1Q1pUanc?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wSmMyelFSUkxvcUZRWXdBX0..."
+        "media": "연합뉴스 국제",
+        "time": "5시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126010700091",
+        "summary": "(샌프란시스코=연합뉴스) 권영전 특파원 = \"(엔비디아의) 블랙웰 칩이 많이 필요하다면 그냥 화창베이(華北) 상가에 가서 거래하면 될 겁니다.\""
       },
       {
-        "title": "TSMC, 삼성 텃밭 텍사스에 33조원 2나노 공장 추진… 테슬라 수주전 ‘정면승부’ - Chosunbiz",
-        "category": "정치·외교",
-        "media": "구글 뉴스 비즈니스",
-        "time": "12시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5EQlRHWjBMcEptbDlzcXFpX1RNN2Rmc09Ec1R2eE02dlZhR2lPZmhpM0Z6VW5YUFdTbUV5ZWk1YVV5d3JiVFBOb1c5aHF5eG9iN0I2ZjYyWlFoUnkyMnpmbEhSU3Jrd01Ka3J3SS1WZHdNeDRXUTYwbW9pRTg3MVFB0gGWAUFVX3lxTE1TNHpycGw1QWVCVEtxNTMxWFdFLW4zX1JmUjNXRGFoQlVtTzE4TzFoRGxremtKRVNrNm44SDFfdDVjRkJad2ZZZVhEc0oyTTIyLVVQTHc0MDNWNERoX3dwVmRQdGNFVHU4dVpJZ01ocHIwcGdyeGhNcDNfM20wQWtKQ20zNGxxVjZ3VURuTkZoSXFYYnlGdw?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5EQlRHWjBMcEptbDlzcX..."
-      },
-      {
-        "title": "31% 폭등→5% 하락, 엔비디아는 지켰는데...삼전닉스 '뚝', 왜 - 머니투데이 - 머니투데이",
-        "category": "정치·외교",
-        "media": "구글 뉴스 비즈니스",
-        "time": "16시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uSE1QZklFUWs2dUZBZTkzWXZDaG5NQWcwdk4xYm5PYjFESC1iTTIyTXN0dDRuMzl6ejM0aU13NWRKblR4RFpxR29iSW44TVBBbWNlZGk1aE92UTVSeWRKcVZFVnM1dkZF0gFuQVVfeXFMUGx0X0h1NGJ0Y3dEazhIV210eWVoWDNULXVEbFgwNndRUWVOUldGdTNHMnBXMW5DN1RnN09lWFg2cENmY2ltYjBzMmU3aUtDV2Q0S1h1Y3NkRS1mZ0JrZ1NxWEF3QmxCVllRWWt2Y2c?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uSE1QZklFUWs2dUZBZTkzWX..."
-      },
-      {
-        "title": "내년 몸값 2배 넘게 뛴다...빅테크 참전에 요동치는 HBM 패권 - 조선일보",
+        "title": "S&P, 엔비디아 신용등급 강등 검토…\"경영·지배구조 평가 악화\"",
         "category": "경제·테크",
-        "media": "구글 뉴스 비즈니스",
-        "time": "21시간 전",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm8yWTlndDVXd3daV3JpQlR3WWhlOGNtSmZvOTd5YzdJeE9STzRfR3prdUJOR1V5Sm16aGcteHZhck1OSTNYdUVaYUxVNktzZWpUOVh1d19DSDFzcmFJUkYwd0dER1dWZlZFZGJzRFJ5SGZXOU5lVXN1VUNaMTBfUmRvNA?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm8yWTlndDVXd3daV3JpQl..."
+        "media": "연합뉴스 국제",
+        "time": "6시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126007100072",
+        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 인공지능(AI) 반도체 기업 엔비디아가 젠슨 황 최고경영자(CEO)의 복귀 과정에서 불거진 지배구조 문제와 ..."
+      },
+      {
+        "title": "\"시리 한국어 18개월 지연, 기만 광고\"…애플, 공정위 심판대에",
+        "category": "경제·테크",
+        "media": "연합뉴스 경제",
+        "time": "26분 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126095300002",
+        "summary": "(세종=연합뉴스) 이세원 기자 = 애플이 2024년 출시한 스마트폰 아이폰16 시리즈의 인공지능(AI) 기능을 홍보하면서 소비자를 속였다는 논란..."
       }
     ]
   },
@@ -1201,30 +1200,30 @@
   },
   {
     "id": "issue-mx",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "멕시코 (멕시코시티)",
     "flag": "🇲🇽",
     "lat": 19.4,
     "lng": -99.1,
     "dx": -60,
     "dy": 30,
-    "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
-    "shortTitle": "엄마 미스 유니버스 첫",
+    "title": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+    "shortTitle": "브라질, 美 항공기·설탕",
     "live": {
-      "headline": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
-      "time": "2시간 전",
+      "headline": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+      "time": "3시간 전",
       "summary": [
-        "[실시간 속보] 엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
-        "(멕시코시티=연합뉴스) 송광호 특파원 = 세계에서 가장 아름다운 여성을 선정하는 '미스 유니버스' 대회에서 사상 처음으로 아이를 둔 엄마 우승자...",
-        "발행: 2시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+        "(멕시코시티=연합뉴스) 송광호 특파원 = 도널드 트럼프 미국 행정부가 브라질산 항공기와 설탕에 대한 추가 관세 부과를 기습 예고하자 브라질 정부...",
+        "발행: 3시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(멕시코시티=연합뉴스) 송광호 특파원 = 세계에서 가장 아름다운 여성을 선정하는 '미스 유니버스' 대회에서 사상 처음으로 아이를 둔 엄마 우승자...",
+      "detail": "(멕시코시티=연합뉴스) 송광호 특파원 = 도널드 트럼프 미국 행정부가 브라질산 항공기와 설탕에 대한 추가 관세 부과를 기습 예고하자 브라질 정부...",
       "sources": [
         {
-          "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
-          "url": "https://www.yna.co.kr/view/AKR20261126001600087",
+          "title": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+          "url": "https://www.yna.co.kr/view/AKR20261126028100087",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1243,35 +1242,52 @@
       "Mexico",
       "MX"
     ],
-    "relatedNews": []
+    "relatedNews": [
+      {
+        "title": "위기의 쿠바서 엑소더스 행렬…25년간 순유출만 100만명 넘어",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "5시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126012000087",
+        "summary": "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 25년간 쿠바를 빠져나간 인원이 100만명을 넘는 것으로 나타났다."
+      },
+      {
+        "title": "부켈레의 엘살바도르 감옥 '세코트' 중남미 우파의 '성지' 되나",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "7시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126006200087",
+        "summary": "(멕시코시티=연합뉴스) 송광호 특파원 = 24시간 내내 조명이 켜진 환한 풍경. 잠을 청하기조차 어려운 비좁은 감방 안에는 수형자들이 득실거린다..."
+      }
+    ]
   },
   {
     "id": "issue-br",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "브라질 (브라질리아)",
     "flag": "🇧🇷",
     "lat": -15.8,
     "lng": -47.9,
     "dx": 50,
     "dy": 25,
-    "title": "이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
-    "shortTitle": "이웃 나라 대통령인데",
+    "title": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+    "shortTitle": "브라질, 美 항공기·설탕",
     "live": {
-      "headline": "이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
-      "time": "13시간 전",
+      "headline": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+      "time": "3시간 전",
       "summary": [
-        "[실시간 속보] 이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
-        "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1BDdlc2bjFOWnlGN1dw",
-        "발행: 13시간 전 (구글 뉴스 세계)"
+        "[실시간 속보] 브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+        "(멕시코시티=연합뉴스) 송광호 특파원 = 도널드 트럼프 미국 행정부가 브라질산 항공기와 설탕에 대한 추가 관세 부과를 기습 예고하자 브라질 정부...",
+        "발행: 3시간 전 (연합뉴스 국제)"
       ],
-      "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1BDdlc2bjFOWnlGN1dwOFg4UUdVcWRrX2hiaEl3R2xzOTd1WlRfS1Nic1RCaVNaY2NHVGg5Z0NrdzF0ak9va1ltM2",
+      "detail": "(멕시코시티=연합뉴스) 송광호 특파원 = 도널드 트럼프 미국 행정부가 브라질산 항공기와 설탕에 대한 추가 관세 부과를 기습 예고하자 브라질 정부...",
       "sources": [
         {
-          "title": "이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1BDdlc2bjFOWnlGN1dwOFg4UUdVcWRrX2hiaEl3R2xzOTd1WlRfS1Nic1RCaVNaY2NHVGg5Z0NrdzF0ak9va1ltM2RvWkd1eGMxMjdYYm1ZVGdjbk54d1BGZmNpYmhrODU4Z2NRdW9yUGdYbVJJcWxtMHFhWmloRUo4QlVISXlVVVpKUWs?oc=5",
-          "media": "구글 뉴스 세계"
+          "title": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+          "url": "https://www.yna.co.kr/view/AKR20261126028100087",
+          "media": "연합뉴스 국제"
         }
       ]
     },
@@ -1289,7 +1305,16 @@
       "Brazil",
       "BR"
     ],
-    "relatedNews": []
+    "relatedNews": [
+      {
+        "title": "이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
+        "category": "정치·외교",
+        "media": "구글 뉴스 세계",
+        "time": "21시간 전",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1BDdlc2bjFOWnlGN1dwOFg4UUdVcWRrX2hiaEl3R2xzOTd1WlRfS1Nic1RCaVNaY2NHVGg5Z0NrdzF0ak9va1ltM2RvWkd1eGMxMjdYYm1ZVGdjbk54d1BGZmNpYmhrODU4Z2NRdW9yUGdYbVJJcWxtMHFhWmloRUo4QlVISXlVVVpKUWs?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1..."
+      }
+    ]
   },
   {
     "id": "issue-ar",
@@ -1306,11 +1331,11 @@
     "shortTitle": "이웃 나라 대통령인데",
     "live": {
       "headline": "이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
-      "time": "13시간 전",
+      "time": "21시간 전",
       "summary": [
         "[실시간 속보] 이웃 나라 대통령인데... 룰라, 밀레이를 취임식 초청 명단서 제외 - 조선일보",
         "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1BDdlc2bjFOWnlGN1dw",
-        "발행: 13시간 전 (구글 뉴스 세계)"
+        "발행: 21시간 전 (구글 뉴스 세계)"
       ],
       "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNzaU10a3dGa3BSRDFLX1BDdlc2bjFOWnlGN1dwOFg4UUdVcWRrX2hiaEl3R2xzOTd1WlRfS1Nic1RCaVNaY2NHVGg5Z0NrdzF0ak9va1ltM2",
       "sources": [
@@ -1394,22 +1419,22 @@
     "lng": -74.1,
     "dx": -55,
     "dy": -25,
-    "title": "콜롬비아 마트 인질극 특수부대가 진압…20명 무사 구출",
-    "shortTitle": "콜롬비아 마트 인질극",
+    "title": "콜롬비아 마트 무장 인질극, 권총 찬 대통령이 진압 지휘 - 조선일보",
+    "shortTitle": "콜롬비아 마트 무장",
     "live": {
-      "headline": "콜롬비아 마트 인질극 특수부대가 진압…20명 무사 구출",
-      "time": "11시간 전",
+      "headline": "콜롬비아 마트 무장 인질극, 권총 찬 대통령이 진압 지휘 - 조선일보",
+      "time": "13시간 전",
       "summary": [
-        "[실시간 속보] 콜롬비아 마트 인질극 특수부대가 진압…20명 무사 구출",
-        "(서울=연합뉴스) 박성진 기자 = 콜롬비아 유명 관광지인 카르타헤나의 한 대형 슈퍼마켓에서 벌어진 무장 강도 인질극이 특수 부대 투입으로 인질 ...",
-        "발행: 11시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 콜롬비아 마트 무장 인질극, 권총 찬 대통령이 진압 지휘 - 조선일보",
+        "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFub0RUTlBYYkRoSmhmcEgzMEowel82bTRpVFRy",
+        "발행: 13시간 전 (구글 뉴스 세계)"
       ],
-      "detail": "(서울=연합뉴스) 박성진 기자 = 콜롬비아 유명 관광지인 카르타헤나의 한 대형 슈퍼마켓에서 벌어진 무장 강도 인질극이 특수 부대 투입으로 인질 ...",
+      "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFub0RUTlBYYkRoSmhmcEgzMEowel82bTRpVFRyZ3Z6QzdFYS1OUUprbWFLWHp2dTdLN1dqYko5WHdfNmpwQ3p4SDZNbXhuUUZ2VzQ4QVloWn",
       "sources": [
         {
-          "title": "콜롬비아 마트 인질극 특수부대가 진압…20명 무사 구출",
-          "url": "https://www.yna.co.kr/view/AKR20261125143400009",
-          "media": "연합뉴스 국제"
+          "title": "콜롬비아 마트 무장 인질극, 권총 찬 대통령이 진압 지휘 - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFub0RUTlBYYkRoSmhmcEgzMEowel82bTRpVFRyZ3Z6QzdFYS1OUUprbWFLWHp2dTdLN1dqYko5WHdfNmpwQ3p4SDZNbXhuUUZ2VzQ4QVloWnhQekpfRlBUeVZJNUxjVjhfdkMxTWc5SGdFcXJtdi13dHlINlN1b2d0WFptVS1XVFlMSjlRUlNDMFAtbktzdHpVUEI?oc=5",
+          "media": "구글 뉴스 세계"
         }
       ]
     },
@@ -1427,7 +1452,16 @@
       "Colombia",
       "CO"
     ],
-    "relatedNews": []
+    "relatedNews": [
+      {
+        "title": "[영상] 현금수송차 털려다 마트서 인질극…특수부대가 20명 무사 구출",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126066500704",
+        "summary": "(서울=연합뉴스) 콜롬비아 유명 관광지인 카르타헤나의 한 대형 슈퍼마켓에서 벌어진 무장 강도 인질극이 특수 부대 투입으로 인질 피해 없이 종료됐..."
+      }
+    ]
   },
   {
     "id": "issue-pe",
@@ -1486,21 +1520,21 @@
     "lng": 37.6,
     "dx": 70,
     "dy": -45,
-    "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-    "shortTitle": "폴란드, 우크라 접경에",
+    "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+    "shortTitle": "핵공격 경고에 놀란",
     "live": {
-      "headline": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-      "time": "42분 전",
+      "headline": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+      "time": "18분 전",
       "summary": [
-        "[실시간 속보] 폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-        "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
-        "발행: 42분 전 (연합뉴스 국제)"
+        "[실시간 속보] 핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+        "(서울=연합뉴스) 신재우 기자 = 러시아가 발트해에서 자국의 이익을 지키기 위해 핵공격도 불사하겠다고 경고하자 핀란드와 노르웨이 정상이 러시아 ...",
+        "발행: 18분 전 (연합뉴스 국제)"
       ],
-      "detail": "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
+      "detail": "(서울=연합뉴스) 신재우 기자 = 러시아가 발트해에서 자국의 이익을 지키기 위해 핵공격도 불사하겠다고 경고하자 핀란드와 노르웨이 정상이 러시아 ...",
       "sources": [
         {
-          "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-          "url": "https://www.yna.co.kr/view/AKR20261126004200082",
+          "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+          "url": "https://www.yna.co.kr/view/AKR20261126096500009",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1522,44 +1556,44 @@
     ],
     "relatedNews": [
       {
-        "title": "러 \"연료시장 상황 긴박…휘발유 수출 금지 연장 검토\"",
+        "title": "러, 내년 국방비 33%↑…사회예산 삭감, 전비 충당 증세",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "3시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126034700009",
+        "summary": "(서울=연합뉴스) 곽민서 기자 = 러시아가 내년에 구소련 시절 이후 최대 규모 국방 예산을 편성했다고 25일(현지시간) 미 일간 워싱턴포스트(W..."
+      },
+      {
+        "title": "푸틴, 160억원대 횡령 혐의 북극권 주지사 해임",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "3시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126027700009",
+        "summary": "(서울=연합뉴스) 김승욱 기자 = 블라디미르 푸틴 러시아 대통령이 거액의 부패 혐의로 구금된 북극권 주지사를 해임했다."
+      },
+      {
+        "title": "英밴드 듀란듀란 기타리스트 앤디 테일러 별세…향년 65세",
+        "category": "정치·외교",
+        "media": "연합뉴스 국제",
+        "time": "5시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126015200075",
+        "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 1980년대를 풍미한 영국 인기 밴드 듀란듀란 기타리스트였던 앤디 테일러가 전립선암 투병 끝에 세상을..."
+      },
+      {
+        "title": "뉴욕증시, AI 투자 불안에 또 롤러코스터…나스닥 0.6%↓(종합)",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
         "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125184300109",
-        "summary": "(로마=연합뉴스) 민경락 특파원 = 우크라이나의 계속된 정유시설 공격으로 러시아의 연료난이 장기화하는 모습이다."
+        "url": "https://www.yna.co.kr/view/AKR20261126009851072",
+        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 뉴욕증시가 25일(현지시간) 인공지능(AI) 투자 전망을 둘러싼 불확실성 속에 극심한 변동성 장세를 이..."
       },
       {
-        "title": "독일 14살도 극우 가담…난민시설 테러 모의 혐의 체포",
-        "category": "정치·외교",
+        "title": "뉴욕증시, AI 투자 불안에 연일 롤러코스터…나스닥 0.6%↓",
+        "category": "경제·테크",
         "media": "연합뉴스 국제",
         "time": "6시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125181000082",
-        "summary": "(베를린=연합뉴스) 김계연 특파원 = 독일 14∼15세 청소년들이 극우 테러 조직을 만들어 난민시설 공격을 계획한 혐의로 체포됐다고 주간지 슈피..."
-      },
-      {
-        "title": "'친러' 슈뢰더 전 독일 총리, EU 제재에 실직 위기",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125168400082",
-        "summary": "(베를린=연합뉴스) 김계연 특파원 = 최근 러시아 유통업체 이사로 취업한 게르하르트 슈뢰더 전 독일 총리가 유럽연합(EU)이 추진하는 새 러시아..."
-      },
-      {
-        "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "11시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125141100009",
-        "summary": "(서울=연합뉴스) 이지헌 기자 = 우크라이나 전쟁 종전 협상에서 러시아가 영토와 안보 문제에 집중하면서 당초 미국이 협상 타결의 당근으로 꺼내 ..."
-      },
-      {
-        "title": "[영상] 우크라, 독일 '링스' 장갑차 첫 인수…러 드론 대응에도 투입",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "12시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125134500704",
-        "summary": "(서울=연합뉴스) 우크라이나군이 독일산 '링스 KF41' 보병전투장갑차(IFV)의 첫 물량을 인수했습니다. 차량을 받은 부대는 보병 지원뿐 아니..."
+        "url": "https://www.yna.co.kr/view/AKR20261126009800072",
+        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 뉴욕증시가 25일(현지시간) 인공지능(AI) 투자 전망을 둘러싼 불확실성 속에 극심한 변동성 장세를 이..."
       }
     ]
   },
@@ -1574,21 +1608,21 @@
     "lng": 30.5,
     "dx": 55,
     "dy": -20,
-    "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-    "shortTitle": "폴란드, 우크라 접경에",
+    "title": "우크라 아동 9명 가족 품으로…'외교 보폭' 넓히는 멜라니아",
+    "shortTitle": "우크라 아동 9명 가족",
     "live": {
-      "headline": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-      "time": "42분 전",
+      "headline": "우크라 아동 9명 가족 품으로…'외교 보폭' 넓히는 멜라니아",
+      "time": "2시간 전",
       "summary": [
-        "[실시간 속보] 폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-        "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
-        "발행: 42분 전 (연합뉴스 국제)"
+        "[실시간 속보] 우크라 아동 9명 가족 품으로…'외교 보폭' 넓히는 멜라니아",
+        "(서울=연합뉴스) 노효동 기자 = 2022년 2월 러시아 침공으로 시작된 전쟁통에 가족과 헤어져야했던 수많은 우크라이나 어린이 중에 9명이 추가...",
+        "발행: 2시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
+      "detail": "(서울=연합뉴스) 노효동 기자 = 2022년 2월 러시아 침공으로 시작된 전쟁통에 가족과 헤어져야했던 수많은 우크라이나 어린이 중에 9명이 추가...",
       "sources": [
         {
-          "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-          "url": "https://www.yna.co.kr/view/AKR20261126004200082",
+          "title": "우크라 아동 9명 가족 품으로…'외교 보폭' 넓히는 멜라니아",
+          "url": "https://www.yna.co.kr/view/AKR20261126055900009",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1609,44 +1643,36 @@
     ],
     "relatedNews": [
       {
-        "title": "프랑스, 우크라 리비아 작전 두둔…\"자위권 행사\"",
+        "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "4시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125186900085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 우크라이나가 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것을 두고 프랑스가 우크라이나의 자기방어..."
+        "time": "9시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126004200082",
+        "summary": "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일..."
       },
       {
-        "title": "[쇼츠] 지상전 장갑차가 드론도 요격…독일산 '링스' 우크라이나로",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "11시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125144200704",
-        "summary": "(서울=연합뉴스) 우크라이나군이 독일산 '링스 KF41' 보병전투장갑차(IFV)의 첫 물량을 인수했습니다. 차량을 받은 부대는 보병 지원뿐 아니..."
-      },
-      {
-        "title": "우크라 편들자니 리비아가 걱정…이탈리아 멜로니 총리 딜레마",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "11시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125139200009",
-        "summary": "(서울=연합뉴스) 현영복 기자 = 우크라이나가 지난 22일 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것이 우크라이나의 강력한 지지..."
-      },
-      {
-        "title": "[영상] 우크라, 독일 '링스' 장갑차 첫 인수…러 드론 대응에도 투입",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "12시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125134500704",
-        "summary": "(서울=연합뉴스) 우크라이나군이 독일산 '링스 KF41' 보병전투장갑차(IFV)의 첫 물량을 인수했습니다. 차량을 받은 부대는 보병 지원뿐 아니..."
-      },
-      {
-        "title": "우크라軍 \"국경서 700㎞ 떨어진 러 공군기지 타격… MiG-31 전투기 등 5대에 손상\" - 뉴스핌",
+        "title": "우크라 공격에 \"연료난 심화\"...살벌한 보복 예고한 푸틴 [자막뉴스] - YTN",
         "category": "정치·외교",
         "media": "구글 뉴스 세계",
-        "time": "3시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hYU4wZnJYaGJCdlhZdlk1ZkNrUW5LU3dDNUN6Z1RkVE8zaGtqYkRGaXV0SHJTLXNXdGZQWnlrZmtVRkRvNDcwVThXRkVrZFh1SnctaE5taHNqZjhP?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hYU4wZnJYaGJCdlhZdlk1Zk..."
+        "time": "5시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mQ01UNEtFV1FyNUNjZmZsanFpMjlIelNEcVBuSlNIT2Uxc29QZ1NkVGhyRmd5NzUzd0RtZE5nSWVhQ1VHcFJGNnZGc000d1lpU2xVLXlQRTNteTFZdnc?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mQ01UNEtFV1FyNUNjZmZsan..."
+      },
+      {
+        "title": "리비아 군 “우크라이나의 러시아 함정 공격에 대응할 것” - VOA 한국어 홈페이지",
+        "category": "정치·외교",
+        "media": "구글 뉴스 세계",
+        "time": "8시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SZlcxa0l6ZXBfcGFoY1ZCaGhDODFuR0NEeDNvVmozOU9OUzNVVnp5emwxelEzVUNNVERnckdqdUNiLU9ZUmpGdFdqUmZWcVBk0gFTQVVfeXFMTzl2Q0VzY1pvMGVaWlFJakI0SE5GMk56b2ZTS3JKMThGMGNzZVNoWDcxLThsYk9pekFENl9VME9FdWVuMDMtUnctdjNHVmxla3pCWTA?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SZlcxa0l6ZXBfcGFoY1ZCaG..."
+      },
+      {
+        "title": "‘은둔형 영부인’에서 평화 중재자로… 멜라니아, 우크라 아동 9명 또 구해냈다 - 동아일보",
+        "category": "정치·외교",
+        "media": "구글 뉴스 세계",
+        "time": "1시간 전",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qSklzTkhrQVd6NWdGN3NOdHlfZjJfbzJhY0lrbUYtV2YwXzZuMm8zSGw0SHF6TWZGc0tNY3FSQUozc25zRUljMHB1cW9qMFUxTzRnMGpSc0Y5Nk9uSmFtNUxOTEZTNTlVdVM0c0tRaUZ4enfSAWZBVV95cUxNU3JIaEZDZE9GUmctVTlOd01ZbzJFZ1VoZl9kWWptOTZjdy1KTi1iSllfR1pfbzRHUms4WHpkalJ0T1Uxek9LVmtCLXdPNGZNaUZHM2Nid3JPSFBDSjdHUmlqRmpWa3c?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1qSklzTkhrQVd6NWdGN3NOdH..."
       }
     ]
   },
@@ -1661,21 +1687,21 @@
     "lng": -0.1,
     "dx": -65,
     "dy": -30,
-    "title": "\"영국 45세 미만 성인 성관계 횟수, 1990년의 반토막\"",
-    "shortTitle": "영국 45세 미만 성인",
+    "title": "英밴드 듀란듀란 기타리스트 앤디 테일러 별세…향년 65세",
+    "shortTitle": "英밴드 듀란듀란",
     "live": {
-      "headline": "\"영국 45세 미만 성인 성관계 횟수, 1990년의 반토막\"",
+      "headline": "英밴드 듀란듀란 기타리스트 앤디 테일러 별세…향년 65세",
       "time": "5시간 전",
       "summary": [
-        "[실시간 속보] \"영국 45세 미만 성인 성관계 횟수, 1990년의 반토막\"",
-        "(런던=연합뉴스) 김지연 특파원 = 영국 45세 미만 성인은 한달 평균 두 차례 성관계를 하는 것으로 것으로 조사됐다고 BBC 방송과 일간 가디...",
+        "[실시간 속보] 英밴드 듀란듀란 기타리스트 앤디 테일러 별세…향년 65세",
+        "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 1980년대를 풍미한 영국 인기 밴드 듀란듀란 기타리스트였던 앤디 테일러가 전립선암 투병 끝에 세상을...",
         "발행: 5시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(런던=연합뉴스) 김지연 특파원 = 영국 45세 미만 성인은 한달 평균 두 차례 성관계를 하는 것으로 것으로 조사됐다고 BBC 방송과 일간 가디...",
+      "detail": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 1980년대를 풍미한 영국 인기 밴드 듀란듀란 기타리스트였던 앤디 테일러가 전립선암 투병 끝에 세상을...",
       "sources": [
         {
-          "title": "\"영국 45세 미만 성인 성관계 횟수, 1990년의 반토막\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125183300085",
+          "title": "英밴드 듀란듀란 기타리스트 앤디 테일러 별세…향년 65세",
+          "url": "https://www.yna.co.kr/view/AKR20261126015200075",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1697,44 +1723,20 @@
     ],
     "relatedNews": [
       {
-        "title": "\"버섯구름 지나 비행\"…영국, 핵실험 참여 군인 건강 영향 조사",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125168700085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 영국이 1950∼1960년대 핵무기 실험이 참여 군인들에게 미친 건강상 영향을 공식 조사하기로 했다."
-      },
-      {
-        "title": "영국, 우크라 지원기업들에 러 사보타주 이례적 공개 경고 - 연합뉴스",
+        "title": "AI 데이터센터 IPO 주춤…엔스케일, \"비상장 유지\"도 검토",
         "category": "경제·테크",
-        "media": "구글 뉴스 세계",
-        "time": "1일 전",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoMEVlY1FOSlZYeDRQbV95cVNhMjVRMVFSQjRSMXF4NHRqVXRNMWZBeXliTjFmSTlUNlU2SjIyZ3VRbTQ2S0cyWmllOUwwSzlxR1BXRXdkeVFxYzDSAWBBVV95cUxOVk1wQ1l5eU53VW1ralRna0xYM0hpNUNFdjN4bXJ1VWk1dXJCWDNtUFRTbml0YkJScDhqSjN0ZEdndzZJOTQ3ek1mX1BMQTNFUmR0MkdmSVp3VDM2eW0xRkQ?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoMEVlY1FOSlZYeDRQbV95cV..."
+        "media": "연합뉴스 국제",
+        "time": "4시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126017700009",
+        "summary": "(서울=연합뉴스) 정주호 기자 = 엔비디아가 후원하는 영국 데이터센터 업체 엔스케일이 기업공개(IPO)를 중단하고 비상장 상태를 유지하는 방안을..."
       },
       {
         "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "1시간 전",
+        "time": "9시간 전",
         "url": "https://www.yna.co.kr/view/AKR20261126003900085",
         "summary": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 행정부의 행정 착오로 본국으로 추방됐다가 미국으로 돌아갔던 30대 엘살바도르인이 미국을 ..."
-      },
-      {
-        "title": "스페인 카나리아제도에 하루새 이민자 2천100명…역대 최다",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "3시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126001300085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 북아프리카 모로코에서 가까운 스페인 카나리아 제도에 지난 24시간 동안 이주민 2천100명이 도착해 역대 최..."
-      },
-      {
-        "title": "프랑스, 우크라 리비아 작전 두둔…\"자위권 행사\"",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "4시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125186900085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 우크라이나가 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것을 두고 프랑스가 우크라이나의 자기방어..."
       }
     ]
   },
@@ -1749,21 +1751,21 @@
     "lng": 13.4,
     "dx": 5,
     "dy": -55,
-    "title": "독일 14살도 극우 가담…난민시설 테러 모의 혐의 체포",
-    "shortTitle": "독일 14살도 극우",
+    "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
+    "shortTitle": "폴란드, 우크라 접경에",
     "live": {
-      "headline": "독일 14살도 극우 가담…난민시설 테러 모의 혐의 체포",
-      "time": "6시간 전",
+      "headline": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
+      "time": "9시간 전",
       "summary": [
-        "[실시간 속보] 독일 14살도 극우 가담…난민시설 테러 모의 혐의 체포",
-        "(베를린=연합뉴스) 김계연 특파원 = 독일 14∼15세 청소년들이 극우 테러 조직을 만들어 난민시설 공격을 계획한 혐의로 체포됐다고 주간지 슈피...",
-        "발행: 6시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
+        "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
+        "발행: 9시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(베를린=연합뉴스) 김계연 특파원 = 독일 14∼15세 청소년들이 극우 테러 조직을 만들어 난민시설 공격을 계획한 혐의로 체포됐다고 주간지 슈피...",
+      "detail": "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
       "sources": [
         {
-          "title": "독일 14살도 극우 가담…난민시설 테러 모의 혐의 체포",
-          "url": "https://www.yna.co.kr/view/AKR20261125181000082",
+          "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
+          "url": "https://www.yna.co.kr/view/AKR20261126004200082",
           "media": "연합뉴스 국제"
         }
       ]
@@ -1782,48 +1784,7 @@
       "Germany",
       "DE"
     ],
-    "relatedNews": [
-      {
-        "title": "'친러' 슈뢰더 전 독일 총리, EU 제재에 실직 위기",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125168400082",
-        "summary": "(베를린=연합뉴스) 김계연 특파원 = 최근 러시아 유통업체 이사로 취업한 게르하르트 슈뢰더 전 독일 총리가 유럽연합(EU)이 추진하는 새 러시아..."
-      },
-      {
-        "title": "[쇼츠] 지상전 장갑차가 드론도 요격…독일산 '링스' 우크라이나로",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "11시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125144200704",
-        "summary": "(서울=연합뉴스) 우크라이나군이 독일산 '링스 KF41' 보병전투장갑차(IFV)의 첫 물량을 인수했습니다. 차량을 받은 부대는 보병 지원뿐 아니..."
-      },
-      {
-        "title": "[영상] 우크라, 독일 '링스' 장갑차 첫 인수…러 드론 대응에도 투입",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "12시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125134500704",
-        "summary": "(서울=연합뉴스) 우크라이나군이 독일산 '링스 KF41' 보병전투장갑차(IFV)의 첫 물량을 인수했습니다. 차량을 받은 부대는 보병 지원뿐 아니..."
-      },
-      {
-        "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "42분 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126004200082",
-        "summary": "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일..."
-      },
-      {
-        "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "3시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125095351504",
-        "summary": "(서울·베를린=연합뉴스) 윤보람 기자 김계연 특파원 = 자국 내 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해온 북한이 평양 주재 스..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-fr",
@@ -1836,22 +1797,22 @@
     "lng": 2.3,
     "dx": -65,
     "dy": 15,
-    "title": "프랑스, 우크라 리비아 작전 두둔…\"자위권 행사\"",
-    "shortTitle": "프랑스, 우크라 리비아",
+    "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+    "shortTitle": "스위스 스키에 프랑스",
     "live": {
-      "headline": "프랑스, 우크라 리비아 작전 두둔…\"자위권 행사\"",
-      "time": "4시간 전",
+      "headline": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+      "time": "1일 전",
       "summary": [
-        "[실시간 속보] 프랑스, 우크라 리비아 작전 두둔…\"자위권 행사\"",
-        "(런던=연합뉴스) 김지연 특파원 = 우크라이나가 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것을 두고 프랑스가 우크라이나의 자기방어...",
-        "발행: 4시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+        "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBz",
+        "발행: 1일 전 (구글 뉴스 세계)"
       ],
-      "detail": "(런던=연합뉴스) 김지연 특파원 = 우크라이나가 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것을 두고 프랑스가 우크라이나의 자기방어...",
+      "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQd",
       "sources": [
         {
-          "title": "프랑스, 우크라 리비아 작전 두둔…\"자위권 행사\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125186900085",
-          "media": "연합뉴스 국제"
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "media": "구글 뉴스 세계"
         }
       ]
     },
@@ -1869,32 +1830,7 @@
       "France",
       "FR"
     ],
-    "relatedNews": [
-      {
-        "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "20시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYU..."
-      },
-      {
-        "title": "BNP파리바 \"연준, 12월부터 세 차례 연속 금리 인상 전망\" - 연합인포맥스",
-        "category": "경제·테크",
-        "media": "구글 뉴스 비즈니스",
-        "time": "17시간 전",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84a3JlM2NXd2ludmg5dmlNYWJ5cnA2V2ZwTWE3QzNKakp4NTR3QnZRUXR1Wjg3SHVnVkxjdHlrOGptcVVzMUM5MUdaT1gzclFUM211U2dfX0hVRWV1S2RyVlZ1ZFR0dFFIQTNYdTA5Rl8?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE84a3JlM2NXd2ludmg5dmlNYW..."
-      },
-      {
-        "title": "한국 OECD 가입 30주년…사과나무 심었다",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125183400085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 프랑스 파리의 경제협력개발기구(OECD) 본부에서 한국의 OECD 가입 30주년을 기념하는 사과나무 식수 행..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-it",
@@ -1907,65 +1843,40 @@
     "lng": 12.5,
     "dx": 35,
     "dy": 45,
-    "title": "우크라 편들자니 리비아가 걱정…이탈리아 멜로니 총리 딜레마",
-    "shortTitle": "우크라 편들자니 리비아가",
+    "title": "이탈리아 멜로니 정부의 난민 정책과 EU 내 외교적 입지",
+    "shortTitle": "이탈리아 EU외교입지",
     "live": {
-      "headline": "우크라 편들자니 리비아가 걱정…이탈리아 멜로니 총리 딜레마",
-      "time": "11시간 전",
+      "headline": "이탈리아 멜로니 정부의 난민 정책과 EU 내 외교적 입지",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] 우크라 편들자니 리비아가 걱정…이탈리아 멜로니 총리 딜레마",
-        "(서울=연합뉴스) 현영복 기자 = 우크라이나가 지난 22일 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것이 우크라이나의 강력한 지지...",
-        "발행: 11시간 전 (연합뉴스 국제)"
+        "이탈리아 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(서울=연합뉴스) 현영복 기자 = 우크라이나가 지난 22일 북아프리카의 리비아 항구 인근에서 러시아 선박을 공격한 것이 우크라이나의 강력한 지지...",
+      "detail": "이탈리아 (로마) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "우크라 편들자니 리비아가 걱정…이탈리아 멜로니 총리 딜레마",
-          "url": "https://www.yna.co.kr/view/AKR20261125139200009",
-          "media": "연합뉴스 국제"
+          "title": "이탈리아 (로마) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "이탈리아 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "이탈리아 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "이탈리아 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "이탈리아 (로마) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "이탈리아 (로마)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Italy",
       "IT"
     ],
-    "relatedNews": [
-      {
-        "title": "에르도안, 리비아 동부 지도자와 전격 회동(종합)",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "3시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125158251109",
-        "summary": "(로마=연합뉴스) 민경락 특파원 = 리비아 동부 지역 지도자인 칼리파 하프타르 사령관이 고위급 회의를 위해 튀르키예를 방문했다고 AFP통신 등이..."
-      },
-      {
-        "title": "러 \"연료시장 상황 긴박…휘발유 수출 금지 연장 검토\"",
-        "category": "경제·테크",
-        "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125184300109",
-        "summary": "(로마=연합뉴스) 민경락 특파원 = 우크라이나의 계속된 정유시설 공격으로 러시아의 연료난이 장기화하는 모습이다."
-      },
-      {
-        "title": "튀르키예, 리비아 동부 지도자와 내전 중재 회담",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125158200109",
-        "summary": "(로마=연합뉴스) 민경락 특파원 = 리비아 동부 지역 지도자인 칼리파 하프타르 사령관이 고위급 회의를 위해 튀르키예를 방문했다고 AFP통신 등이..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-es",
@@ -1978,21 +1889,21 @@
     "lng": -3.7,
     "dx": -65,
     "dy": 25,
-    "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
-    "shortTitle": "트럼프 이민정책 비판",
+    "title": "총선 앞둔 스페인 주택난 최대 쟁점…여야 해법 정반대",
+    "shortTitle": "총선 앞둔 스페인 주택난",
     "live": {
-      "headline": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
+      "headline": "총선 앞둔 스페인 주택난 최대 쟁점…여야 해법 정반대",
       "time": "1시간 전",
       "summary": [
-        "[실시간 속보] '트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
-        "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 행정부의 행정 착오로 본국으로 추방됐다가 미국으로 돌아갔던 30대 엘살바도르인이 미국을 ...",
+        "[실시간 속보] 총선 앞둔 스페인 주택난 최대 쟁점…여야 해법 정반대",
+        "(서울=연합뉴스) 박성진 기자 = 스페인의 차기 정부를 결정할 총선이 오는 29일(현지시간) 치러지는 가운데 주택난이 선거의 최대 쟁점이 되고 ...",
         "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 행정부의 행정 착오로 본국으로 추방됐다가 미국으로 돌아갔던 30대 엘살바도르인이 미국을 ...",
+      "detail": "(서울=연합뉴스) 박성진 기자 = 스페인의 차기 정부를 결정할 총선이 오는 29일(현지시간) 치러지는 가운데 주택난이 선거의 최대 쟁점이 되고 ...",
       "sources": [
         {
-          "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
-          "url": "https://www.yna.co.kr/view/AKR20261126003900085",
+          "title": "총선 앞둔 스페인 주택난 최대 쟁점…여야 해법 정반대",
+          "url": "https://www.yna.co.kr/view/AKR20261126067300009",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2013,12 +1924,12 @@
     ],
     "relatedNews": [
       {
-        "title": "스페인 카나리아제도에 하루새 이민자 2천100명…역대 최다",
+        "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "3시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261126001300085",
-        "summary": "(런던=연합뉴스) 김지연 특파원 = 북아프리카 모로코에서 가까운 스페인 카나리아 제도에 지난 24시간 동안 이주민 2천100명이 도착해 역대 최..."
+        "time": "9시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126003900085",
+        "summary": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 행정부의 행정 착오로 본국으로 추방됐다가 미국으로 돌아갔던 30대 엘살바도르인이 미국을 ..."
       }
     ]
   },
@@ -2033,49 +1944,40 @@
     "lng": 4.9,
     "dx": -45,
     "dy": -55,
-    "title": "中·네덜란드, 반도체업체 갈등 속 베이징서 외교장관회담",
-    "shortTitle": "中·네덜란드, 반도체업체",
+    "title": "네덜란드 ASML 초미세 노광장비 수출 통제 및 원전 확대",
+    "shortTitle": "네덜란드 ASML·원전",
     "live": {
-      "headline": "中·네덜란드, 반도체업체 갈등 속 베이징서 외교장관회담",
-      "time": "5시간 전",
+      "headline": "네덜란드 ASML 초미세 노광장비 수출 통제 및 원전 확대",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] 中·네덜란드, 반도체업체 갈등 속 베이징서 외교장관회담",
-        "(베이징=연합뉴스) 정성조 특파원 = 중국 외교 수장이 반도체 업체 소송전 등으로 중국과 갈등을 빚고 있는 네덜란드를 향해 협력 강화의 필요성을...",
-        "발행: 5시간 전 (연합뉴스 국제)"
+        "네덜란드 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(베이징=연합뉴스) 정성조 특파원 = 중국 외교 수장이 반도체 업체 소송전 등으로 중국과 갈등을 빚고 있는 네덜란드를 향해 협력 강화의 필요성을...",
+      "detail": "네덜란드 (암스테르담) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "中·네덜란드, 반도체업체 갈등 속 베이징서 외교장관회담",
-          "url": "https://www.yna.co.kr/view/AKR20261125184400083",
-          "media": "연합뉴스 국제"
+          "title": "네덜란드 (암스테르담) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "네덜란드 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "네덜란드 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "네덜란드 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "네덜란드 (암스테르담) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "네덜란드 (암스테르담)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Netherlands",
       "NL"
     ],
-    "relatedNews": [
-      {
-        "title": "\"ASML에 재앙\"…네덜란드, 美의회 '매치법안'에 초긴장",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "12시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125126300009",
-        "summary": "(서울=연합뉴스) 황정우 기자 = 네덜란드 의회 의원들이 자국 정부에 미국 의회의 초당적 법안인 '하드웨어 기술 통제의 다자간 공조법안'(MAT..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-ch",
@@ -2088,22 +1990,22 @@
     "lng": 7.4,
     "dx": 5,
     "dy": 25,
-    "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
+    "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합) - 연합뉴스",
     "shortTitle": "北, 김여정 담화",
     "live": {
-      "headline": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-      "time": "3시간 전",
+      "headline": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합) - 연합뉴스",
+      "time": "11시간 전",
       "summary": [
-        "[실시간 속보] 北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-        "(서울·베를린=연합뉴스) 윤보람 기자 김계연 특파원 = 자국 내 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해온 북한이 평양 주재 스...",
-        "발행: 3시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합) - 연합뉴스",
+        "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93",
+        "발행: 11시간 전 (구글 뉴스 세계)"
       ],
-      "detail": "(서울·베를린=연합뉴스) 윤보람 기자 김계연 특파원 = 자국 내 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해온 북한이 평양 주재 스...",
+      "detail": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeX",
       "sources": [
         {
-          "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261125095351504",
-          "media": "연합뉴스 국제"
+          "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합) - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
+          "media": "구글 뉴스 세계"
         }
       ]
     },
@@ -2123,18 +2025,10 @@
     ],
     "relatedNews": [
       {
-        "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합) - 연합뉴스",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "3시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdick..."
-      },
-      {
         "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
         "category": "정치·외교",
         "media": "구글 뉴스 세계",
-        "time": "20시간 전",
+        "time": "1일 전",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
         "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYU..."
       }
@@ -2155,11 +2049,11 @@
     "shortTitle": "폴란드, 우크라 접경에",
     "live": {
       "headline": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-      "time": "42분 전",
+      "time": "9시간 전",
       "summary": [
         "[실시간 속보] 폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
         "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
-        "발행: 42분 전 (연합뉴스 국제)"
+        "발행: 9시간 전 (연합뉴스 국제)"
       ],
       "detail": "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 러시아의 공중 도발에 대비해 동부 국경 지대에 비행금지구역을 설정하기로 했다고 로이터통신이 25일...",
       "sources": [
@@ -2184,16 +2078,7 @@
       "Poland",
       "PL"
     ],
-    "relatedNews": [
-      {
-        "title": "폴란드, 내년 초 美 웨스팅하우스와 원전 계약 예정...두산에너빌 수주 기대감 By The Guru - Investing.com 한국어",
-        "category": "정치·외교",
-        "media": "구글 뉴스 테크",
-        "time": "1일 전",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByZEdtbnp4aDlEbjUwcl82ZGNZM0tsMDN3MlJWT0FneVFkYTYtXzNnUkw4RDBGMmJmdllnWlU1QkhDMHRVcHBuUktXb19wbjFqOGhNaU1rejAzc0dScHRPYmoxX1pyaFdXODFCOFZTWmk?oc=5",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFByZEdtbnp4aDlEbjUwcl82ZGNZM0tsMD..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-se",
@@ -2243,43 +2128,43 @@
   },
   {
     "id": "issue-no",
-    "category": "economy",
-    "categoryName": "경제·테크",
-    "color": "#ef4444",
+    "category": "politics",
+    "categoryName": "정치·외교",
+    "color": "#3b82f6",
     "country": "노르웨이 (오슬로)",
     "flag": "🇳🇴",
     "lat": 59.9,
     "lng": 10.7,
     "dx": -55,
     "dy": -65,
-    "title": "노르웨이 국부펀드 운용 전략과 북해 천연가스 공급",
-    "shortTitle": "노르웨이 국부펀드",
+    "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+    "shortTitle": "핵공격 경고에 놀란",
     "live": {
-      "headline": "노르웨이 국부펀드 운용 전략과 북해 천연가스 공급",
-      "time": "글로벌 모니터링",
+      "headline": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+      "time": "18분 전",
       "summary": [
-        "노르웨이 주요 경제·안보 핵심 현안 지속 모니터링",
-        "글로벌 공급망 및 국제 정세 파급 효과 분석",
-        "주요 외신 및 국제기구 정책 대응 동향"
+        "[실시간 속보] 핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+        "(서울=연합뉴스) 신재우 기자 = 러시아가 발트해에서 자국의 이익을 지키기 위해 핵공격도 불사하겠다고 경고하자 핀란드와 노르웨이 정상이 러시아 ...",
+        "발행: 18분 전 (연합뉴스 국제)"
       ],
-      "detail": "노르웨이 (오슬로) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
+      "detail": "(서울=연합뉴스) 신재우 기자 = 러시아가 발트해에서 자국의 이익을 지키기 위해 핵공격도 불사하겠다고 경고하자 핀란드와 노르웨이 정상이 러시아 ...",
       "sources": [
         {
-          "title": "노르웨이 (오슬로) 공식 현안 브리핑",
-          "url": "https://news.google.com",
-          "media": "글로벌 외신 종합"
+          "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+          "url": "https://www.yna.co.kr/view/AKR20261126096500009",
+          "media": "연합뉴스 국제"
         }
       ]
     },
     "deepDive": {
-      "headline": "노르웨이 핵심 지정학적 리포트",
-      "tag": "심층 기획",
+      "headline": "노르웨이 주요 현안 심층 분석 및 지정학적 리포트",
+      "tag": "글로벌 심층 브리핑",
       "summary": [
-        "지역 안보 및 통상 협력 현황",
-        "글로벌 원자재 및 에너지 수급 동향",
-        "향후 정책 전망과 리스크 관리"
+        "노르웨이 관련 대외 통상 및 안보 파급 효과 점검",
+        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
+        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
       ],
-      "detail": "노르웨이 (오슬로)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
+      "detail": "노르웨이 (오슬로) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
     },
     "countryAliases": [
       "Norway",
@@ -2298,34 +2183,34 @@
     "lng": 24.9,
     "dx": 65,
     "dy": -65,
-    "title": "핀란드 러시아 국경 통제 강화 및 동유럽 방위 태세",
-    "shortTitle": "핀란드 동부국경통제",
+    "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+    "shortTitle": "핵공격 경고에 놀란",
     "live": {
-      "headline": "핀란드 러시아 국경 통제 강화 및 동유럽 방위 태세",
-      "time": "글로벌 모니터링",
+      "headline": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+      "time": "18분 전",
       "summary": [
-        "핀란드 주요 경제·안보 핵심 현안 지속 모니터링",
-        "글로벌 공급망 및 국제 정세 파급 효과 분석",
-        "주요 외신 및 국제기구 정책 대응 동향"
+        "[실시간 속보] 핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+        "(서울=연합뉴스) 신재우 기자 = 러시아가 발트해에서 자국의 이익을 지키기 위해 핵공격도 불사하겠다고 경고하자 핀란드와 노르웨이 정상이 러시아 ...",
+        "발행: 18분 전 (연합뉴스 국제)"
       ],
-      "detail": "핀란드 (헬싱키) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
+      "detail": "(서울=연합뉴스) 신재우 기자 = 러시아가 발트해에서 자국의 이익을 지키기 위해 핵공격도 불사하겠다고 경고하자 핀란드와 노르웨이 정상이 러시아 ...",
       "sources": [
         {
-          "title": "핀란드 (헬싱키) 공식 현안 브리핑",
-          "url": "https://news.google.com",
-          "media": "글로벌 외신 종합"
+          "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+          "url": "https://www.yna.co.kr/view/AKR20261126096500009",
+          "media": "연합뉴스 국제"
         }
       ]
     },
     "deepDive": {
-      "headline": "핀란드 핵심 지정학적 리포트",
-      "tag": "심층 기획",
+      "headline": "핀란드 주요 현안 심층 분석 및 지정학적 리포트",
+      "tag": "글로벌 심층 브리핑",
       "summary": [
-        "지역 안보 및 통상 협력 현황",
-        "글로벌 원자재 및 에너지 수급 동향",
-        "향후 정책 전망과 리스크 관리"
+        "핀란드 관련 대외 통상 및 안보 파급 효과 점검",
+        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
+        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
       ],
-      "detail": "핀란드 (헬싱키)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
+      "detail": "핀란드 (헬싱키) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
     },
     "countryAliases": [
       "Finland",
@@ -2390,21 +2275,21 @@
     "lng": 32.8,
     "dx": 45,
     "dy": 35,
-    "title": "에르도안, 리비아 동부 지도자와 전격 회동(종합)",
-    "shortTitle": "에르도안, 리비아 동부",
+    "title": "[쇼츠] 드론서 바다속으로 '풍덩'…튀르키예 '아킨지' 경어뢰 투하 성공",
+    "shortTitle": "드론서 바다속으로",
     "live": {
-      "headline": "에르도안, 리비아 동부 지도자와 전격 회동(종합)",
-      "time": "3시간 전",
+      "headline": "[쇼츠] 드론서 바다속으로 '풍덩'…튀르키예 '아킨지' 경어뢰 투하 성공",
+      "time": "1시간 전",
       "summary": [
-        "[실시간 속보] 에르도안, 리비아 동부 지도자와 전격 회동(종합)",
-        "(로마=연합뉴스) 민경락 특파원 = 리비아 동부 지역 지도자인 칼리파 하프타르 사령관이 고위급 회의를 위해 튀르키예를 방문했다고 AFP통신 등이...",
-        "발행: 3시간 전 (연합뉴스 국제)"
+        "[실시간 속보] [쇼츠] 드론서 바다속으로 '풍덩'…튀르키예 '아킨지' 경어뢰 투하 성공",
+        "(서울=연합뉴스) 튀르키예의 무인 전투기 '바이락타르 아킨지'(AKINCI)가 자국산 경어뢰 '오르카'(ORKA)를 바다에 떨어뜨리는 시험에 성...",
+        "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(로마=연합뉴스) 민경락 특파원 = 리비아 동부 지역 지도자인 칼리파 하프타르 사령관이 고위급 회의를 위해 튀르키예를 방문했다고 AFP통신 등이...",
+      "detail": "(서울=연합뉴스) 튀르키예의 무인 전투기 '바이락타르 아킨지'(AKINCI)가 자국산 경어뢰 '오르카'(ORKA)를 바다에 떨어뜨리는 시험에 성...",
       "sources": [
         {
-          "title": "에르도안, 리비아 동부 지도자와 전격 회동(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261125158251109",
+          "title": "[쇼츠] 드론서 바다속으로 '풍덩'…튀르키예 '아킨지' 경어뢰 투하 성공",
+          "url": "https://www.yna.co.kr/view/AKR20261126086200704",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2426,18 +2311,18 @@
     ],
     "relatedNews": [
       {
-        "title": "튀르키예, 리비아 동부 지도자와 내전 중재 회담",
+        "title": "[영상] 지상타격 넘어 대잠전까지…튀르키예 드론서 경어뢰 투하 성공",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125158200109",
-        "summary": "(로마=연합뉴스) 민경락 특파원 = 리비아 동부 지역 지도자인 칼리파 하프타르 사령관이 고위급 회의를 위해 튀르키예를 방문했다고 AFP통신 등이..."
+        "time": "1시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126079400704",
+        "summary": "(서울=연합뉴스) 튀르키예의 무인 전투기 '바이락타르 아킨지'(AKINCI)가 자국산 경어뢰 '오르카'(ORKA)를 바다에 떨어뜨리는 시험에 성..."
       },
       {
         "title": "COP31 '기후 합의' 불발에…튀르키예 \"EU의 타협 없는 태도 때문\" - 뉴스1",
         "category": "환경·재난",
         "media": "구글 뉴스 세계",
-        "time": "8시간 전",
+        "time": "16시간 전",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mSlNBM3RBVFM3bWlPWDFmT1ZtaVQySHh3dWU3SXBlb2Z3bG1wUXhnQkJFX2MtTGxYbGxoUUJyOHNraUhPQkZLQ1U4MUNMLUt3VzU2b1lNajdfMFBsUTRkQ0NB?oc=5",
         "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mSlNBM3RBVFM3bWlPWDFmT1..."
       }
@@ -2454,21 +2339,21 @@
     "lng": 35.2,
     "dx": -55,
     "dy": 35,
-    "title": "네타냐후 부패 혐의 벗나…법원, 핵심 사건 공소 취하 권고(종합)",
-    "shortTitle": "네타냐후 부패 혐의",
+    "title": "네타냐후 \"재판은 무너졌다\"…부패 재판 종결 촉구",
+    "shortTitle": "네타냐후 재판은",
     "live": {
-      "headline": "네타냐후 부패 혐의 벗나…법원, 핵심 사건 공소 취하 권고(종합)",
-      "time": "5시간 전",
+      "headline": "네타냐후 \"재판은 무너졌다\"…부패 재판 종결 촉구",
+      "time": "7시간 전",
       "summary": [
-        "[실시간 속보] 네타냐후 부패 혐의 벗나…법원, 핵심 사건 공소 취하 권고(종합)",
-        "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 베냐민 네타냐후 총리의 부패 혐의 재판에서 가장 중대한 혐의에 대해 유죄 판결 가능성이 희...",
-        "발행: 5시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 네타냐후 \"재판은 무너졌다\"…부패 재판 종결 촉구",
+        "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 부패 재판의 주요 형사 혐의 대부분을 철회할 것을 권고하자 베냐민 네타냐후 총리는 자신의 ...",
+        "발행: 7시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 베냐민 네타냐후 총리의 부패 혐의 재판에서 가장 중대한 혐의에 대해 유죄 판결 가능성이 희...",
+      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 부패 재판의 주요 형사 혐의 대부분을 철회할 것을 권고하자 베냐민 네타냐후 총리는 자신의 ...",
       "sources": [
         {
-          "title": "네타냐후 부패 혐의 벗나…법원, 핵심 사건 공소 취하 권고(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261125178851079",
+          "title": "네타냐후 \"재판은 무너졌다\"…부패 재판 종결 촉구",
+          "url": "https://www.yna.co.kr/view/AKR20261126006600079",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2489,43 +2374,34 @@
       "Palestine",
       "PS"
     ],
-    "relatedNews": [
-      {
-        "title": "네타냐후 부패혐의 벗나…이스라엘 법원, 핵심사건 공소취하 권고",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "7시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125178800079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 베냐민 네타냐후 총리의 부패 혐의 재판에서 가장 중대한 혐의에 대해 유죄 판결 가능성이 희..."
-      }
-    ]
+    "relatedNews": []
   },
   {
     "id": "issue-ir",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "이란 (테헤란)",
     "flag": "🇮🇷",
     "lat": 35.7,
     "lng": 51.4,
     "dx": -25,
     "dy": -40,
-    "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-    "shortTitle": "이란군 호르무즈서",
+    "title": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+    "shortTitle": "호르무즈 봉쇄 후",
     "live": {
-      "headline": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-      "time": "2시간 전",
+      "headline": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+      "time": "1시간 전",
       "summary": [
-        "[실시간 속보] 이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-        "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협에서 액화천연가스(LNG) 운반선과 유조선이 기뢰와 접촉해 화재가 발생했다고 이란군이 25일(...",
-        "발행: 2시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+        "(부산=연합뉴스) 박성제 기자 = 호르무즈 해협 봉쇄 이후 21번째 한국 유조선이 우회로인 홍해를 경유해 국내로 원유를 운송 중이다.",
+        "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협에서 액화천연가스(LNG) 운반선과 유조선이 기뢰와 접촉해 화재가 발생했다고 이란군이 25일(...",
+      "detail": "(부산=연합뉴스) 박성제 기자 = 호르무즈 해협 봉쇄 이후 21번째 한국 유조선이 우회로인 홍해를 경유해 국내로 원유를 운송 중이다.",
       "sources": [
         {
-          "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-          "url": "https://www.yna.co.kr/view/AKR20261126001800079",
+          "title": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+          "url": "https://www.yna.co.kr/view/AKR20261126066300051",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2547,73 +2423,65 @@
     ],
     "relatedNews": [
       {
-        "title": "\"이란, 호르무즈 안전통항 대가로 암호화폐 '위장 보험료' 징수\"",
-        "category": "환경·재난",
+        "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\" - 연합뉴스",
+        "category": "정치·외교",
+        "media": "구글 뉴스 세계",
+        "time": "11시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40cjNqQVJ3OUExdkhfVkd6VjVfUnlwQzRWTjB2MWJyQ2d6cWhZTEk5Z19xWG5sNl9rOUI4ZVc4dS1kcDhtelVCZFBEcGxTTnJuejBkTDZVVW9TZWvSAWBBVV95cUxPQUxKakxUT1FhSk9HLUowaDhRelFJZEV3T08yNFdoUnkwY2JnMkx2ZW1Uc1lvc2g5aVhxX1IwMjJ2a3VmSmNEaGVqS25TRktPYkh1MmE3YzRoUm1QZU5VcFU?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE40cjNqQVJ3OUExdkhfVkd6Vj..."
+      },
+      {
+        "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\" - 한국경제",
+        "category": "정치·외교",
+        "media": "구글 뉴스 세계",
+        "time": "1일 전",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NHNYNXJYNGVqWFMwd0luRVNvUG5rMzdSVXdtTkZCRzhhNUt5b2VhVWk1Q2FCcFphaFcyWGlTTEJkWENhSm5NMEJoMzE5VjJ4Z2ZqSURhXzRTUQ?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NHNYNXJYNGVqWFMwd0luRV..."
+      },
+      {
+        "title": "후티, 아덴 턱밑까지 진격…예멘 정부거점 함락 중대기로",
+        "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "8시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125171400079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이란이 호르무즈 해협의 안전한 선박 통항을 보장하는 대가로 일부 해운사들로부터 보험료와 환경부담금 명목의 ..."
+        "time": "3시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126034600009",
+        "summary": "(서울=연합뉴스) 강훈상 기자 = 친이란 예멘 반군 후티가 예멘 정부의 임시 수도 아덴 턱밑까지 진격하면서 현지 주민과 국제 비정부기구(NGO)..."
       },
       {
-        "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
-        "category": "정치·외교",
+        "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+        "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125164000079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 미국의 해상 봉쇄와 강력한 경제 제재로 고전 중인 이란이 미국의 해상 봉쇄를 우려하지 않고 있다면서, 물가..."
-      },
-      {
-        "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\" - MBC 뉴스",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "2시간 전",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hdXJKTVQ3SHVLOHJVcjlyNjFmRFptVzd0TnFxOXlOQ2hXSWNXWjcwRXhQRG9rWUNWcXpXZDNpQUhaYWJ0QU9vcXotVVNVUGhfNFl0YUc0bDl5SW4wVHF6enpSRnVQQUJ0OUxTMHJ6UVpGdkFB0gF0QVVfeXFMTm90VXNNcUN2YjFEWkVEZWFIZHFaNXo5Y3dDS0lwZzlYUnlNdU16aDgzcnNHNE5jREpzaWdYSWNLR0wtaElDQkhrN3BzenVRRnpJN0R3UFoyaGpDTnYwZHN2bHc1OG52dDBOSHJxbGtXLU85ZVc?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9hdXJKTVQ3SHVLOHJVcjlyNj..."
-      },
-      {
-        "title": "미군, 모즈타바 하메네이 ‘참수 작전’ 검토 - 조선일보",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "12시간 전",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnRDcFdsNV82LXZGLVJBb19aZUowdVd1aW1MTUxyM1RxN1llUnhhSW4tVlAxTHNidTVSazNYWHJQMURlRlo1ZUdsUjV0Y0ZadVNpNjhkdnVlaGRSeWtuREJkQWd6ekhTU2FaRk5mRVRNWnJyT3otVDdpb2l2R0x2cUtuSEcxOTJZOXlFN0ZweUhKb1QzT256T0VhY1ZBUQ?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTnRDcFdsNV82LXZGLVJBb1..."
-      },
-      {
-        "title": "히잡 안 쓰고 무대 올랐다고 태형 74대···이란 가수 파라스투 아마디 ‘2년 활동 금지’까지 - 경향신문",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "12시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aSThnTFdqc2lMdkIwQXpFNHpsVUgyTFFWd2RnUlloa01HNUtEX0ZMRHY4Ry1YYWctRlkya0ticnRsQVpJNk8yamF2bzJwQ05GYU14RWZYZ0FrUdIBX0FVX3lxTFBjdEUzN3RnUW5vQUMxYWs5dFA2YW1NVVdONHNpaXFjcGZ6ZllUQmRLNmNCbUZMZnl6dEFLN1N6NEMxNktCMXZlTjFsckxuN3lCbHZPQTNOWllFcE9hYnJV?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aSThnTFdqc2lMdkIwQXpFNH..."
+        "time": "6시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126008300072",
+        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아 최대 정유시설을 공격했다는 소식에 국제유가가 급등했다."
       }
     ]
   },
   {
     "id": "issue-sa",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "사우디 (리야드)",
     "flag": "🇸🇦",
     "lat": 24.7,
     "lng": 46.7,
     "dx": 25,
     "dy": -30,
-    "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-    "shortTitle": "후티 반군, 사우디 경제",
+    "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+    "shortTitle": "국제유가, 후티 사우디",
     "live": {
-      "headline": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-      "time": "10시간 전",
+      "headline": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+      "time": "6시간 전",
       "summary": [
-        "[실시간 속보] 후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-        "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아의 핵심 정유시설과 수도 리야드의 금융지구를 연일 집중적으로 공격하...",
-        "발행: 10시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+        "(뉴욕=연합뉴스) 임수정 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아 최대 정유시설을 공격했다는 소식에 국제유가가 급등했다.",
+        "발행: 6시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아의 핵심 정유시설과 수도 리야드의 금융지구를 연일 집중적으로 공격하...",
+      "detail": "(뉴욕=연합뉴스) 임수정 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아 최대 정유시설을 공격했다는 소식에 국제유가가 급등했다.",
       "sources": [
         {
-          "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-          "url": "https://www.yna.co.kr/view/AKR20261125156500079",
+          "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+          "url": "https://www.yna.co.kr/view/AKR20261126008300072",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2634,49 +2502,49 @@
     ],
     "relatedNews": [
       {
-        "title": "사우디의 꿈 기사회생하나…원유수출 회복세에 전쟁 충격 완화",
+        "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5％↑ - TBS 서울",
         "category": "경제·테크",
-        "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125145000009",
-        "summary": "(서울=연합뉴스) 설원태 기자 = 친이란 예멘 반군 후티의 공격으로 위기에 몰린 사우디아라비아 경제가 활로를 모색하고 있다."
+        "media": "구글 뉴스 세계",
+        "time": "1시간 전",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0U2UHIwcGE3NXM0VUFRNE8xdkg5RWUyVXZDNnBWWU5kVm5NSnQ5QndSZUNLNzBsR3FCbXdFaV8zaFJ5TXh4Qm81U0VRMS14bHI5aUtXcWg2bDdQaDZ3a2dQT1prc0ZhZWZ4VFN5TWlUTVZrR01fUUZQUF85ZXROUFJ3V29ZZw?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0U2UHIwcGE3NXM0VUFRNE..."
       },
       {
-        "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적 - 연합뉴스",
-        "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "10시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISWZaYmZmQklKREJmY2Ytb2pSU21DWTBXS25ObklvVTgxdnNGNHpWODBuTXZaQTRZUV9YZGRwdmxpcXNYX1NTNzJEYmFxclVSTFJIcklrWk1sVFHSAWBBVV95cUxOVG05V01uTDVlOFVwcDctZ2lmeWNlSjZvTkREZFFJa0p0RzhfOGhYVE9WV2l4dkdlNGNHQ1ZIbjllVG91dXRSNzYwZlRiVk45Q0JkSnRUWUFVRWRUUEtDUEM?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISWZaYmZmQklKREJmY2Ytb2..."
+        "title": "한-사우디, 원유 수급·비축시설 증설 등 협력방안 논의 - KBS 뉴스",
+        "category": "경제·테크",
+        "media": "구글 뉴스 비즈니스",
+        "time": "1시간 전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSnF6NGQ3LW41VlYxeEUzdHJKanVvRkhZU19vQkxKOHhKZjVLRUUyQ2RsUERhejNNVzl5SVViT09ma2kwOTlmbTczeXRCd24zLWlDZUMwdUdzVVk?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSnF6NGQ3LW41VlYxeEUzdH..."
       }
     ]
   },
   {
     "id": "issue-ye",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "예멘 (사나)",
     "flag": "🇾🇪",
     "lat": 15.3,
     "lng": 44.2,
     "dx": -30,
     "dy": 25,
-    "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-    "shortTitle": "후티 반군, 사우디 경제",
+    "title": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+    "shortTitle": "호르무즈 봉쇄 후",
     "live": {
-      "headline": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-      "time": "10시간 전",
+      "headline": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+      "time": "1시간 전",
       "summary": [
-        "[실시간 속보] 후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-        "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아의 핵심 정유시설과 수도 리야드의 금융지구를 연일 집중적으로 공격하...",
-        "발행: 10시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+        "(부산=연합뉴스) 박성제 기자 = 호르무즈 해협 봉쇄 이후 21번째 한국 유조선이 우회로인 홍해를 경유해 국내로 원유를 운송 중이다.",
+        "발행: 1시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아의 핵심 정유시설과 수도 리야드의 금융지구를 연일 집중적으로 공격하...",
+      "detail": "(부산=연합뉴스) 박성제 기자 = 호르무즈 해협 봉쇄 이후 21번째 한국 유조선이 우회로인 홍해를 경유해 국내로 원유를 운송 중이다.",
       "sources": [
         {
-          "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-          "url": "https://www.yna.co.kr/view/AKR20261125156500079",
+          "title": "호르무즈 봉쇄 후 21번째 한국 선박, 홍해 통과해 원유 수송",
+          "url": "https://www.yna.co.kr/view/AKR20261126066300051",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2697,28 +2565,36 @@
     ],
     "relatedNews": [
       {
-        "title": "[쇼츠] 아덴 함락되나…후티, 60㎞ 앞까지 진격",
+        "title": "후티, 아덴 턱밑까지 진격…예멘 정부거점 함락 중대기로",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125152500704",
-        "summary": "(서울=연합뉴스) 예멘 정부군의 임시 수도 아덴이 친이란 반군 후티의 공세로 위협받고 있습니다."
+        "time": "3시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126034600009",
+        "summary": "(서울=연합뉴스) 강훈상 기자 = 친이란 예멘 반군 후티가 예멘 정부의 임시 수도 아덴 턱밑까지 진격하면서 현지 주민과 국제 비정부기구(NGO)..."
       },
       {
-        "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적 - 연합뉴스",
+        "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
         "category": "정치·외교",
-        "media": "구글 뉴스 세계",
-        "time": "10시간 전",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISWZaYmZmQklKREJmY2Ytb2pSU21DWTBXS25ObklvVTgxdnNGNHpWODBuTXZaQTRZUV9YZGRwdmxpcXNYX1NTNzJEYmFxclVSTFJIcklrWk1sVFHSAWBBVV95cUxOVG05V01uTDVlOFVwcDctZ2lmeWNlSjZvTkREZFFJa0p0RzhfOGhYVE9WV2l4dkdlNGNHQ1ZIbjllVG91dXRSNzYwZlRiVk45Q0JkSnRUWUFVRWRUUEtDUEM?oc=5",
-        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISWZaYmZmQklKREJmY2Ytb2..."
+        "media": "연합뉴스 국제",
+        "time": "5시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261124123800898",
+        "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류..."
       },
       {
-        "title": "사우디의 꿈 기사회생하나…원유수출 회복세에 전쟁 충격 완화",
+        "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
         "category": "경제·테크",
         "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125145000009",
-        "summary": "(서울=연합뉴스) 설원태 기자 = 친이란 예멘 반군 후티의 공격으로 위기에 몰린 사우디아라비아 경제가 활로를 모색하고 있다."
+        "time": "6시간 전",
+        "url": "https://www.yna.co.kr/view/AKR20261126008300072",
+        "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아 최대 정유시설을 공격했다는 소식에 국제유가가 급등했다."
+      },
+      {
+        "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5％↑ - TBS 서울",
+        "category": "경제·테크",
+        "media": "구글 뉴스 세계",
+        "time": "1시간 전",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0U2UHIwcGE3NXM0VUFRNE8xdkg5RWUyVXZDNnBWWU5kVm5NSnQ5QndSZUNLNzBsR3FCbXdFaV8zaFJ5TXh4Qm81U0VRMS14bHI5aUtXcWg2bDdQaDZ3a2dQT1prc0ZhZWZ4VFN5TWlUTVZrR01fUUZQUF85ZXROUFJ3V29ZZw?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0U2UHIwcGE3NXM0VUFRNE..."
       }
     ]
   },
@@ -2871,34 +2747,34 @@
     "lng": 51.5,
     "dx": 30,
     "dy": -20,
-    "title": "한화에어로, 자주도하장비 '수룡' 수출길 열려…\"軍전력화 성과\"(종합)",
-    "shortTitle": "한화에어로, 자주도하장비",
+    "title": "카타르 LNG 장기 공급 계약 확대 및 중동 평화 중재",
+    "shortTitle": "카타르 LNG공급·중재",
     "live": {
-      "headline": "한화에어로, 자주도하장비 '수룡' 수출길 열려…\"軍전력화 성과\"(종합)",
-      "time": "13시간 전",
+      "headline": "카타르 LNG 장기 공급 계약 확대 및 중동 평화 중재",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] 한화에어로, 자주도하장비 '수룡' 수출길 열려…\"軍전력화 성과\"(종합)",
-        "(서울=연합뉴스) 장하나 기자 = 한화에어로스페이스가 자주도하장비 '수룡'(KM3)의 해외국가 수출 권한을 확보했다. 이에 따라 해외 원제작업체...",
-        "발행: 13시간 전 (연합뉴스 경제)"
+        "카타르 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(서울=연합뉴스) 장하나 기자 = 한화에어로스페이스가 자주도하장비 '수룡'(KM3)의 해외국가 수출 권한을 확보했다. 이에 따라 해외 원제작업체...",
+      "detail": "카타르 (도하) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "한화에어로, 자주도하장비 '수룡' 수출길 열려…\"軍전력화 성과\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261125038251003",
-          "media": "연합뉴스 경제"
+          "title": "카타르 (도하) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "카타르 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "카타르 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "카타르 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "카타르 (도하) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "카타르 (도하)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "Qatar",
@@ -2917,21 +2793,21 @@
     "lng": 31.2,
     "dx": -55,
     "dy": -30,
-    "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-    "shortTitle": "이란군 호르무즈서",
+    "title": "이집트 카이로 외곽도로서 유조차 충돌 화재…최소 30명 사망",
+    "shortTitle": "이집트 카이로 외곽도로서",
     "live": {
-      "headline": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-      "time": "2시간 전",
+      "headline": "이집트 카이로 외곽도로서 유조차 충돌 화재…최소 30명 사망",
+      "time": "6시간 전",
       "summary": [
-        "[실시간 속보] 이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-        "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협에서 액화천연가스(LNG) 운반선과 유조선이 기뢰와 접촉해 화재가 발생했다고 이란군이 25일(...",
-        "발행: 2시간 전 (연합뉴스 국제)"
+        "[실시간 속보] 이집트 카이로 외곽도로서 유조차 충돌 화재…최소 30명 사망",
+        "(카이로=연합뉴스) 김상훈 특파원 = 이집트 수도 카이로를 둘러싼 고속도로에서 유조차 충돌 사고로 대형 화재가 발생해 최소 30명이 숨졌다고 이...",
+        "발행: 6시간 전 (연합뉴스 국제)"
       ],
-      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협에서 액화천연가스(LNG) 운반선과 유조선이 기뢰와 접촉해 화재가 발생했다고 이란군이 25일(...",
+      "detail": "(카이로=연합뉴스) 김상훈 특파원 = 이집트 수도 카이로를 둘러싼 고속도로에서 유조차 충돌 사고로 대형 화재가 발생해 최소 30명이 숨졌다고 이...",
       "sources": [
         {
-          "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-          "url": "https://www.yna.co.kr/view/AKR20261126001800079",
+          "title": "이집트 카이로 외곽도로서 유조차 충돌 화재…최소 30명 사망",
+          "url": "https://www.yna.co.kr/view/AKR20261126007300079",
           "media": "연합뉴스 국제"
         }
       ]
@@ -2952,86 +2828,62 @@
     ],
     "relatedNews": [
       {
-        "title": "네타냐후 부패 혐의 벗나…법원, 핵심 사건 공소 취하 권고(종합)",
+        "title": "이집트 카이로 외곽 도로서 유조차 충돌 화재‥최소 30명 사망 - MBC 뉴스",
         "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "5시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125178851079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 베냐민 네타냐후 총리의 부패 혐의 재판에서 가장 중대한 혐의에 대해 유죄 판결 가능성이 희..."
+        "media": "구글 뉴스 세계",
+        "time": "2시간 전",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QamhqM3oycnV0amhGdGVUMGgzQTllN0FPVzRMX05Ja28wcUx4ampPWHZtTENNT29uYTJDd2xSdFRsOE5HaDJ6YXFlQkZjWWNNSHBsTmpIR2NBTU9SZmM4U0ZtdUd0RWlGSllnbkdNMjhUN3o20gF0QVVfeXFMUHhNMXlSb2RmTGlYTV85YTJHQW5obTk4VEQxb2RBVG9IWEh4MGtwMnFLdnJIa2JuVmU4Yk4wX0V0SUxYZUxySXRKOGU4NFp0VFBEOGtJTnl5cEh0MXlmUTVudDRIYncyTjQ2bmF2d2x1SUFYTzU?oc=5",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9QamhqM3oycnV0amhGdGVUMG..."
       },
       {
-        "title": "네타냐후 부패혐의 벗나…이스라엘 법원, 핵심사건 공소취하 권고",
+        "title": "네타냐후 \"재판은 무너졌다\"…부패 재판 종결 촉구",
         "category": "정치·외교",
         "media": "연합뉴스 국제",
         "time": "7시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125178800079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 베냐민 네타냐후 총리의 부패 혐의 재판에서 가장 중대한 혐의에 대해 유죄 판결 가능성이 희..."
-      },
-      {
-        "title": "\"이란, 호르무즈 안전통항 대가로 암호화폐 '위장 보험료' 징수\"",
-        "category": "환경·재난",
-        "media": "연합뉴스 국제",
-        "time": "8시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125171400079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이란이 호르무즈 해협의 안전한 선박 통항을 보장하는 대가로 일부 해운사들로부터 보험료와 환경부담금 명목의 ..."
-      },
-      {
-        "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "9시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125164000079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 미국의 해상 봉쇄와 강력한 경제 제재로 고전 중인 이란이 미국의 해상 봉쇄를 우려하지 않고 있다면서, 물가..."
-      },
-      {
-        "title": "후티 반군, 사우디 경제 심장부 잇단 공격…금융지구 연일 표적",
-        "category": "정치·외교",
-        "media": "연합뉴스 국제",
-        "time": "10시간 전",
-        "url": "https://www.yna.co.kr/view/AKR20261125156500079",
-        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아의 핵심 정유시설과 수도 리야드의 금융지구를 연일 집중적으로 공격하..."
+        "url": "https://www.yna.co.kr/view/AKR20261126006600079",
+        "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 부패 재판의 주요 형사 혐의 대부분을 철회할 것을 권고하자 베냐민 네타냐후 총리는 자신의 ..."
       }
     ]
   },
   {
     "id": "issue-za",
-    "category": "politics",
-    "categoryName": "정치·외교",
-    "color": "#3b82f6",
+    "category": "economy",
+    "categoryName": "경제·테크",
+    "color": "#ef4444",
     "country": "남아공 (프리토리아)",
     "flag": "🇿🇦",
     "lat": -25.7,
     "lng": 28.2,
     "dx": 45,
     "dy": 35,
-    "title": "'농장 돈다발 게이트' 남아공 대통령, 탄핵 위기 일단 벗어나",
-    "shortTitle": "농장 돈다발 게이트",
+    "title": "남아공 연립정부 출범 이후 전력난 해소와 경제 개혁",
+    "shortTitle": "남아공 연정·경제개혁",
     "live": {
-      "headline": "'농장 돈다발 게이트' 남아공 대통령, 탄핵 위기 일단 벗어나",
-      "time": "2시간 전",
+      "headline": "남아공 연립정부 출범 이후 전력난 해소와 경제 개혁",
+      "time": "글로벌 모니터링",
       "summary": [
-        "[실시간 속보] '농장 돈다발 게이트' 남아공 대통령, 탄핵 위기 일단 벗어나",
-        "(요하네스버그=연합뉴스) 나확진 특파원 = 시릴 라마포사 남아프리카공화국 대통령이 탄핵 위기에서 일단 벗어나게 됐다.",
-        "발행: 2시간 전 (연합뉴스 국제)"
+        "남아공 주요 경제·안보 핵심 현안 지속 모니터링",
+        "글로벌 공급망 및 국제 정세 파급 효과 분석",
+        "주요 외신 및 국제기구 정책 대응 동향"
       ],
-      "detail": "(요하네스버그=연합뉴스) 나확진 특파원 = 시릴 라마포사 남아프리카공화국 대통령이 탄핵 위기에서 일단 벗어나게 됐다.",
+      "detail": "남아공 (프리토리아) 관련 주요 정책과 경제 동향을 24시간 실시간 모니터링하고 있습니다.",
       "sources": [
         {
-          "title": "'농장 돈다발 게이트' 남아공 대통령, 탄핵 위기 일단 벗어나",
-          "url": "https://www.yna.co.kr/view/AKR20261126001400099",
-          "media": "연합뉴스 국제"
+          "title": "남아공 (프리토리아) 공식 현안 브리핑",
+          "url": "https://news.google.com",
+          "media": "글로벌 외신 종합"
         }
       ]
     },
     "deepDive": {
-      "headline": "남아공 주요 현안 심층 분석 및 지정학적 리포트",
-      "tag": "글로벌 심층 브리핑",
+      "headline": "남아공 핵심 지정학적 리포트",
+      "tag": "심층 기획",
       "summary": [
-        "남아공 관련 대외 통상 및 안보 파급 효과 점검",
-        "동아시아 및 글로벌 공급망에 미치는 영향 분석",
-        "주요 정책 당국 및 국제기구 대응 동향 모니터링"
+        "지역 안보 및 통상 협력 현황",
+        "글로벌 원자재 및 에너지 수급 동향",
+        "향후 정책 전망과 리스크 관리"
       ],
-      "detail": "남아공 (프리토리아) 관련 최신 동향은 글로벌 경제 및 안보 구도에 중대한 영향을 미치고 있습니다."
+      "detail": "남아공 (프리토리아)의 전략적 위치와 경제적 영향력에 대한 분석 리포트입니다."
     },
     "countryAliases": [
       "South Africa",
